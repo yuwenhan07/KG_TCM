@@ -12,11 +12,19 @@ driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "1qaz2wsx"
 # Query Neo4j and build a graph
 def build_graph(symptom):
     with driver.session() as session:
+        # query = """
+        #     MATCH (fj:方剂)-[:包含]->(fn:方名)-[:功能主治]->(gn:功能主治)
+        #     WHERE gn.name CONTAINS $symptom
+        #     MATCH (fn)-[:配方]->(cf:处方)-[:中药组成]->(herb:中药名)
+        #     RETURN fj, fn, gn, cf, herb
+        # """
         query = """
-            MATCH (fj:方剂)-[:包含]->(fn:方名)-[:功能主治]->(gn:功能主治)
-            WHERE gn.name CONTAINS $symptom
-            MATCH (fn)-[:配方]->(cf:处方)-[:中药组成]->(herb:中药名)
-            RETURN fj, fn, gn, cf, herb
+        MATCH (fj:方剂)-[:包含]->(fn:方名)-[:功能主治]->(gn:功能主治)
+        WHERE gn.name CONTAINS $symptom
+        MATCH (fn)-[:配方]->(cf:处方)
+        WITH DISTINCT fj, fn, gn, cf
+        MATCH (cf)-[:中药组成]->(herb:中药名)
+        RETURN fj, fn, gn, cf, herb
         """
         result = list(session.run(query, symptom=symptom))
         if not result:
@@ -39,6 +47,12 @@ def build_graph(symptom):
             }
             ''')
         nodes = set()
+        edges = set()
+        def add_edge(source, target, label):
+            edge_key = (source, target, label)
+            if edge_key not in edges:
+                edges.add(edge_key)
+                net.add_edge(source, target, label=label)
 
         for record in result:
             fj = record['fj']
@@ -72,10 +86,10 @@ def build_graph(symptom):
             id_cf = add_node(cf, "处方")
             id_herb = add_node(herb, "中药名")
 
-            net.add_edge(id_fj, id_fn, label="包含")
-            net.add_edge(id_fn, id_gn, label="功能主治")
-            net.add_edge(id_fn, id_cf, label="配方")
-            net.add_edge(id_cf, id_herb, label="中药组成")
+            add_edge(id_fj, id_fn, "包含")
+            add_edge(id_fn, id_gn, "功能主治")
+            add_edge(id_fn, id_cf, "配方")
+            add_edge(id_cf, id_herb, "中药组成")
 
         query2 = """
             MATCH (fj:方剂)-[:包含]->(fn:方名)-[:功能主治]->(gn:功能主治)
