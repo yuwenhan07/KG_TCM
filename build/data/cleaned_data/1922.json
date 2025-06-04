@@ -1,0 +1,262 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t五积散"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "from",
+    "node_2": "来源\t《仙授理伤续断秘方》；《宋·太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t心腹疼痛"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t理气活血"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t痛经"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t月经不调"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t重症肌无力"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛身寒"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t免疫调节"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t癥瘕"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t身热无汗"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t肩周炎"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性盆腔炎"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t止咳"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t发汗"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t呕吐腹痛"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗感冒"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t化痰消积"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t缠腰火丹"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t解热"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸满恶食"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t项背拘急"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t腰痛"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t祛痰"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t闭经"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t散寒祛湿"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t内伤生冷证"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t抗炎"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风寒"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t产后发热"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t筋痹"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "functions",
+    "node_2": "功能主治\t妇女血气不和"
+  },
+  {
+    "node_1": "方名\t五积散",
+    "relation": "prescription type",
+    "node_2": "处方\t五积散"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t苍术",
+    "weight": "二十两(600克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗",
+    "weight": "二十两(600克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳",
+    "weight": "六两(180克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮",
+    "weight": "六两(180克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "三两(90克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t白芷",
+    "weight": "三两(90克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t川芎",
+    "weight": "三两(90克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "三两(90克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "三两(90克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t肉桂",
+    "weight": "三两(90克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "三两(90克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "三两(90克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴",
+    "weight": "四两(120克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t干姜",
+    "weight": "四两(120克)"
+  },
+  {
+    "node_1": "处方\t五积散",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄",
+    "weight": "六两(180克)"
+  }
+]

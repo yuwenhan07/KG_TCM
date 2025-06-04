@@ -1,0 +1,127 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桑菊飲"
+  },
+  {
+    "node_1": "方名\t桑菊飲",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t桑菊飲",
+    "relation": "functions",
+    "node_2": "功能主治\t风温初起"
+  },
+  {
+    "node_1": "方名\t桑菊飲",
+    "relation": "functions",
+    "node_2": "功能主治\t表热轻证"
+  },
+  {
+    "node_1": "方名\t桑菊飲",
+    "relation": "functions",
+    "node_2": "功能主治\t口微渴"
+  },
+  {
+    "node_1": "方名\t桑菊飲",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮数"
+  },
+  {
+    "node_1": "方名\t桑菊飲",
+    "relation": "functions",
+    "node_2": "功能主治\t身热不甚"
+  },
+  {
+    "node_1": "方名\t桑菊飲",
+    "relation": "functions",
+    "node_2": "功能主治\t但咳"
+  },
+  {
+    "node_1": "方名\t桑菊飲",
+    "relation": "prescription type",
+    "node_2": "处方\t桑菊飲"
+  },
+  {
+    "node_1": "处方\t桑菊飲",
+    "relation": "composition",
+    "node_2": "中药名\t桑叶"
+  },
+  {
+    "node_1": "中药名\t桑叶",
+    "relation": "dose",
+    "node_2": "剂量\t二钱五分（7.5g）"
+  },
+  {
+    "node_1": "处方\t桑菊飲",
+    "relation": "composition",
+    "node_2": "中药名\t菊花"
+  },
+  {
+    "node_1": "中药名\t菊花",
+    "relation": "dose",
+    "node_2": "剂量\t一钱（3g）"
+  },
+  {
+    "node_1": "处方\t桑菊飲",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁"
+  },
+  {
+    "node_1": "中药名\t杏仁",
+    "relation": "dose",
+    "node_2": "剂量\t二钱（6g）"
+  },
+  {
+    "node_1": "处方\t桑菊飲",
+    "relation": "composition",
+    "node_2": "中药名\t连翘"
+  },
+  {
+    "node_1": "中药名\t连翘",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分（5g）"
+  },
+  {
+    "node_1": "处方\t桑菊飲",
+    "relation": "composition",
+    "node_2": "中药名\t薄荷"
+  },
+  {
+    "node_1": "中药名\t薄荷",
+    "relation": "dose",
+    "node_2": "剂量\t八分（2.5g）"
+  },
+  {
+    "node_1": "处方\t桑菊飲",
+    "relation": "composition",
+    "node_2": "中药名\t苦桔梗"
+  },
+  {
+    "node_1": "中药名\t苦桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t二钱（6g）"
+  },
+  {
+    "node_1": "处方\t桑菊飲",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t八分（2.5g）"
+  },
+  {
+    "node_1": "处方\t桑菊飲",
+    "relation": "composition",
+    "node_2": "中药名\t苇根"
+  },
+  {
+    "node_1": "中药名\t苇根",
+    "relation": "dose",
+    "node_2": "剂量\t二钱（6g）"
+  }
+]

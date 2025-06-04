@@ -1,0 +1,59 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t救急稀涎散"
+  },
+  {
+    "node_1": "方名\t救急稀涎散",
+    "relation": "from",
+    "node_2": "来源\t宋·《圣济总录》"
+  },
+  {
+    "node_1": "方名\t救急稀涎散",
+    "relation": "functions",
+    "node_2": "功能主治\t痰涎壅盛"
+  },
+  {
+    "node_1": "方名\t救急稀涎散",
+    "relation": "functions",
+    "node_2": "功能主治\t不省人事"
+  },
+  {
+    "node_1": "方名\t救急稀涎散",
+    "relation": "functions",
+    "node_2": "功能主治\t中风闭证"
+  },
+  {
+    "node_1": "方名\t救急稀涎散",
+    "relation": "functions",
+    "node_2": "功能主治\t痰声漉漉"
+  },
+  {
+    "node_1": "方名\t救急稀涎散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑实有力"
+  },
+  {
+    "node_1": "方名\t救急稀涎散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗脑外伤致癫"
+  },
+  {
+    "node_1": "方名\t救急稀涎散",
+    "relation": "prescription type",
+    "node_2": "处方\t救急稀涎散"
+  },
+  {
+    "node_1": "处方\t救急稀涎散",
+    "relation": "composition",
+    "node_2": "中药名\t皂荚",
+    "weight": "四挺(120克)"
+  },
+  {
+    "node_1": "处方\t救急稀涎散",
+    "relation": "composition",
+    "node_2": "中药名\t白矾",
+    "weight": "一两(30克)"
+  }
+]

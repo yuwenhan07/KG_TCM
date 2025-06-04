@@ -1,0 +1,172 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t真武汤"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢沉重疼痛"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温阳利水"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调节肾上腺皮质醇"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白滑"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t畏寒肢厥"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t站立不稳"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t改善肾脏功能"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t浮肿"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t利小便以祛水邪"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t边有齿痕"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t强心利尿"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳喘呕逆"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t泄泻"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腰以下为甚"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心下悸动不宁"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t降血脂"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温脾肾以助阳气"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳虚水泛证"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉细"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质淡胖"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t抗动脉硬化"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身体筋肉瞤动"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头目眩晕"
+  },
+  {
+    "node_1": "方名\t真武汤",
+    "relation": "prescription type",
+    "node_2": "处方\t真武汤"
+  },
+  {
+    "node_1": "处方\t真武汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t真武汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t真武汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜(切)",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t真武汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子(炮，去皮，破八片)",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t真武汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "6g"
+  }
+]

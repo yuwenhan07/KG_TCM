@@ -1,0 +1,127 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t完带汤"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "from",
+    "node_2": "来源\t《傅青主女科》"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脾虚肝郁"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t倦怠便溏"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t补脾疏肝"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t带下色白"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清稀如涕"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t化湿止带"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉缓或濡弱"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t湿浊带下"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色㿠白"
+  },
+  {
+    "node_1": "方名\t完带汤",
+    "relation": "prescription type",
+    "node_2": "处方\t完带汤"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术(土炒)",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t山药(炒)",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍(酒炒)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t车前子(酒炒)",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t苍术(制)",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮",
+    "weight": "2g"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t黑芥穗",
+    "weight": "2g"
+  },
+  {
+    "node_1": "处方\t完带汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "2g"
+  }
+]

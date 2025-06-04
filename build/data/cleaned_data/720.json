@@ -1,0 +1,138 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t天麻钩藤饮"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "from",
+    "node_2": "来源\t《中医内科杂病证治新义》"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t补益肝肾"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t平肝熄风"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t失眠多梦"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t清热活血"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦或数"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t口苦面红"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t肝阳偏亢"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "functions",
+    "node_2": "功能主治\t肝风上扰证"
+  },
+  {
+    "node_1": "方名\t天麻钩藤饮",
+    "relation": "prescription type",
+    "node_2": "处方\t天麻钩藤饮"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t天麻",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t川牛膝",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t钩藤",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t石决明",
+    "weight": "18g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t山栀",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t杜仲",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t益母草",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t桑寄生",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t夜交藤",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t天麻钩藤饮",
+    "relation": "composition",
+    "node_2": "中药名\t朱茯神",
+    "weight": "9g"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t二妙散"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "from",
+    "node_2": "来源\t《丹溪心法》"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔黄腻者"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t两足痿软"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t筋骨疼痛"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t小便短赤"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t湿疹"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t清热燥湿"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t下部湿疮"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热下注证"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热带下"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "functions",
+    "node_2": "功能主治\t足膝红肿疼痛"
+  },
+  {
+    "node_1": "方名\t二妙散",
+    "relation": "prescription type",
+    "node_2": "处方\t二妙散"
+  },
+  {
+    "node_1": "处方\t二妙散",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏炒",
+    "weight": "各15g"
+  },
+  {
+    "node_1": "处方\t二妙散",
+    "relation": "composition",
+    "node_2": "中药名\t苍术米泔水浸炒",
+    "weight": "各15g"
+  }
+]

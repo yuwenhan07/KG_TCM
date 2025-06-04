@@ -1,0 +1,184 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t身痛逐瘀汤"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "from",
+    "node_2": "来源\t《医林改错》"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腰椎间盘突出症"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治痹症有淤血"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风除湿"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗坐骨神经痛"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脑外伤后综合征"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t通痹止痛"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t臂痛"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t活血祛瘀"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t周身疼痛，日久不愈"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t三叉神经痛"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t又有用于治疗面神经麻痹"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腰痛"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气血痹阻肩痛"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t筋膜炎"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t雷诺症"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌紫暗，或有瘀斑"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t末梢神经炎"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t骨关节炎"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉涩弦"
+  },
+  {
+    "node_1": "方名\t身痛逐瘀汤",
+    "relation": "prescription type",
+    "node_2": "处方\t身痛逐瘀汤"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t秦艽",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t红花",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t羌活",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t没药",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t五灵脂",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t香附",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t牛膝",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t身痛逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t地龙",
+    "weight": "6克"
+  }
+]

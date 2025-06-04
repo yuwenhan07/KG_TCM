@@ -1,0 +1,70 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t缩泉丸"
+  },
+  {
+    "node_1": "方名\t缩泉丸",
+    "relation": "from",
+    "node_2": "来源\t《妇人良方》"
+  },
+  {
+    "node_1": "方名\t缩泉丸",
+    "relation": "functions",
+    "node_2": "功能主治\t温肾祛寒"
+  },
+  {
+    "node_1": "方名\t缩泉丸",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗老人、妇女及病后因脏气虚衰引起的小便不禁"
+  },
+  {
+    "node_1": "方名\t缩泉丸",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿遗尿"
+  },
+  {
+    "node_1": "方名\t缩泉丸",
+    "relation": "functions",
+    "node_2": "功能主治\t小便频数"
+  },
+  {
+    "node_1": "方名\t缩泉丸",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗小儿或成人遗尿"
+  },
+  {
+    "node_1": "方名\t缩泉丸",
+    "relation": "functions",
+    "node_2": "功能主治\t缩尿止遗"
+  },
+  {
+    "node_1": "方名\t缩泉丸",
+    "relation": "functions",
+    "node_2": "功能主治\t下元虚冷"
+  },
+  {
+    "node_1": "方名\t缩泉丸",
+    "relation": "prescription type",
+    "node_2": "处方\t缩泉丸"
+  },
+  {
+    "node_1": "处方\t缩泉丸",
+    "relation": "composition",
+    "node_2": "中药名\t益智仁(盐炒)",
+    "weight": "10克"
+  },
+  {
+    "node_1": "处方\t缩泉丸",
+    "relation": "composition",
+    "node_2": "中药名\t乌药",
+    "weight": "10克"
+  },
+  {
+    "node_1": "处方\t缩泉丸",
+    "relation": "composition",
+    "node_2": "中药名\t山药",
+    "weight": "10克"
+  }
+]

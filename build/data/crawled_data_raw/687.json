@@ -1,0 +1,117 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t大陷胸汤"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌上燥而渴"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手不可近"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔黄腻或兼水滑"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t泻热逐水"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心下疼痛"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或从心下至少腹硬满疼痛"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉紧或沉迟有力"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t水热互结之结胸证"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t短气烦躁"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t日晡小有潮热"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便秘结"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t按之硬"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t拒按"
+  },
+  {
+    "node_1": "方名\t大陷胸汤",
+    "relation": "prescription type",
+    "node_2": "处方\t大陷胸汤"
+  },
+  {
+    "node_1": "处方\t大陷胸汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t六两 (10g)"
+  },
+  {
+    "node_1": "处方\t大陷胸汤",
+    "relation": "composition",
+    "node_2": "中药名\t芒硝"
+  },
+  {
+    "node_1": "中药名\t芒硝",
+    "relation": "dose",
+    "node_2": "剂量\t一升 (10g)"
+  },
+  {
+    "node_1": "处方\t大陷胸汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘遂"
+  },
+  {
+    "node_1": "中药名\t甘遂",
+    "relation": "dose",
+    "node_2": "剂量\t一钱匕 (1g)"
+  }
+]

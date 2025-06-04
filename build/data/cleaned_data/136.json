@@ -1,0 +1,126 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t当归四逆加吴茱萸生姜汤"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细欲绝"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头顶痛"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t干呕"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t内有久寒"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外受寒邪"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t散寒降逆"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t素体血虚"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t养血通络"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t吐涎"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足厥逆"
+  },
+  {
+    "node_1": "方名\t当归四逆加吴茱萸生姜汤",
+    "relation": "prescription type",
+    "node_2": "处方\t当归四逆加吴茱萸生姜汤"
+  },
+  {
+    "node_1": "处方\t当归四逆加吴茱萸生姜汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t当归四逆加吴茱萸生姜汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t当归四逆加吴茱萸生姜汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "6克（炙）"
+  },
+  {
+    "node_1": "处方\t当归四逆加吴茱萸生姜汤",
+    "relation": "composition",
+    "node_2": "中药名\t通草",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t当归四逆加吴茱萸生姜汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "9克（去皮）"
+  },
+  {
+    "node_1": "处方\t当归四逆加吴茱萸生姜汤",
+    "relation": "composition",
+    "node_2": "中药名\t细辛",
+    "weight": "1.5克"
+  },
+  {
+    "node_1": "处方\t当归四逆加吴茱萸生姜汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "15克（切）"
+  },
+  {
+    "node_1": "处方\t当归四逆加吴茱萸生姜汤",
+    "relation": "composition",
+    "node_2": "中药名\t吴茱萸",
+    "weight": "5克"
+  },
+  {
+    "node_1": "处方\t当归四逆加吴茱萸生姜汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "5枚（擘）"
+  }
+]

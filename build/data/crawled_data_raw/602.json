@@ -1,0 +1,197 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t紫雪丹"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "from",
+    "node_2": "来源\t《外台秘要》"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t热邪内陷心包"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t尿赤便秘"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数有力或弦"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t热盛动风证"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴引饮"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿热盛惊厥"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红绛"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t高热烦燥"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t唇焦齿燥"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t神昏谵语"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t苔干黄"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "functions",
+    "node_2": "功能主治\t痉厥"
+  },
+  {
+    "node_1": "方名\t紫雪丹",
+    "relation": "prescription type",
+    "node_2": "处方\t紫雪丹"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t石膏"
+  },
+  {
+    "node_1": "中药名\t石膏",
+    "relation": "dose",
+    "node_2": "剂量\t三斤 (各1.5kg)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t寒水石"
+  },
+  {
+    "node_1": "中药名\t寒水石",
+    "relation": "dose",
+    "node_2": "剂量\t三斤 (各1.5kg)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t滑石"
+  },
+  {
+    "node_1": "中药名\t滑石",
+    "relation": "dose",
+    "node_2": "剂量\t三斤 (各1.5kg)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t磁石"
+  },
+  {
+    "node_1": "中药名\t磁石",
+    "relation": "dose",
+    "node_2": "剂量\t三斤 (各1.5kg)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t犀角屑"
+  },
+  {
+    "node_1": "中药名\t犀角屑",
+    "relation": "dose",
+    "node_2": "剂量\t五两 (水牛角浓缩粉代，100g)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t羚羊角屑"
+  },
+  {
+    "node_1": "中药名\t羚羊角屑",
+    "relation": "dose",
+    "node_2": "剂量\t五两 (各150g)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t沉香"
+  },
+  {
+    "node_1": "中药名\t沉香",
+    "relation": "dose",
+    "node_2": "剂量\t五两 (各150g)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t五两 (各150g)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t玄参"
+  },
+  {
+    "node_1": "中药名\t玄参",
+    "relation": "dose",
+    "node_2": "剂量\t一斤 (各500g)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t升麻"
+  },
+  {
+    "node_1": "中药名\t升麻",
+    "relation": "dose",
+    "node_2": "剂量\t一斤 (各500g)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t八两 (240g)"
+  },
+  {
+    "node_1": "处方\t紫雪丹",
+    "relation": "composition",
+    "node_2": "中药名\t丁香"
+  },
+  {
+    "node_1": "中药名\t丁香",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t甘草泻心汤"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t其人下利日数十行"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t医反下之"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t消痞止呕"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心下痞硬而满"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t干呕"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦不得安"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t以致胃气虚弱"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹中雷鸣"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t完谷不化"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治胃虚气结夹湿之痞"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治伤寒中风"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气和胃"
+  },
+  {
+    "node_1": "方名\t甘草泻心汤",
+    "relation": "prescription type",
+    "node_2": "处方\t甘草泻心汤"
+  },
+  {
+    "node_1": "处方\t甘草泻心汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t12克（炙）"
+  },
+  {
+    "node_1": "处方\t甘草泻心汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩"
+  },
+  {
+    "node_1": "中药名\t黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  },
+  {
+    "node_1": "处方\t甘草泻心汤",
+    "relation": "composition",
+    "node_2": "中药名\t干姜"
+  },
+  {
+    "node_1": "中药名\t干姜",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  },
+  {
+    "node_1": "处方\t甘草泻心汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t9克（洗）"
+  },
+  {
+    "node_1": "处方\t甘草泻心汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t12枚（擘）"
+  },
+  {
+    "node_1": "处方\t甘草泻心汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t3克"
+  },
+  {
+    "node_1": "处方\t甘草泻心汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t三两"
+  }
+]

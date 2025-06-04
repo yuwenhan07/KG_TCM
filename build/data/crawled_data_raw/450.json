@@ -1,0 +1,167 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t当归四逆汤"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉细或细而欲绝"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t风湿性关节炎等属血虚寒凝者"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t雷诺病"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t冻疮"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肩周炎"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温经散寒"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足厥寒"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿麻痹"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t无脉症"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床常用于治疗血栓闭塞性脉管炎"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t妇女痛经"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口不渴"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治血虚寒厥证"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t养血通脉"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或腰、股、腿、足、肩臂疼痛"
+  },
+  {
+    "node_1": "方名\t当归四逆汤",
+    "relation": "prescription type",
+    "node_2": "处方\t当归四逆汤"
+  },
+  {
+    "node_1": "处方\t当归四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t三两(12g)"
+  },
+  {
+    "node_1": "处方\t当归四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t三两去皮(9g)"
+  },
+  {
+    "node_1": "处方\t当归四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t三两(9g)"
+  },
+  {
+    "node_1": "处方\t当归四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t细辛"
+  },
+  {
+    "node_1": "中药名\t细辛",
+    "relation": "dose",
+    "node_2": "剂量\t三两(3g)"
+  },
+  {
+    "node_1": "处方\t当归四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t二两(6g)"
+  },
+  {
+    "node_1": "处方\t当归四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t通草"
+  },
+  {
+    "node_1": "中药名\t通草",
+    "relation": "dose",
+    "node_2": "剂量\t二两(6g)"
+  },
+  {
+    "node_1": "处方\t当归四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t9枚"
+  }
+]

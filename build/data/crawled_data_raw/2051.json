@@ -1,0 +1,187 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t厚朴七物汤"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t解肌散寒"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗慢性结肠炎"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹满发热"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗肠胃型感冒"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗消化不良"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗慢性肠胃炎或溃疡"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t和胃泻肠"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮而数"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗幽门水肿"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗胃扭转"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗痔疮"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗肠梗阻"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便不通"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗老年人习惯性便秘（热症）"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t里实已成"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗胃痉挛"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗支气管哮喘"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外感表证未罢"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗急性胰腺炎"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗肠痉挛"
+  },
+  {
+    "node_1": "方名\t厚朴七物汤",
+    "relation": "prescription type",
+    "node_2": "处方\t厚朴七物汤"
+  },
+  {
+    "node_1": "处方\t厚朴七物汤",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴"
+  },
+  {
+    "node_1": "中药名\t厚朴",
+    "relation": "dose",
+    "node_2": "剂量\t半斤(15克)"
+  },
+  {
+    "node_1": "处方\t厚朴七物汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t三两(9克)"
+  },
+  {
+    "node_1": "处方\t厚朴七物汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t三两(9克)"
+  },
+  {
+    "node_1": "处方\t厚朴七物汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t十枚(4枚)"
+  },
+  {
+    "node_1": "处方\t厚朴七物汤",
+    "relation": "composition",
+    "node_2": "中药名\t枳实"
+  },
+  {
+    "node_1": "中药名\t枳实",
+    "relation": "dose",
+    "node_2": "剂量\t五枚(9克)"
+  },
+  {
+    "node_1": "处方\t厚朴七物汤",
+    "relation": "composition",
+    "node_2": "中药名\t挂枝"
+  },
+  {
+    "node_1": "中药名\t挂枝",
+    "relation": "dose",
+    "node_2": "剂量\t二两(6克)"
+  },
+  {
+    "node_1": "处方\t厚朴七物汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t五两(12克)"
+  }
+]

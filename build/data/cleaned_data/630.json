@@ -1,0 +1,85 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t复元活血汤"
+  },
+  {
+    "node_1": "方名\t复元活血汤",
+    "relation": "from",
+    "node_2": "来源\t《医学发明》"
+  },
+  {
+    "node_1": "方名\t复元活血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痛不可忍"
+  },
+  {
+    "node_1": "方名\t复元活血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胁肋瘀肿"
+  },
+  {
+    "node_1": "方名\t复元活血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t跌打损伤"
+  },
+  {
+    "node_1": "方名\t复元活血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t瘀血阻滞证"
+  },
+  {
+    "node_1": "方名\t复元活血汤",
+    "relation": "prescription type",
+    "node_2": "处方\t复元活血汤"
+  },
+  {
+    "node_1": "处方\t复元活血汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t复元活血汤",
+    "relation": "composition",
+    "node_2": "中药名\t瓜蒌根",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t复元活血汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t复元活血汤",
+    "relation": "composition",
+    "node_2": "中药名\t红花",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t复元活血汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t复元活血汤",
+    "relation": "composition",
+    "node_2": "中药名\t穿山甲(炮)",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t复元活血汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄(酒浸)",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t复元活血汤",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁(酒浸，去皮尖，研如泥)",
+    "weight": "15g"
+  }
+]

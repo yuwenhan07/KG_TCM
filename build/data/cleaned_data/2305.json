@@ -1,0 +1,111 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t活络效灵丹"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "from",
+    "node_2": "来源\t《医学衷中参西录》"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t通络止痛"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t心腹疼痛"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t主治气血瘀滞"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t跌打瘀肿"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗骨质增生症"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗高脂血症"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t癥瘕积聚"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗原发性痛经"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗糖尿病周围神经病变"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t活血祛瘀"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t抗炎镇痛作用"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t内外疮疡"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗盆腔炎"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "functions",
+    "node_2": "功能主治\t腿臂疼痛"
+  },
+  {
+    "node_1": "方名\t活络效灵丹",
+    "relation": "prescription type",
+    "node_2": "处方\t活络效灵丹"
+  },
+  {
+    "node_1": "处方\t活络效灵丹",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t活络效灵丹",
+    "relation": "composition",
+    "node_2": "中药名\t丹参",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t活络效灵丹",
+    "relation": "composition",
+    "node_2": "中药名\t生明乳香",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t活络效灵丹",
+    "relation": "composition",
+    "node_2": "中药名\t生明没药",
+    "weight": "15克"
+  }
+]

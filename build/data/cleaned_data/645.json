@@ -1,0 +1,92 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t枳实薤白桂枝汤"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气从胁下冲逆"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t喘气咳唾"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉弦或紧"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t短气"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸痛彻背"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸满而痛"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t拉涨胸怀"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸阳萎靡痰气互结之胸痹"
+  },
+  {
+    "node_1": "方名\t枳实薤白桂枝汤",
+    "relation": "prescription type",
+    "node_2": "处方\t枳实薤白桂枝汤"
+  },
+  {
+    "node_1": "处方\t枳实薤白桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t枳实",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t枳实薤白桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t枳实薤白桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t薤白",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t枳实薤白桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t枳实薤白桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t瓜蒌实",
+    "weight": "12g"
+  }
+]

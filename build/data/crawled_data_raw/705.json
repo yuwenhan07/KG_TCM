@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t四物汤"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "from",
+    "node_2": "来源\t《仙授理伤续断秘方》"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸失眠"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t量少或经闭不行"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t补血调血"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脐腹作痛"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t营血虚滞证"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色无华"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细弦或细涩"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t甚或瘕块硬结"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t妇人月经不调"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头晕目眩"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口唇、爪甲色淡"
+  },
+  {
+    "node_1": "方名\t四物汤",
+    "relation": "prescription type",
+    "node_2": "处方\t四物汤"
+  },
+  {
+    "node_1": "处方\t四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归去芦酒浸炒"
+  },
+  {
+    "node_1": "中药名\t当归去芦酒浸炒",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍"
+  },
+  {
+    "node_1": "中药名\t白芍",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t熟干地黄酒蒸"
+  },
+  {
+    "node_1": "中药名\t熟干地黄酒蒸",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t熟地黄"
+  },
+  {
+    "node_1": "中药名\t熟地黄",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄"
+  },
+  {
+    "node_1": "中药名\t干地黄",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  }
+]

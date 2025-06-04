@@ -1,0 +1,107 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t清络饮"
+  },
+  {
+    "node_1": "方名\t清络饮",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t清络饮",
+    "relation": "functions",
+    "node_2": "功能主治\t昏眩微胀"
+  },
+  {
+    "node_1": "方名\t清络饮",
+    "relation": "functions",
+    "node_2": "功能主治\t身热口渴不甚"
+  },
+  {
+    "node_1": "方名\t清络饮",
+    "relation": "functions",
+    "node_2": "功能主治\t暑伤肺经气分轻证"
+  },
+  {
+    "node_1": "方名\t清络饮",
+    "relation": "functions",
+    "node_2": "功能主治\t头目不清"
+  },
+  {
+    "node_1": "方名\t清络饮",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄白"
+  },
+  {
+    "node_1": "方名\t清络饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡红"
+  },
+  {
+    "node_1": "方名\t清络饮",
+    "relation": "prescription type",
+    "node_2": "处方\t清络饮"
+  },
+  {
+    "node_1": "处方\t清络饮",
+    "relation": "composition",
+    "node_2": "中药名\t鲜荷叶边"
+  },
+  {
+    "node_1": "中药名\t鲜荷叶边",
+    "relation": "dose",
+    "node_2": "剂量\t二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t清络饮",
+    "relation": "composition",
+    "node_2": "中药名\t鲜银花"
+  },
+  {
+    "node_1": "中药名\t鲜银花",
+    "relation": "dose",
+    "node_2": "剂量\t二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t清络饮",
+    "relation": "composition",
+    "node_2": "中药名\t丝瓜皮"
+  },
+  {
+    "node_1": "中药名\t丝瓜皮",
+    "relation": "dose",
+    "node_2": "剂量\t二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t清络饮",
+    "relation": "composition",
+    "node_2": "中药名\t西瓜翠衣"
+  },
+  {
+    "node_1": "中药名\t西瓜翠衣",
+    "relation": "dose",
+    "node_2": "剂量\t二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t清络饮",
+    "relation": "composition",
+    "node_2": "中药名\t鲜扁豆花"
+  },
+  {
+    "node_1": "中药名\t鲜扁豆花",
+    "relation": "dose",
+    "node_2": "剂量\t一枝 (6g)"
+  },
+  {
+    "node_1": "处方\t清络饮",
+    "relation": "composition",
+    "node_2": "中药名\t鲜竹叶心"
+  },
+  {
+    "node_1": "中药名\t鲜竹叶心",
+    "relation": "dose",
+    "node_2": "剂量\t二钱 (6g)"
+  }
+]

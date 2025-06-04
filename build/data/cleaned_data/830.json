@@ -1,0 +1,106 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t五萎汤"
+  },
+  {
+    "node_1": "方名\t五萎汤",
+    "relation": "from",
+    "node_2": "来源\t《医学心悟》卷三"
+  },
+  {
+    "node_1": "方名\t五萎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肺气热则皮毛先痿而为肺鸣"
+  },
+  {
+    "node_1": "方名\t五萎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脾气热则肉痿，肌肤不仁"
+  },
+  {
+    "node_1": "方名\t五萎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t补中祛湿"
+  },
+  {
+    "node_1": "方名\t五萎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肝气热则筋痿，口苦而痉挛"
+  },
+  {
+    "node_1": "方名\t五萎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肾气热则骨痿，腰脊不举，渐冻症"
+  },
+  {
+    "node_1": "方名\t五萎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心气热则脉痿筋纵，不任地"
+  },
+  {
+    "node_1": "方名\t五萎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t养阴清热"
+  },
+  {
+    "node_1": "方名\t五萎汤",
+    "relation": "prescription type",
+    "node_2": "处方\t五萎汤"
+  },
+  {
+    "node_1": "处方\t五萎汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t五萎汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t五萎汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t五萎汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草（炙）",
+    "weight": "1.2g"
+  },
+  {
+    "node_1": "处方\t五萎汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "4.5g"
+  },
+  {
+    "node_1": "处方\t五萎汤",
+    "relation": "composition",
+    "node_2": "中药名\t苡仁",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t五萎汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t五萎汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏",
+    "weight": "1.5g"
+  },
+  {
+    "node_1": "处方\t五萎汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母",
+    "weight": "1.5g"
+  }
+]

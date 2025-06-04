@@ -1,0 +1,115 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t温经摄血汤"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "from",
+    "node_2": "来源\t《傅青主女科》"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治妇人肝肾虚寒"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t固摄冲任"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调和气血"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大补肝肾脾之精血"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t女经水后期"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温肾养肝"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t经来量多者"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t兼散寒解郁"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t量多者"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "functions",
+    "node_2": "功能主治\t经水后期"
+  },
+  {
+    "node_1": "方名\t温经摄血汤",
+    "relation": "prescription type",
+    "node_2": "处方\t温经摄血汤"
+  },
+  {
+    "node_1": "处方\t温经摄血汤",
+    "relation": "composition",
+    "node_2": "中药名\t大熟地",
+    "weight": "30克(九蒸)"
+  },
+  {
+    "node_1": "处方\t温经摄血汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍",
+    "weight": "30克(酒炒)"
+  },
+  {
+    "node_1": "处方\t温经摄血汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎",
+    "weight": "15克(酒洗)"
+  },
+  {
+    "node_1": "处方\t温经摄血汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "15克(土炒)"
+  },
+  {
+    "node_1": "处方\t温经摄血汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "1.5克"
+  },
+  {
+    "node_1": "处方\t温经摄血汤",
+    "relation": "composition",
+    "node_2": "中药名\t五味子",
+    "weight": "0.9克"
+  },
+  {
+    "node_1": "处方\t温经摄血汤",
+    "relation": "composition",
+    "node_2": "中药名\t肉桂",
+    "weight": "1.5克(去粗研)"
+  },
+  {
+    "node_1": "处方\t温经摄血汤",
+    "relation": "composition",
+    "node_2": "中药名\t续断",
+    "weight": "3克"
+  }
+]

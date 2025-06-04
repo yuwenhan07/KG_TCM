@@ -1,0 +1,97 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t益胃汤"
+  },
+  {
+    "node_1": "方名\t益胃汤",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳明温病"
+  },
+  {
+    "node_1": "方名\t益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃阴损伤证"
+  },
+  {
+    "node_1": "方名\t益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口干咽燥"
+  },
+  {
+    "node_1": "方名\t益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细数者"
+  },
+  {
+    "node_1": "方名\t益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红少苔"
+  },
+  {
+    "node_1": "方名\t益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t食欲不振"
+  },
+  {
+    "node_1": "方名\t益胃汤",
+    "relation": "prescription type",
+    "node_2": "处方\t益胃汤"
+  },
+  {
+    "node_1": "处方\t益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t沙参"
+  },
+  {
+    "node_1": "中药名\t沙参",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬"
+  },
+  {
+    "node_1": "中药名\t麦冬",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t冰糖"
+  },
+  {
+    "node_1": "中药名\t冰糖",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t细生地"
+  },
+  {
+    "node_1": "中药名\t细生地",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t玉竹炒香"
+  },
+  {
+    "node_1": "中药名\t玉竹炒香",
+    "relation": "dose",
+    "node_2": "剂量\t4.5g"
+  }
+]

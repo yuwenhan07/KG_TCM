@@ -1,0 +1,162 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t银翘散"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄白或薄黄"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t温病初起"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗或有汗不畅"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t微恶风寒"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t发热"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t咽痛"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮数"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌尖红"
+  },
+  {
+    "node_1": "方名\t银翘散",
+    "relation": "prescription type",
+    "node_2": "处方\t银翘散"
+  },
+  {
+    "node_1": "处方\t银翘散",
+    "relation": "composition",
+    "node_2": "中药名\t连翘"
+  },
+  {
+    "node_1": "中药名\t连翘",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t银翘散",
+    "relation": "composition",
+    "node_2": "中药名\t金银花"
+  },
+  {
+    "node_1": "中药名\t金银花",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t银翘散",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t六钱 (18g)"
+  },
+  {
+    "node_1": "处方\t银翘散",
+    "relation": "composition",
+    "node_2": "中药名\t薄荷"
+  },
+  {
+    "node_1": "中药名\t薄荷",
+    "relation": "dose",
+    "node_2": "剂量\t六钱 (18g)"
+  },
+  {
+    "node_1": "处方\t银翘散",
+    "relation": "composition",
+    "node_2": "中药名\t竹叶"
+  },
+  {
+    "node_1": "中药名\t竹叶",
+    "relation": "dose",
+    "node_2": "剂量\t四钱 (12g)"
+  },
+  {
+    "node_1": "处方\t银翘散",
+    "relation": "composition",
+    "node_2": "中药名\t生甘草"
+  },
+  {
+    "node_1": "中药名\t生甘草",
+    "relation": "dose",
+    "node_2": "剂量\t五钱 (15g)"
+  },
+  {
+    "node_1": "处方\t银翘散",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥穗"
+  },
+  {
+    "node_1": "中药名\t荆芥穗",
+    "relation": "dose",
+    "node_2": "剂量\t四钱 (12g)"
+  },
+  {
+    "node_1": "处方\t银翘散",
+    "relation": "composition",
+    "node_2": "中药名\t淡豆豉"
+  },
+  {
+    "node_1": "中药名\t淡豆豉",
+    "relation": "dose",
+    "node_2": "剂量\t五钱 (15g)"
+  },
+  {
+    "node_1": "处方\t银翘散",
+    "relation": "composition",
+    "node_2": "中药名\t牛蒡子"
+  },
+  {
+    "node_1": "中药名\t牛蒡子",
+    "relation": "dose",
+    "node_2": "剂量\t六钱 (18g)"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t实脾散（实脾饮）"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "from",
+    "node_2": "来源\t《重订严氏济生方》"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t胸腹胀满"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t脾肾阳虚"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉弦而迟者"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t行气利水"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t大便溏薄"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t水气内停之阴水"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t温阳健脾"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t口中不渴"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t手足不温"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "functions",
+    "node_2": "功能主治\t身半以下肿甚"
+  },
+  {
+    "node_1": "方名\t实脾散（实脾饮）",
+    "relation": "prescription type",
+    "node_2": "处方\t实脾散（实脾饮）"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴"
+  },
+  {
+    "node_1": "中药名\t厚朴",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t木瓜"
+  },
+  {
+    "node_1": "中药名\t木瓜",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t草果仁"
+  },
+  {
+    "node_1": "中药名\t草果仁",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t大腹子"
+  },
+  {
+    "node_1": "中药名\t大腹子",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t附子"
+  },
+  {
+    "node_1": "中药名\t附子",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓"
+  },
+  {
+    "node_1": "中药名\t白茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t干姜"
+  },
+  {
+    "node_1": "中药名\t干姜",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t实脾散（实脾饮）",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  }
+]

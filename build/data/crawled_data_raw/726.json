@@ -1,0 +1,187 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t固冲汤"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "from",
+    "node_2": "来源\t《医学衷中参西录》"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头晕肢冷"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t猝然血崩"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脾肾亏虚"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t月经过多"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腰膝酸软"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t冲脉不固证"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t固冲摄血"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气健脾"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t漏下不止"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸气短"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神疲乏力"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t色淡质稀"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉微弱"
+  },
+  {
+    "node_1": "方名\t固冲汤",
+    "relation": "prescription type",
+    "node_2": "处方\t固冲汤"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术(炒)"
+  },
+  {
+    "node_1": "中药名\t白术(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t生黄芪"
+  },
+  {
+    "node_1": "中药名\t生黄芪",
+    "relation": "dose",
+    "node_2": "剂量\t18g"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t龙骨(煅，捣细)"
+  },
+  {
+    "node_1": "中药名\t龙骨(煅，捣细)",
+    "relation": "dose",
+    "node_2": "剂量\t24g"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t牡蛎(煅，捣细)"
+  },
+  {
+    "node_1": "中药名\t牡蛎(煅，捣细)",
+    "relation": "dose",
+    "node_2": "剂量\t24g"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t萸肉(去净核)"
+  },
+  {
+    "node_1": "中药名\t萸肉(去净核)",
+    "relation": "dose",
+    "node_2": "剂量\t24g"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t生杭芍"
+  },
+  {
+    "node_1": "中药名\t生杭芍",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t海螵蛸(捣细)"
+  },
+  {
+    "node_1": "中药名\t海螵蛸(捣细)",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t茜草"
+  },
+  {
+    "node_1": "中药名\t茜草",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t棕边炭"
+  },
+  {
+    "node_1": "中药名\t棕边炭",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t固冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t五倍子(轧细)"
+  },
+  {
+    "node_1": "中药名\t五倍子(轧细)",
+    "relation": "dose",
+    "node_2": "剂量\t1.5g"
+  }
+]

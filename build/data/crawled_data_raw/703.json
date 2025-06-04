@@ -1,0 +1,57 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t生脉散"
+  },
+  {
+    "node_1": "方名\t生脉散",
+    "relation": "from",
+    "node_2": "来源\t《医学启源》"
+  },
+  {
+    "node_1": "方名\t生脉散",
+    "relation": "functions",
+    "node_2": "功能主治\t敛阴止汗"
+  },
+  {
+    "node_1": "方名\t生脉散",
+    "relation": "functions",
+    "node_2": "功能主治\t益气生津"
+  },
+  {
+    "node_1": "方名\t生脉散",
+    "relation": "prescription type",
+    "node_2": "处方\t生脉散"
+  },
+  {
+    "node_1": "处方\t生脉散",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t五分 (9g)"
+  },
+  {
+    "node_1": "处方\t生脉散",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬"
+  },
+  {
+    "node_1": "中药名\t麦门冬",
+    "relation": "dose",
+    "node_2": "剂量\t五分 (9g)"
+  },
+  {
+    "node_1": "处方\t生脉散",
+    "relation": "composition",
+    "node_2": "中药名\t五味子"
+  },
+  {
+    "node_1": "中药名\t五味子",
+    "relation": "dose",
+    "node_2": "剂量\t七粒 (6g)"
+  }
+]

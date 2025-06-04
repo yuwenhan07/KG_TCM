@@ -1,0 +1,87 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t香薷散"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "functions",
+    "node_2": "功能主治\t头重身痛"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "functions",
+    "node_2": "功能主治\t阴暑"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸脘痞闷"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛吐泻"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t香薷散",
+    "relation": "prescription type",
+    "node_2": "处方\t香薷散"
+  },
+  {
+    "node_1": "处方\t香薷散",
+    "relation": "composition",
+    "node_2": "中药名\t香薷"
+  },
+  {
+    "node_1": "中药名\t香薷",
+    "relation": "dose",
+    "node_2": "剂量\t一斤 (500g)"
+  },
+  {
+    "node_1": "处方\t香薷散",
+    "relation": "composition",
+    "node_2": "中药名\t白扁豆"
+  },
+  {
+    "node_1": "中药名\t白扁豆",
+    "relation": "dose",
+    "node_2": "剂量\t半斤 (250g)"
+  },
+  {
+    "node_1": "处方\t香薷散",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴"
+  },
+  {
+    "node_1": "中药名\t厚朴",
+    "relation": "dose",
+    "node_2": "剂量\t半斤 (250g)"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t柴胡加龙骨牡蛎汤"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "from",
+    "node_2": "来源\t汉·《伤寒论》"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t邪陷正伤"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄白"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t重镇安神"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t和解少阳"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t谵语"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t一身尽重"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t通阳泄热"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸满烦惊"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦细"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质淡红"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不可转侧"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t伤寒下后"
+  },
+  {
+    "node_1": "方名\t柴胡加龙骨牡蛎汤",
+    "relation": "prescription type",
+    "node_2": "处方\t柴胡加龙骨牡蛎汤"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "四两(12克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t龙骨",
+    "weight": "一两半(各4.5克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "一两半(各4.5克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "一两半(各4.5克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t去皮桂枝",
+    "weight": "一两半(各4.5克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "一两半(各4.5克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t洗半夏",
+    "weight": "二合半(10克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "一两(3克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t铅丹",
+    "weight": "一两半(1克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄",
+    "weight": "二两(6克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t熬牡蛎",
+    "weight": "一两半(4.5克)"
+  },
+  {
+    "node_1": "处方\t柴胡加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t擘大枣",
+    "weight": "六枚"
+  }
+]

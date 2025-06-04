@@ -1,0 +1,57 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t理中丸"
+  },
+  {
+    "node_1": "方名\t理中丸",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t理中丸",
+    "relation": "prescription type",
+    "node_2": "处方\t理中丸"
+  },
+  {
+    "node_1": "处方\t理中丸",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t三两（9g）"
+  },
+  {
+    "node_1": "处方\t理中丸",
+    "relation": "composition",
+    "node_2": "中药名\t干姜"
+  },
+  {
+    "node_1": "中药名\t干姜",
+    "relation": "dose",
+    "node_2": "剂量\t三两（9g）"
+  },
+  {
+    "node_1": "处方\t理中丸",
+    "relation": "composition",
+    "node_2": "中药名\t甘草（炙）"
+  },
+  {
+    "node_1": "中药名\t甘草（炙）",
+    "relation": "dose",
+    "node_2": "剂量\t三两（9g）"
+  },
+  {
+    "node_1": "处方\t理中丸",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t三两（9g）"
+  }
+]

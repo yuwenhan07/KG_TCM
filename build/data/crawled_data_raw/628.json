@@ -1,0 +1,307 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t鳖甲煎丸"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "from",
+    "node_2": "来源\t《金匱要略》"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t女子月经闭止"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t胁下痞鞕 (或硬) 成块"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t肌肉消瘦"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t饮食减少"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t推之不移"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腹中疼痛"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t症瘕结于胁下"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t时有寒热"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t疟疾日久不愈"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t结成疟母"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t症瘕"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t疟母"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "prescription type",
+    "node_2": "处方\t鳖甲煎丸"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t炙鳖甲"
+  },
+  {
+    "node_1": "中药名\t炙鳖甲",
+    "relation": "dose",
+    "node_2": "剂量\t十二分(90克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t赤硝"
+  },
+  {
+    "node_1": "中药名\t赤硝",
+    "relation": "dose",
+    "node_2": "剂量\t十二分(90克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t蜣螂"
+  },
+  {
+    "node_1": "中药名\t蜣螂",
+    "relation": "dose",
+    "node_2": "剂量\t六分(45克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t五分(37克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t牡丹"
+  },
+  {
+    "node_1": "中药名\t牡丹",
+    "relation": "dose",
+    "node_2": "剂量\t五分(37克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t土蟞虫"
+  },
+  {
+    "node_1": "中药名\t土蟞虫",
+    "relation": "dose",
+    "node_2": "剂量\t五分(37克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t蜂巢"
+  },
+  {
+    "node_1": "中药名\t蜂巢",
+    "relation": "dose",
+    "node_2": "剂量\t四分(30克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t炒乌扇"
+  },
+  {
+    "node_1": "中药名\t炒乌扇",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩"
+  },
+  {
+    "node_1": "中药名\t黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t鼠妇"
+  },
+  {
+    "node_1": "中药名\t鼠妇",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t干姜"
+  },
+  {
+    "node_1": "中药名\t干姜",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴"
+  },
+  {
+    "node_1": "中药名\t厚朴",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t石韦"
+  },
+  {
+    "node_1": "中药名\t石韦",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t紫葳"
+  },
+  {
+    "node_1": "中药名\t紫葳",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t炙阿胶"
+  },
+  {
+    "node_1": "中药名\t炙阿胶",
+    "relation": "dose",
+    "node_2": "剂量\t三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t瞿麦"
+  },
+  {
+    "node_1": "中药名\t瞿麦",
+    "relation": "dose",
+    "node_2": "剂量\t二分(15克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁"
+  },
+  {
+    "node_1": "中药名\t桃仁",
+    "relation": "dose",
+    "node_2": "剂量\t二分(15克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t葶苈"
+  },
+  {
+    "node_1": "中药名\t葶苈",
+    "relation": "dose",
+    "node_2": "剂量\t一分(7.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t一分(7.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t一分(7.5克)"
+  }
+]

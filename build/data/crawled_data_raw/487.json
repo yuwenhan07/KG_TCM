@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t温经汤"
+  },
+  {
+    "node_1": "方名\t温经汤",
+    "relation": "from",
+    "node_2": "来源\t汉·《金匮要略》"
+  },
+  {
+    "node_1": "方名\t温经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温经散寒"
+  },
+  {
+    "node_1": "方名\t温经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t理血剂"
+  },
+  {
+    "node_1": "方名\t温经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t养血祛瘀"
+  },
+  {
+    "node_1": "方名\t温经汤",
+    "relation": "prescription type",
+    "node_2": "处方\t温经汤"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t吴茱萸"
+  },
+  {
+    "node_1": "中药名\t吴茱萸",
+    "relation": "dose",
+    "node_2": "剂量\t三两(各9克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬"
+  },
+  {
+    "node_1": "中药名\t麦门冬",
+    "relation": "dose",
+    "node_2": "剂量\t三两(各9克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶"
+  },
+  {
+    "node_1": "中药名\t阿胶",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t去心牡丹皮"
+  },
+  {
+    "node_1": "中药名\t去心牡丹皮",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  },
+  {
+    "node_1": "处方\t温经汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t二两(各6克)"
+  }
+]

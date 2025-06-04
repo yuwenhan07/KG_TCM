@@ -1,0 +1,46 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t犀角地黄汤"
+  },
+  {
+    "node_1": "方名\t犀角地黄汤",
+    "relation": "from",
+    "node_2": "来源\t《外台秘要》"
+  },
+  {
+    "node_1": "方名\t犀角地黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热入血分证"
+  },
+  {
+    "node_1": "方名\t犀角地黄汤",
+    "relation": "prescription type",
+    "node_2": "处方\t犀角地黄汤"
+  },
+  {
+    "node_1": "处方\t犀角地黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t犀角(水牛角代替)",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t犀角地黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地",
+    "weight": "24g"
+  },
+  {
+    "node_1": "处方\t犀角地黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t犀角地黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t丹皮",
+    "weight": "9g"
+  }
+]

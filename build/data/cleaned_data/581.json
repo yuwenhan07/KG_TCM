@@ -1,0 +1,119 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t竹叶石膏汤"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t暑病余热未清"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气逆欲呕"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温病"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t虚烦不寐"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口干喜饮"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚数"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红少苔"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心胸烦热"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气短神疲"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热多汗"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气津两伤证"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t伤寒"
+  },
+  {
+    "node_1": "方名\t竹叶石膏汤",
+    "relation": "prescription type",
+    "node_2": "处方\t竹叶石膏汤"
+  },
+  {
+    "node_1": "处方\t竹叶石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t竹叶",
+    "weight": "二把(9克)"
+  },
+  {
+    "node_1": "处方\t竹叶石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t石膏",
+    "weight": "一斤(30克)"
+  },
+  {
+    "node_1": "处方\t竹叶石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "半升(3克)"
+  },
+  {
+    "node_1": "处方\t竹叶石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "三两(15克)"
+  },
+  {
+    "node_1": "处方\t竹叶石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "二两(10克)"
+  },
+  {
+    "node_1": "处方\t竹叶石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t粳米",
+    "weight": "半升"
+  },
+  {
+    "node_1": "处方\t竹叶石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬",
+    "weight": "一升"
+  }
+]

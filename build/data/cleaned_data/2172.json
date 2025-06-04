@@ -1,0 +1,206 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t苍附导痰汤（苍附导痰丸）"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "from",
+    "node_2": "来源\t宋·《重订严氏济生方》；《叶氏女科》卷一；《广嗣纪要》卷四"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t胁肋胀满"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t坐卧不安"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t不思饮食"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t喘急痰嗽"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t理气调冲"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t主一切痰厥"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t用于痰湿内阻型不孕症"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t形盛多痰"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗慢性胃炎"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t肥人气虚生痰多下白带"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗卒中后抑郁症"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗脑卒中"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t气虚"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t形肥痰盛经闭"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t痰饮壅盛"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t燥湿祛痰"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t至数月而经始行"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈痞塞"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛吐逆"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗心绞痛"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t涕唾稠黏"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t燥湿化痰"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t肥盛女人无子者"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t苔腻"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t头目眩晕"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t行气开郁"
+  },
+  {
+    "node_1": "方名\t苍附导痰汤（苍附导痰丸）",
+    "relation": "prescription type",
+    "node_2": "处方\t苍附导痰汤（苍附导痰丸）"
+  },
+  {
+    "node_1": "处方\t苍附导痰汤（苍附导痰丸）",
+    "relation": "composition",
+    "node_2": "中药名\t苍术",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t苍附导痰汤（苍附导痰丸）",
+    "relation": "composition",
+    "node_2": "中药名\t制南星",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t苍附导痰汤（苍附导痰丸）",
+    "relation": "composition",
+    "node_2": "中药名\t石楠叶",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t苍附导痰汤（苍附导痰丸）",
+    "relation": "composition",
+    "node_2": "中药名\t香附",
+    "weight": "10克"
+  },
+  {
+    "node_1": "处方\t苍附导痰汤（苍附导痰丸）",
+    "relation": "composition",
+    "node_2": "中药名\t杜仲",
+    "weight": "10克"
+  },
+  {
+    "node_1": "处方\t苍附导痰汤（苍附导痰丸）",
+    "relation": "composition",
+    "node_2": "中药名\t仙灵脾",
+    "weight": "10克"
+  },
+  {
+    "node_1": "处方\t苍附导痰汤（苍附导痰丸）",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t苍附导痰汤（苍附导痰丸）",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t苍附导痰汤（苍附导痰丸）",
+    "relation": "composition",
+    "node_2": "中药名\t制半夏",
+    "weight": "12克"
+  }
+]

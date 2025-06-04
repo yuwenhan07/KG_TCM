@@ -1,0 +1,105 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t瓜蒌薤白白酒汤"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗慢性支气管炎"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗冠心病之心绞痛"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗胁间神经痛"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗胸阳不振"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗痰浊内阻见症者"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗痰多喘闷"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t行气祛痰"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗脉沉弦者"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗胸背疼痛"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗胸膜炎"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t通阳散结"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗苔白腻而滑"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗胸痹证"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗气短不得卧"
+  },
+  {
+    "node_1": "方名\t瓜蒌薤白白酒汤",
+    "relation": "prescription type",
+    "node_2": "处方\t瓜蒌薤白白酒汤"
+  },
+  {
+    "node_1": "处方\t瓜蒌薤白白酒汤",
+    "relation": "composition",
+    "node_2": "中药名\t瓜蒌实",
+    "weight": "一枚(24g)"
+  },
+  {
+    "node_1": "处方\t瓜蒌薤白白酒汤",
+    "relation": "composition",
+    "node_2": "中药名\t薤白",
+    "weight": "半升(12g)"
+  },
+  {
+    "node_1": "处方\t瓜蒌薤白白酒汤",
+    "relation": "composition",
+    "node_2": "中药名\t白酒",
+    "weight": "七升(适量)"
+  }
+]

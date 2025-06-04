@@ -1,0 +1,156 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t栝楼薤白半夏汤"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮》卷上"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质紫暗或有暗点"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不能安卧"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白或腻"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸中满痛彻背"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t行气解郁"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t创伤性气胸"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t风湿性心脏病"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t通阳散结"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉迟"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性胆囊炎"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t室性心动过速"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性阻塞性肺病"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t短气"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t祛痰宽胸"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t背痛彻胸"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰多粘而白"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t乳腺增生"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性支气管肺炎"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肋间神经痛"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸痹不得卧"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t冠心病心绞痛"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心痛彻背"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t老年咳喘"
+  },
+  {
+    "node_1": "方名\t栝楼薤白半夏汤",
+    "relation": "prescription type",
+    "node_2": "处方\t栝楼薤白半夏汤"
+  },
+  {
+    "node_1": "处方\t栝楼薤白半夏汤",
+    "relation": "composition",
+    "node_2": "中药名\t栝蒌实",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t栝楼薤白半夏汤",
+    "relation": "composition",
+    "node_2": "中药名\t薤白",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t栝楼薤白半夏汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t栝楼薤白半夏汤",
+    "relation": "composition",
+    "node_2": "中药名\t白酒",
+    "weight": "70毫升（非现代之白酒，实为黄酒，或用醪糟代之亦可。）"
+  }
+]

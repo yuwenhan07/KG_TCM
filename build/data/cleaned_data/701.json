@@ -1,0 +1,139 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t地黄饮子"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "from",
+    "node_2": "来源\t《圣济总录》"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t补肾阳"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t痰浊上泛之喑痱证"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t下元虚衰"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t开窍化痰"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t足冷面赤"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t滋肾阴"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t舌强不能言"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t口干不欲饮"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉细弱"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t足废不能用"
+  },
+  {
+    "node_1": "方名\t地黄饮子",
+    "relation": "prescription type",
+    "node_2": "处方\t地黄饮子"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t熟干地黄(焙)",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t巴戟天(去心)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t山茱萸(炒)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t石斛(去根)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t肉苁蓉(酒浸，切焙)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t附子(炮裂，去皮脐)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t五味子(炒)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t官桂(去粗皮)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓(去黑皮)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬(去心，焙)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t菖蒲",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t地黄饮子",
+    "relation": "composition",
+    "node_2": "中药名\t远志(去心)",
+    "weight": "15g"
+  }
+]

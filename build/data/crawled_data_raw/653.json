@@ -1,0 +1,187 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t葛花解酲汤"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "from",
+    "node_2": "来源\t《内外伤辨惑论》"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便泄泻"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕呕吐"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈痞闷"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔腻"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t酒积伤脾证"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t食少体倦"
+  },
+  {
+    "node_1": "方名\t葛花解酲汤",
+    "relation": "prescription type",
+    "node_2": "处方\t葛花解酲汤"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t葛花"
+  },
+  {
+    "node_1": "中药名\t葛花",
+    "relation": "dose",
+    "node_2": "剂量\t15克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t砂仁"
+  },
+  {
+    "node_1": "中药名\t砂仁",
+    "relation": "dose",
+    "node_2": "剂量\t15克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t猪苓"
+  },
+  {
+    "node_1": "中药名\t猪苓",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t白豆蔻"
+  },
+  {
+    "node_1": "中药名\t白豆蔻",
+    "relation": "dose",
+    "node_2": "剂量\t15克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t青皮"
+  },
+  {
+    "node_1": "中药名\t青皮",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮"
+  },
+  {
+    "node_1": "中药名\t陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t神曲"
+  },
+  {
+    "node_1": "中药名\t神曲",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t干姜"
+  },
+  {
+    "node_1": "中药名\t干姜",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t葛花解酲汤",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  }
+]

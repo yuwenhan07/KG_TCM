@@ -1,0 +1,167 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t败毒散"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽有痰"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈痞满"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t头项强痛"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻塞声重"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t气虚外感风寒湿表证"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮而按之无力"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t憎寒壮热"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体痛"
+  },
+  {
+    "node_1": "方名\t败毒散",
+    "relation": "prescription type",
+    "node_2": "处方\t败毒散"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t前胡"
+  },
+  {
+    "node_1": "中药名\t前胡",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳"
+  },
+  {
+    "node_1": "中药名\t枳壳",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t羌活"
+  },
+  {
+    "node_1": "中药名\t羌活",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t独活"
+  },
+  {
+    "node_1": "中药名\t独活",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  },
+  {
+    "node_1": "处方\t败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t三十两 (900g)"
+  }
+]

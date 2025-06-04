@@ -1,0 +1,177 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t会厌逐瘀汤2"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "from",
+    "node_2": "来源\t清·《医林改错》；《医林改错》卷下"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t解毒利咽"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t气滞血瘀"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t慢喉喑"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿痘发五六日后饮水即呛"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t行气活血"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t声带小结"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t急性咽炎"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t梅核气"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t治呃逆"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t咽部疾病"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦细"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t脑梗死失语"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t喉炎"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性咽炎"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t假性球麻痹"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t声带息肉"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t喉痹"
+  },
+  {
+    "node_1": "方名\t会厌逐瘀汤2",
+    "relation": "prescription type",
+    "node_2": "处方\t会厌逐瘀汤2"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁",
+    "weight": "15克（炒）"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t红花",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t生地",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t玄参",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t会厌逐瘀汤2",
+    "relation": "composition",
+    "node_2": "中药名\t赤芍",
+    "weight": "6克"
+  }
+]

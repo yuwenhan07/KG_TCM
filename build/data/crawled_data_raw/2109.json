@@ -1,0 +1,167 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t一甲复脉汤"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "from",
+    "node_2": "来源\t《瘟病条辨》卷三"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t夜不能寐"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口舌干燥"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴固摄"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴清热"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚大"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t内科杂病"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t下焦温病"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温热病后期阴液亏虚证"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t甲状腺功能亢进致心悸不宁"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热邪伤阴"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足心热"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神疲乏力"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t养阴润燥"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面赤身热"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质鲜红"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴液亏虚证"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便溏泄"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温病后期"
+  },
+  {
+    "node_1": "方名\t一甲复脉汤",
+    "relation": "prescription type",
+    "node_2": "处方\t一甲复脉汤"
+  },
+  {
+    "node_1": "处方\t一甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t牡蛎"
+  },
+  {
+    "node_1": "中药名\t牡蛎",
+    "relation": "dose",
+    "node_2": "剂量\t30克（碾细）"
+  },
+  {
+    "node_1": "处方\t一甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t18克"
+  },
+  {
+    "node_1": "处方\t一甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄"
+  },
+  {
+    "node_1": "中药名\t干地黄",
+    "relation": "dose",
+    "node_2": "剂量\t18克"
+  },
+  {
+    "node_1": "处方\t一甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t生白芍"
+  },
+  {
+    "node_1": "中药名\t生白芍",
+    "relation": "dose",
+    "node_2": "剂量\t18克"
+  },
+  {
+    "node_1": "处方\t一甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬"
+  },
+  {
+    "node_1": "中药名\t麦冬",
+    "relation": "dose",
+    "node_2": "剂量\t15克（不去心）"
+  },
+  {
+    "node_1": "处方\t一甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶"
+  },
+  {
+    "node_1": "中药名\t阿胶",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  }
+]

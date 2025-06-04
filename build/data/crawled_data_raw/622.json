@@ -1,0 +1,132 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桑杏汤"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄白而干"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰少而粘"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热不甚"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t干咳无痰"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咽干鼻燥"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮数而右脉大者"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外感温燥证"
+  },
+  {
+    "node_1": "方名\t桑杏汤",
+    "relation": "prescription type",
+    "node_2": "处方\t桑杏汤"
+  },
+  {
+    "node_1": "处方\t桑杏汤",
+    "relation": "composition",
+    "node_2": "中药名\t桑叶"
+  },
+  {
+    "node_1": "中药名\t桑叶",
+    "relation": "dose",
+    "node_2": "剂量\t一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t桑杏汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁"
+  },
+  {
+    "node_1": "中药名\t杏仁",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分 (4.5g)"
+  },
+  {
+    "node_1": "处方\t桑杏汤",
+    "relation": "composition",
+    "node_2": "中药名\t沙参"
+  },
+  {
+    "node_1": "中药名\t沙参",
+    "relation": "dose",
+    "node_2": "剂量\t二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t桑杏汤",
+    "relation": "composition",
+    "node_2": "中药名\t象贝"
+  },
+  {
+    "node_1": "中药名\t象贝",
+    "relation": "dose",
+    "node_2": "剂量\t一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t桑杏汤",
+    "relation": "composition",
+    "node_2": "中药名\t香豉"
+  },
+  {
+    "node_1": "中药名\t香豉",
+    "relation": "dose",
+    "node_2": "剂量\t一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t桑杏汤",
+    "relation": "composition",
+    "node_2": "中药名\t栀皮"
+  },
+  {
+    "node_1": "中药名\t栀皮",
+    "relation": "dose",
+    "node_2": "剂量\t一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t桑杏汤",
+    "relation": "composition",
+    "node_2": "中药名\t梨皮"
+  },
+  {
+    "node_1": "中药名\t梨皮",
+    "relation": "dose",
+    "node_2": "剂量\t一钱 (3g)"
+  }
+]

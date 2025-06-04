@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t葛根汤2"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》；《片玉痘疹》卷五；《直指》卷十九；《准绳·幼科》卷四 [1-3]"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t太阳表虚，颈项强，汗出恶风"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t痘疹，如暴风连日而有伤风之症者"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t解肌发表"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t太阳病，项背强几几，无汗，恶风者"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t桂枝汤证兼项背强而不舒者"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t风寒客于太阳经输，营卫不和证"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t太阳病"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t升津舒经"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t项背强几几，汗出恶风者"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿癍疹初发，如时大寒，则腠理闭密，气血凝涩，防其发泄得迟，有毒气壅遏之变"
+  },
+  {
+    "node_1": "方名\t葛根汤2",
+    "relation": "prescription type",
+    "node_2": "处方\t葛根汤2"
+  },
+  {
+    "node_1": "处方\t葛根汤2",
+    "relation": "composition",
+    "node_2": "中药名\t葛根"
+  },
+  {
+    "node_1": "中药名\t葛根",
+    "relation": "dose",
+    "node_2": "剂量\t12克"
+  },
+  {
+    "node_1": "处方\t葛根汤2",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄"
+  },
+  {
+    "node_1": "中药名\t麻黄",
+    "relation": "dose",
+    "node_2": "剂量\t9克(去节)"
+  },
+  {
+    "node_1": "处方\t葛根汤2",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t6克"
+  },
+  {
+    "node_1": "处方\t葛根汤2",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t9克(切)"
+  },
+  {
+    "node_1": "处方\t葛根汤2",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t6克(炙)"
+  },
+  {
+    "node_1": "处方\t葛根汤2",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t12枚(擘)"
+  },
+  {
+    "node_1": "处方\t葛根汤2",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t6克(去皮)"
+  }
+]

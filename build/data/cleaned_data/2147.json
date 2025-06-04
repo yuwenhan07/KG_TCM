@@ -1,0 +1,115 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t麻黄附子甘草汤"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t改善微循环"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒身疼"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉微"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t抗心肌缺血"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗风湿性心脏病"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t解表散邪"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t增强机体免疫能力"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t微发热"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温补阳气"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t镇痛"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗西医临床中的心动过缓"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治少阴病"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t辅助治疗神经性头痛"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t辅助治疗坐骨神经痛"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗心肌缺血"
+  },
+  {
+    "node_1": "方名\t麻黄附子甘草汤",
+    "relation": "prescription type",
+    "node_2": "处方\t麻黄附子甘草汤"
+  },
+  {
+    "node_1": "处方\t麻黄附子甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄",
+    "weight": "二两（6g）"
+  },
+  {
+    "node_1": "处方\t麻黄附子甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "二两（6g）"
+  },
+  {
+    "node_1": "处方\t麻黄附子甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子",
+    "weight": "一枚（5g）"
+  }
+]

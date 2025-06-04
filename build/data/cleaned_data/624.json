@@ -1,0 +1,53 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t麦门冬汤"
+  },
+  {
+    "node_1": "方名\t麦门冬汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t麦门冬汤",
+    "relation": "prescription type",
+    "node_2": "处方\t麦门冬汤"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬",
+    "weight": "七升 (42g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "一升 (6g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "三两 (9g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "二两 (6g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t粳米",
+    "weight": "三合 (3g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "四枚 (2枚)"
+  }
+]

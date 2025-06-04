@@ -1,0 +1,81 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t四逆散"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "functions",
+    "node_2": "功能主治\t或腹痛"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "functions",
+    "node_2": "功能主治\t阳郁厥逆证"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹疼痛"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "functions",
+    "node_2": "功能主治\t肝脾不和证"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "functions",
+    "node_2": "功能主治\t或泄利下重"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "functions",
+    "node_2": "功能主治\t胁肋胀闷"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "functions",
+    "node_2": "功能主治\t手足不温"
+  },
+  {
+    "node_1": "方名\t四逆散",
+    "relation": "prescription type",
+    "node_2": "处方\t四逆散"
+  },
+  {
+    "node_1": "处方\t四逆散",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草",
+    "weight": "十分 (各6g)"
+  },
+  {
+    "node_1": "处方\t四逆散",
+    "relation": "composition",
+    "node_2": "中药名\t枳实",
+    "weight": "十分 (各6g)"
+  },
+  {
+    "node_1": "处方\t四逆散",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "十分 (各6g)"
+  },
+  {
+    "node_1": "处方\t四逆散",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "十分 (各6g)"
+  }
+]

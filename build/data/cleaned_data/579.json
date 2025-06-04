@@ -1,0 +1,72 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t青蒿鳖甲汤"
+  },
+  {
+    "node_1": "方名\t青蒿鳖甲汤",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t青蒿鳖甲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t夜热早凉"
+  },
+  {
+    "node_1": "方名\t青蒿鳖甲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热退无汗"
+  },
+  {
+    "node_1": "方名\t青蒿鳖甲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔少"
+  },
+  {
+    "node_1": "方名\t青蒿鳖甲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴伤邪伏证"
+  },
+  {
+    "node_1": "方名\t青蒿鳖甲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细数"
+  },
+  {
+    "node_1": "方名\t青蒿鳖甲汤",
+    "relation": "prescription type",
+    "node_2": "处方\t青蒿鳖甲汤"
+  },
+  {
+    "node_1": "处方\t青蒿鳖甲汤",
+    "relation": "composition",
+    "node_2": "中药名\t青蒿",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t青蒿鳖甲汤",
+    "relation": "composition",
+    "node_2": "中药名\t鳖甲",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t青蒿鳖甲汤",
+    "relation": "composition",
+    "node_2": "中药名\t细生地",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t青蒿鳖甲汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t青蒿鳖甲汤",
+    "relation": "composition",
+    "node_2": "中药名\t丹皮",
+    "weight": "9g"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t龙胆泻肝汤"
+  },
+  {
+    "node_1": "方名\t龙胆泻肝汤",
+    "relation": "from",
+    "node_2": "来源\t《医方集解》"
+  },
+  {
+    "node_1": "方名\t龙胆泻肝汤",
+    "relation": "prescription type",
+    "node_2": "处方\t龙胆泻肝汤"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t龙胆草(酒炒)",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩(酒炒)",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t山栀子(酒炒)",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t木通",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t车前子",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归(酒炒)",
+    "weight": "8g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄",
+    "weight": "20g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "10g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t生甘草",
+    "weight": "6g"
+  }
+]

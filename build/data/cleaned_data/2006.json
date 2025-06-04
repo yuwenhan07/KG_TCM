@@ -1,0 +1,145 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t益气聪明汤"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "from",
+    "node_2": "来源\t《东垣试效方》卷五"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t久则失明"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神水变淡绿色"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t次成歧视（复视）"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气升阳"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t聪耳明目"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t视物昏花"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神水变成纯白色"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t色弱"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治耳聋"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t现多用于老年性白内障"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t致患内障"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t目糊"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治脾胃气虚"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t耳鸣"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t色盲"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "functions",
+    "node_2": "功能主治\t听力减退属于气虚清阳不升者"
+  },
+  {
+    "node_1": "方名\t益气聪明汤",
+    "relation": "prescription type",
+    "node_2": "处方\t益气聪明汤"
+  },
+  {
+    "node_1": "处方\t益气聪明汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t益气聪明汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t益气聪明汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t益气聪明汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏（酒制，锉，炒黄）",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t益气聪明汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t益气聪明汤",
+    "relation": "composition",
+    "node_2": "中药名\t升麻",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t益气聪明汤",
+    "relation": "composition",
+    "node_2": "中药名\t葛根",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t益气聪明汤",
+    "relation": "composition",
+    "node_2": "中药名\t蔓荆子",
+    "weight": "4.5 g"
+  }
+]

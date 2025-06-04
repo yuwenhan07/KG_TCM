@@ -1,0 +1,81 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t补络补管汤"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "from",
+    "node_2": "来源\t《医学衷中参西录》"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "functions",
+    "node_2": "功能主治\t现代常用于咳血"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "functions",
+    "node_2": "功能主治\t收敛止血"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "functions",
+    "node_2": "功能主治\t祛瘀生新"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "functions",
+    "node_2": "功能主治\t吐血久不愈"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳血"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "functions",
+    "node_2": "功能主治\t吐血"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咯血"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "functions",
+    "node_2": "功能主治\t吐血等出血性疾病"
+  },
+  {
+    "node_1": "方名\t补络补管汤",
+    "relation": "prescription type",
+    "node_2": "处方\t补络补管汤"
+  },
+  {
+    "node_1": "处方\t补络补管汤",
+    "relation": "composition",
+    "node_2": "中药名\t生龙骨",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t补络补管汤",
+    "relation": "composition",
+    "node_2": "中药名\t生牡蛎",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t补络补管汤",
+    "relation": "composition",
+    "node_2": "中药名\t三七粉",
+    "weight": "6g（研细末冲服）"
+  },
+  {
+    "node_1": "处方\t补络补管汤",
+    "relation": "composition",
+    "node_2": "中药名\t山茱萸",
+    "weight": "30g"
+  }
+]

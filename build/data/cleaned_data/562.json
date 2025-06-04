@@ -1,0 +1,116 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t九味羌活汤"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "from",
+    "node_2": "来源\t《张元素方》录自《此事难知》"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛项强"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体酸楚疼痛"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮或浮紧"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白或微黄"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "functions",
+    "node_2": "功能主治\t内有蕴热证"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口苦微渴"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风寒湿邪"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t九味羌活汤",
+    "relation": "prescription type",
+    "node_2": "处方\t九味羌活汤"
+  },
+  {
+    "node_1": "处方\t九味羌活汤",
+    "relation": "composition",
+    "node_2": "中药名\t羌活",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t九味羌活汤",
+    "relation": "composition",
+    "node_2": "中药名\t防风",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t九味羌活汤",
+    "relation": "composition",
+    "node_2": "中药名\t苍术",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t九味羌活汤",
+    "relation": "composition",
+    "node_2": "中药名\t细辛",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t九味羌活汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t九味羌活汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芷",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t九味羌活汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t九味羌活汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t九味羌活汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "6克"
+  }
+]

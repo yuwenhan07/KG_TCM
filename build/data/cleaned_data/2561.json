@@ -1,0 +1,110 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t薏苡仁附子败酱散"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "another name",
+    "node_2": "别名\t又名“附子汤”“败酱散”“薏苡附子散”"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t如肿状"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t按之软"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗慢性前列腺炎"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t湿疹"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t排脓消痈"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t溃疡性结肠炎"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治肠痈内已成脓"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t肌肤甲错"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性盆腔炎"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t腹皮急"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t温阳散结"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性肛窦炎"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t身无热"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数"
+  },
+  {
+    "node_1": "方名\t薏苡仁附子败酱散",
+    "relation": "prescription type",
+    "node_2": "处方\t薏苡仁附子败酱散"
+  },
+  {
+    "node_1": "处方\t薏苡仁附子败酱散",
+    "relation": "composition",
+    "node_2": "中药名\t薏苡仁",
+    "weight": "十分(30克)"
+  },
+  {
+    "node_1": "处方\t薏苡仁附子败酱散",
+    "relation": "composition",
+    "node_2": "中药名\t附子",
+    "weight": "二分(6克)"
+  },
+  {
+    "node_1": "处方\t薏苡仁附子败酱散",
+    "relation": "composition",
+    "node_2": "中药名\t败酱",
+    "weight": "五分(15克)"
+  }
+]

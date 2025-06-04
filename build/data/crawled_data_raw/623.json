@@ -1,0 +1,162 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t百合固金汤"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "from",
+    "node_2": "来源\t《慎斋遗书》"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肺肾阴亏"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咽喉燥痛"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰中带血"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细数"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红少苔"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽气喘"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "functions",
+    "node_2": "功能主治\t午后潮热"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "functions",
+    "node_2": "功能主治\t虚火上炎证"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头晕目眩"
+  },
+  {
+    "node_1": "方名\t百合固金汤",
+    "relation": "prescription type",
+    "node_2": "处方\t百合固金汤"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t熟地"
+  },
+  {
+    "node_1": "中药名\t熟地",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地"
+  },
+  {
+    "node_1": "中药名\t生地",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t归身"
+  },
+  {
+    "node_1": "中药名\t归身",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍"
+  },
+  {
+    "node_1": "中药名\t白芍",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t玄参"
+  },
+  {
+    "node_1": "中药名\t玄参",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t贝母"
+  },
+  {
+    "node_1": "中药名\t贝母",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬"
+  },
+  {
+    "node_1": "中药名\t麦冬",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t百合固金汤",
+    "relation": "composition",
+    "node_2": "中药名\t百合"
+  },
+  {
+    "node_1": "中药名\t百合",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  }
+]

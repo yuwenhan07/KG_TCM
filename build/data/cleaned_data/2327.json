@@ -1,0 +1,69 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "from",
+    "node_2": "来源\t宋·《普济本事方》"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t黄疸"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t清心安神"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗难治性癫痫"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t消痰燥湿"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t脂肪肝"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治痰阻心窍"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t行气解郁"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t癫狂烦躁"
+  },
+  {
+    "node_1": "方名\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "prescription type",
+    "node_2": "处方\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）"
+  },
+  {
+    "node_1": "处方\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "composition",
+    "node_2": "中药名\t白矾",
+    "weight": "四两(120g)"
+  },
+  {
+    "node_1": "处方\t白金丸（矾郁丸，白玉化痰丸，癫痫白金丸）",
+    "relation": "composition",
+    "node_2": "中药名\t郁金",
+    "weight": "七两(210g)"
+  }
+]

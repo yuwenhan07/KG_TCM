@@ -1,0 +1,107 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t萆薢分清散"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "from",
+    "node_2": "来源\t《杨氏家藏方》"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t小便频数"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t温肾利湿"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t白如米泔"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t下焦虚寒之膏淋"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t浑浊不清"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t分清化浊"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t凝如膏糊"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "functions",
+    "node_2": "功能主治\t下焦虚寒之白浊"
+  },
+  {
+    "node_1": "方名\t萆薢分清散",
+    "relation": "prescription type",
+    "node_2": "处方\t萆薢分清散"
+  },
+  {
+    "node_1": "处方\t萆薢分清散",
+    "relation": "composition",
+    "node_2": "中药名\t益智仁"
+  },
+  {
+    "node_1": "中药名\t益智仁",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t萆薢分清散",
+    "relation": "composition",
+    "node_2": "中药名\t川萆薢"
+  },
+  {
+    "node_1": "中药名\t川萆薢",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t萆薢分清散",
+    "relation": "composition",
+    "node_2": "中药名\t石菖蒲"
+  },
+  {
+    "node_1": "中药名\t石菖蒲",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t萆薢分清散",
+    "relation": "composition",
+    "node_2": "中药名\t乌药"
+  },
+  {
+    "node_1": "中药名\t乌药",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t连朴饮"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "from",
+    "node_2": "来源\t《霍乱论》"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "functions",
+    "node_2": "功能主治\t上吐下泻"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔黄腻"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦躁扰"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "functions",
+    "node_2": "功能主治\t小便短赤"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "functions",
+    "node_2": "功能主治\t清热化湿"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "functions",
+    "node_2": "功能主治\t理气和中"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "functions",
+    "node_2": "功能主治\t胸脘痞闷"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热霍乱"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t连朴饮",
+    "relation": "prescription type",
+    "node_2": "处方\t连朴饮"
+  },
+  {
+    "node_1": "处方\t连朴饮",
+    "relation": "composition",
+    "node_2": "中药名\t制厚朴"
+  },
+  {
+    "node_1": "中药名\t制厚朴",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t连朴饮",
+    "relation": "composition",
+    "node_2": "中药名\t川连(姜汁炒)"
+  },
+  {
+    "node_1": "中药名\t川连(姜汁炒)",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t连朴饮",
+    "relation": "composition",
+    "node_2": "中药名\t石菖蒲"
+  },
+  {
+    "node_1": "中药名\t石菖蒲",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t连朴饮",
+    "relation": "composition",
+    "node_2": "中药名\t制半夏"
+  },
+  {
+    "node_1": "中药名\t制半夏",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t连朴饮",
+    "relation": "composition",
+    "node_2": "中药名\t香豉(炒)"
+  },
+  {
+    "node_1": "中药名\t香豉(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t连朴饮",
+    "relation": "composition",
+    "node_2": "中药名\t焦栀"
+  },
+  {
+    "node_1": "中药名\t焦栀",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t连朴饮",
+    "relation": "composition",
+    "node_2": "中药名\t芦根"
+  },
+  {
+    "node_1": "中药名\t芦根",
+    "relation": "dose",
+    "node_2": "剂量\t60g"
+  }
+]

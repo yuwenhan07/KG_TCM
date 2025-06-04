@@ -1,0 +1,192 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t加减黄连阿胶汤"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》；《温病条辨》卷二"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热多湿少"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t失眠"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t焦虑"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神情急躁"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t下利脓血"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t扶阴散热"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不得卧"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热伤阴血"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t易怒"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t少阴病"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心肾不交之失眠证"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清热救阴"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t邪火内攻"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t囗干咽燥"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心中烦"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治春温内陷下痢"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦不眠"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴虚火旺"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴降火"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不得安卧"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴液受伤者"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心中灼热而烦"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "functions",
+    "node_2": "功能主治\t除烦安神"
+  },
+  {
+    "node_1": "方名\t加减黄连阿胶汤",
+    "relation": "prescription type",
+    "node_2": "处方\t加减黄连阿胶汤"
+  },
+  {
+    "node_1": "处方\t加减黄连阿胶汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  },
+  {
+    "node_1": "处方\t加减黄连阿胶汤",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶"
+  },
+  {
+    "node_1": "中药名\t阿胶",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  },
+  {
+    "node_1": "处方\t加减黄连阿胶汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩"
+  },
+  {
+    "node_1": "中药名\t黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t6克"
+  },
+  {
+    "node_1": "处方\t加减黄连阿胶汤",
+    "relation": "composition",
+    "node_2": "中药名\t炒生地"
+  },
+  {
+    "node_1": "中药名\t炒生地",
+    "relation": "dose",
+    "node_2": "剂量\t12克"
+  },
+  {
+    "node_1": "处方\t加减黄连阿胶汤",
+    "relation": "composition",
+    "node_2": "中药名\t生白芍"
+  },
+  {
+    "node_1": "中药名\t生白芍",
+    "relation": "dose",
+    "node_2": "剂量\t15克"
+  },
+  {
+    "node_1": "处方\t加减黄连阿胶汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t4.5克"
+  }
+]

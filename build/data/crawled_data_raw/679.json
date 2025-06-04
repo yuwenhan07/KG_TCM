@@ -1,0 +1,227 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t独活寄生汤"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "from",
+    "node_2": "来源\t《备急千金要方》"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t畏寒喜温"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细弱"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益肝肾"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸气短"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腰膝疼痛、痿软"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痹证日久，肝肾两虚，气血不足证"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢节屈伸不利"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t麻木不仁"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风湿"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t止痹痛"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "functions",
+    "node_2": "功能主治\t补气血"
+  },
+  {
+    "node_1": "方名\t独活寄生汤",
+    "relation": "prescription type",
+    "node_2": "处方\t独活寄生汤"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t独活"
+  },
+  {
+    "node_1": "中药名\t独活",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t桑寄生"
+  },
+  {
+    "node_1": "中药名\t桑寄生",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t杜仲"
+  },
+  {
+    "node_1": "中药名\t杜仲",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t牛膝"
+  },
+  {
+    "node_1": "中药名\t牛膝",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t细辛"
+  },
+  {
+    "node_1": "中药名\t细辛",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t秦艽"
+  },
+  {
+    "node_1": "中药名\t秦艽",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t肉桂心"
+  },
+  {
+    "node_1": "中药名\t肉桂心",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t独活寄生汤",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄"
+  },
+  {
+    "node_1": "中药名\t干地黄",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t玉液汤"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "from",
+    "node_2": "来源\t《医学衷中参西录》"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗糖尿病"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t生津止渴"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便混浊"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗糖尿病所致骨代谢紊乱"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便频数量多"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气养阴"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴引饮"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t消渴病"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t困倦气短"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚细无力"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗糖尿病所致肾病"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t属气阴两虚者"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t饮水不解"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗糖尿病所致周围神经病变"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗干燥综合征"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗甲状腺功能亢进"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治消渴"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗慢性咽炎"
+  },
+  {
+    "node_1": "方名\t玉液汤",
+    "relation": "prescription type",
+    "node_2": "处方\t玉液汤"
+  },
+  {
+    "node_1": "处方\t玉液汤",
+    "relation": "composition",
+    "node_2": "中药名\t生山药"
+  },
+  {
+    "node_1": "中药名\t生山药",
+    "relation": "dose",
+    "node_2": "剂量\t一两(30克)"
+  },
+  {
+    "node_1": "处方\t玉液汤",
+    "relation": "composition",
+    "node_2": "中药名\t生黄芪"
+  },
+  {
+    "node_1": "中药名\t生黄芪",
+    "relation": "dose",
+    "node_2": "剂量\t五钱(15克)"
+  },
+  {
+    "node_1": "处方\t玉液汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母"
+  },
+  {
+    "node_1": "中药名\t知母",
+    "relation": "dose",
+    "node_2": "剂量\t六钱(18克)"
+  },
+  {
+    "node_1": "处方\t玉液汤",
+    "relation": "composition",
+    "node_2": "中药名\t生鸡内金捣细"
+  },
+  {
+    "node_1": "中药名\t生鸡内金捣细",
+    "relation": "dose",
+    "node_2": "剂量\t二钱(6克)"
+  },
+  {
+    "node_1": "处方\t玉液汤",
+    "relation": "composition",
+    "node_2": "中药名\t葛根"
+  },
+  {
+    "node_1": "中药名\t葛根",
+    "relation": "dose",
+    "node_2": "剂量\t一钱半(4.5克)"
+  },
+  {
+    "node_1": "处方\t玉液汤",
+    "relation": "composition",
+    "node_2": "中药名\t五味子"
+  },
+  {
+    "node_1": "中药名\t五味子",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t玉液汤",
+    "relation": "composition",
+    "node_2": "中药名\t天花粉"
+  },
+  {
+    "node_1": "中药名\t天花粉",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  }
+]

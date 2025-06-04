@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t清气化痰丸"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "from",
+    "node_2": "来源\t《医方考》"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t清热化痰"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t苔黄腻"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t咯痰黄稠"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t痰热咳嗽"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t气急呕恶"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈痞闷"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t烦躁不宁"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽气喘"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t理气止咳"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质红"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t清气化痰丸",
+    "relation": "prescription type",
+    "node_2": "处方\t清气化痰丸"
+  },
+  {
+    "node_1": "处方\t清气化痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t瓜蒌仁"
+  },
+  {
+    "node_1": "中药名\t瓜蒌仁",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t清气化痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t枳实"
+  },
+  {
+    "node_1": "中药名\t枳实",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t清气化痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮"
+  },
+  {
+    "node_1": "中药名\t陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t清气化痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t清气化痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩"
+  },
+  {
+    "node_1": "中药名\t黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t清气化痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t胆南星"
+  },
+  {
+    "node_1": "中药名\t胆南星",
+    "relation": "dose",
+    "node_2": "剂量\t一两半 (45g)"
+  },
+  {
+    "node_1": "处方\t清气化痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁"
+  },
+  {
+    "node_1": "中药名\t杏仁",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t清气化痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t制半夏"
+  },
+  {
+    "node_1": "中药名\t制半夏",
+    "relation": "dose",
+    "node_2": "剂量\t一两半 (45g)"
+  }
+]

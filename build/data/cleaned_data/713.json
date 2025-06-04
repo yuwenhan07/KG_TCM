@@ -1,0 +1,98 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t玉真散"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "from",
+    "node_2": "来源\t《外科正宗》"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "functions",
+    "node_2": "功能主治\t咬牙缩舌"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风化痰"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "functions",
+    "node_2": "功能主治\t定搐止痉"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦紧"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "functions",
+    "node_2": "功能主治\t身体强直"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "functions",
+    "node_2": "功能主治\t角弓反张"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "functions",
+    "node_2": "功能主治\t牙关紧急"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "functions",
+    "node_2": "功能主治\t口撮唇紧"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "functions",
+    "node_2": "功能主治\t破伤风"
+  },
+  {
+    "node_1": "方名\t玉真散",
+    "relation": "prescription type",
+    "node_2": "处方\t玉真散"
+  },
+  {
+    "node_1": "处方\t玉真散",
+    "relation": "composition",
+    "node_2": "中药名\t生白附子",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t玉真散",
+    "relation": "composition",
+    "node_2": "中药名\t生天南星",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t玉真散",
+    "relation": "composition",
+    "node_2": "中药名\t天麻",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t玉真散",
+    "relation": "composition",
+    "node_2": "中药名\t白芷",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t玉真散",
+    "relation": "composition",
+    "node_2": "中药名\t防风",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t玉真散",
+    "relation": "composition",
+    "node_2": "中药名\t羌活",
+    "weight": "各等分"
+  }
+]

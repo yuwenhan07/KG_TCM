@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桂枝附子汤"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身体疼烦"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗类风湿关节炎"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治风寒湿外袭肌表"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不能转侧"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗病窦综合征"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温经散寒"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮虚而涩"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳虚内寒的胸腹疼痛"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄白"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗痛风"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风除湿"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗哮喘"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗肠炎"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t喘咳泄泻"
+  },
+  {
+    "node_1": "方名\t桂枝附子汤",
+    "relation": "prescription type",
+    "node_2": "处方\t桂枝附子汤"
+  },
+  {
+    "node_1": "处方\t桂枝附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝(去皮)"
+  },
+  {
+    "node_1": "中药名\t桂枝(去皮)",
+    "relation": "dose",
+    "node_2": "剂量\t四两（12g）"
+  },
+  {
+    "node_1": "处方\t桂枝附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子(炮，去皮)"
+  },
+  {
+    "node_1": "中药名\t附子(炮，去皮)",
+    "relation": "dose",
+    "node_2": "剂量\t三枚（15g）"
+  },
+  {
+    "node_1": "处方\t桂枝附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜(切)"
+  },
+  {
+    "node_1": "中药名\t生姜(切)",
+    "relation": "dose",
+    "node_2": "剂量\t三两（9g）"
+  },
+  {
+    "node_1": "处方\t桂枝附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣(擘)"
+  },
+  {
+    "node_1": "中药名\t大枣(擘)",
+    "relation": "dose",
+    "node_2": "剂量\t十二枚"
+  },
+  {
+    "node_1": "处方\t桂枝附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)"
+  },
+  {
+    "node_1": "中药名\t甘草(炙)",
+    "relation": "dose",
+    "node_2": "剂量\t二两（6g）"
+  }
+]

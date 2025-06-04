@@ -1,0 +1,217 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t当归拈痛汤"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "from",
+    "node_2": "来源\t《医学启源》"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦数"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻微黄"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风止痛"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脚气肿痛"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t遍身肢节烦痛"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脚膝生疮"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热相搏"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t利湿清热"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外受风邪证"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肩背沉重"
+  },
+  {
+    "node_1": "方名\t当归拈痛汤",
+    "relation": "prescription type",
+    "node_2": "处方\t当归拈痛汤"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t羌活"
+  },
+  {
+    "node_1": "中药名\t羌活",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t茵陈(酒炒)"
+  },
+  {
+    "node_1": "中药名\t茵陈(酒炒)",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t苍术"
+  },
+  {
+    "node_1": "中药名\t苍术",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归身"
+  },
+  {
+    "node_1": "中药名\t当归身",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母(酒洗)"
+  },
+  {
+    "node_1": "中药名\t知母(酒洗)",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t猪苓"
+  },
+  {
+    "node_1": "中药名\t猪苓",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t升麻"
+  },
+  {
+    "node_1": "中药名\t升麻",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩(炒)"
+  },
+  {
+    "node_1": "中药名\t黄芩(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t葛根"
+  },
+  {
+    "node_1": "中药名\t葛根",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t当归拈痛汤",
+    "relation": "composition",
+    "node_2": "中药名\t苦参(酒浸)"
+  },
+  {
+    "node_1": "中药名\t苦参(酒浸)",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  }
+]

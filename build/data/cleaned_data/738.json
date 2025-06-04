@@ -1,0 +1,96 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t二陈汤"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t燥湿化痰"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体困重"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t湿痰证"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽痰多"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白滑或腻"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈痞闷"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头眩心悸"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶心呕吐"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t理气和中"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "functions",
+    "node_2": "功能主治\t色白易咯"
+  },
+  {
+    "node_1": "方名\t二陈汤",
+    "relation": "prescription type",
+    "node_2": "处方\t二陈汤"
+  },
+  {
+    "node_1": "处方\t二陈汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏(汤洗七次)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t二陈汤",
+    "relation": "composition",
+    "node_2": "中药名\t橘红",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t二陈汤",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t二陈汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)",
+    "weight": "4.5g"
+  }
+]

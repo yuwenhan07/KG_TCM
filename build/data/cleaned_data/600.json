@@ -1,0 +1,128 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t安宫牛黄丸"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数有力"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "functions",
+    "node_2": "功能主治\t高热烦躁"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红或绛"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "functions",
+    "node_2": "功能主治\t邪热内陷心包证"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "functions",
+    "node_2": "功能主治\t邪热内闭"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌謇肢厥"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "functions",
+    "node_2": "功能主治\t神昏谵语"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿惊厥"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "functions",
+    "node_2": "功能主治\t中风昏迷"
+  },
+  {
+    "node_1": "方名\t安宫牛黄丸",
+    "relation": "prescription type",
+    "node_2": "处方\t安宫牛黄丸"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t牛黄",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t郁金",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄连",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t朱砂",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t山栀",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t雄黄",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t犀角",
+    "weight": "一两 (水牛角浓缩粉代，60g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t冰片",
+    "weight": "二钱五分 (7.5g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t麝香",
+    "weight": "二钱五分 (7.5g)"
+  },
+  {
+    "node_1": "处方\t安宫牛黄丸",
+    "relation": "composition",
+    "node_2": "中药名\t珍珠",
+    "weight": "五钱 (15g)"
+  }
+]

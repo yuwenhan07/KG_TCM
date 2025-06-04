@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t散偏汤"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "from",
+    "node_2": "来源\t清·《辨证录》"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t时轻时重"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风止痛"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮弦"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t郁气不宣"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或痛在右"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t半边头风"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或痛在左"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t遇风寒尤甚"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t风邪袭于少阳经"
+  },
+  {
+    "node_1": "方名\t散偏汤",
+    "relation": "prescription type",
+    "node_2": "处方\t散偏汤"
+  },
+  {
+    "node_1": "处方\t散偏汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍"
+  },
+  {
+    "node_1": "中药名\t白芍",
+    "relation": "dose",
+    "node_2": "剂量\t五钱(15克)"
+  },
+  {
+    "node_1": "处方\t散偏汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t一两(30克)"
+  },
+  {
+    "node_1": "处方\t散偏汤",
+    "relation": "composition",
+    "node_2": "中药名\t郁李仁"
+  },
+  {
+    "node_1": "中药名\t郁李仁",
+    "relation": "dose",
+    "node_2": "剂量\t一钱(3克)"
+  },
+  {
+    "node_1": "处方\t散偏汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t一钱(3克)"
+  },
+  {
+    "node_1": "处方\t散偏汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芥子"
+  },
+  {
+    "node_1": "中药名\t白芥子",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t散偏汤",
+    "relation": "composition",
+    "node_2": "中药名\t香附"
+  },
+  {
+    "node_1": "中药名\t香附",
+    "relation": "dose",
+    "node_2": "剂量\t二钱(6克)"
+  },
+  {
+    "node_1": "处方\t散偏汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t一钱(3克)"
+  },
+  {
+    "node_1": "处方\t散偏汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芷"
+  },
+  {
+    "node_1": "中药名\t白芷",
+    "relation": "dose",
+    "node_2": "剂量\t五分(1.5克)"
+  }
+]

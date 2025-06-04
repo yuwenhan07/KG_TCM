@@ -1,0 +1,125 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t三仁汤"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t午后身热"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸闷不饥"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体倦怠"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦细而濡"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t暑温夹湿之湿重于热证"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白不渴"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身重疼痛"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色淡黄"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛恶寒"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t湿温初起"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清利湿热"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t宣畅气机"
+  },
+  {
+    "node_1": "方名\t三仁汤",
+    "relation": "prescription type",
+    "node_2": "处方\t三仁汤"
+  },
+  {
+    "node_1": "处方\t三仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁",
+    "weight": "五钱（15g）"
+  },
+  {
+    "node_1": "处方\t三仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t飞滑石",
+    "weight": "六钱（18g）"
+  },
+  {
+    "node_1": "处方\t三仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t白通草",
+    "weight": "二钱（6g）"
+  },
+  {
+    "node_1": "处方\t三仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t白蔻仁",
+    "weight": "二钱（6g）"
+  },
+  {
+    "node_1": "处方\t三仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t竹叶",
+    "weight": "二钱（6g）"
+  },
+  {
+    "node_1": "处方\t三仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴",
+    "weight": "二钱（6g）"
+  },
+  {
+    "node_1": "处方\t三仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t生薏苡仁",
+    "weight": "六钱（18g）"
+  },
+  {
+    "node_1": "处方\t三仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "五钱（15g）"
+  }
+]

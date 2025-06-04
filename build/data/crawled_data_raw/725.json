@@ -1,0 +1,142 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t九仙散"
+  },
+  {
+    "node_1": "方名\t九仙散",
+    "relation": "from",
+    "node_2": "来源\t《卫生宝鉴》"
+  },
+  {
+    "node_1": "方名\t九仙散",
+    "relation": "functions",
+    "node_2": "功能主治\t甚则气喘自汗"
+  },
+  {
+    "node_1": "方名\t九仙散",
+    "relation": "functions",
+    "node_2": "功能主治\t益气养阴"
+  },
+  {
+    "node_1": "方名\t九仙散",
+    "relation": "functions",
+    "node_2": "功能主治\t敛肺止咳"
+  },
+  {
+    "node_1": "方名\t九仙散",
+    "relation": "functions",
+    "node_2": "功能主治\t久咳肺虚证"
+  },
+  {
+    "node_1": "方名\t九仙散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚数"
+  },
+  {
+    "node_1": "方名\t九仙散",
+    "relation": "functions",
+    "node_2": "功能主治\t痰少而黏"
+  },
+  {
+    "node_1": "方名\t九仙散",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽日久不已"
+  },
+  {
+    "node_1": "方名\t九仙散",
+    "relation": "prescription type",
+    "node_2": "处方\t九仙散"
+  },
+  {
+    "node_1": "处方\t九仙散",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t九仙散",
+    "relation": "composition",
+    "node_2": "中药名\t款冬花"
+  },
+  {
+    "node_1": "中药名\t款冬花",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t九仙散",
+    "relation": "composition",
+    "node_2": "中药名\t桑白皮"
+  },
+  {
+    "node_1": "中药名\t桑白皮",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t九仙散",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t九仙散",
+    "relation": "composition",
+    "node_2": "中药名\t五味子"
+  },
+  {
+    "node_1": "中药名\t五味子",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t九仙散",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶"
+  },
+  {
+    "node_1": "中药名\t阿胶",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t九仙散",
+    "relation": "composition",
+    "node_2": "中药名\t乌梅"
+  },
+  {
+    "node_1": "中药名\t乌梅",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t九仙散",
+    "relation": "composition",
+    "node_2": "中药名\t贝母"
+  },
+  {
+    "node_1": "中药名\t贝母",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t九仙散",
+    "relation": "composition",
+    "node_2": "中药名\t罂粟壳(去顶，蜜炒黄)"
+  },
+  {
+    "node_1": "中药名\t罂粟壳(去顶，蜜炒黄)",
+    "relation": "dose",
+    "node_2": "剂量\t240g"
+  }
+]

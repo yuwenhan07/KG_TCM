@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桑螵蛸散"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "from",
+    "node_2": "来源\t《本草衍义》"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细弱"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t遗尿"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t小便频数"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t尿如米泔色"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t心神恍惚"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t调补心肾"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t遗精"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t健忘"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t心肾两虚证"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "functions",
+    "node_2": "功能主治\t涩精止遗"
+  },
+  {
+    "node_1": "方名\t桑螵蛸散",
+    "relation": "prescription type",
+    "node_2": "处方\t桑螵蛸散"
+  },
+  {
+    "node_1": "处方\t桑螵蛸散",
+    "relation": "composition",
+    "node_2": "中药名\t桑螵蛸"
+  },
+  {
+    "node_1": "中药名\t桑螵蛸",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桑螵蛸散",
+    "relation": "composition",
+    "node_2": "中药名\t远志"
+  },
+  {
+    "node_1": "中药名\t远志",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桑螵蛸散",
+    "relation": "composition",
+    "node_2": "中药名\t菖蒲"
+  },
+  {
+    "node_1": "中药名\t菖蒲",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桑螵蛸散",
+    "relation": "composition",
+    "node_2": "中药名\t龙骨"
+  },
+  {
+    "node_1": "中药名\t龙骨",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桑螵蛸散",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桑螵蛸散",
+    "relation": "composition",
+    "node_2": "中药名\t茯神"
+  },
+  {
+    "node_1": "中药名\t茯神",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桑螵蛸散",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桑螵蛸散",
+    "relation": "composition",
+    "node_2": "中药名\t龟甲(酥炙)"
+  },
+  {
+    "node_1": "中药名\t龟甲(酥炙)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t济川煎"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "from",
+    "node_2": "来源\t《景岳全书》"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t小便清长"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t腰膝酸软"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t头目眩晕"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t精津不足证"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉迟"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t肾阳虚弱"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t温肾益精"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t润肠通便"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "functions",
+    "node_2": "功能主治\t大便秘结"
+  },
+  {
+    "node_1": "方名\t济川煎",
+    "relation": "prescription type",
+    "node_2": "处方\t济川煎"
+  },
+  {
+    "node_1": "处方\t济川煎",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t9～15克"
+  },
+  {
+    "node_1": "处方\t济川煎",
+    "relation": "composition",
+    "node_2": "中药名\t牛膝"
+  },
+  {
+    "node_1": "中药名\t牛膝",
+    "relation": "dose",
+    "node_2": "剂量\t6克"
+  },
+  {
+    "node_1": "处方\t济川煎",
+    "relation": "composition",
+    "node_2": "中药名\t肉苁蓉(酒洗去咸)"
+  },
+  {
+    "node_1": "中药名\t肉苁蓉(酒洗去咸)",
+    "relation": "dose",
+    "node_2": "剂量\t6～9克"
+  },
+  {
+    "node_1": "处方\t济川煎",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t4.5克"
+  },
+  {
+    "node_1": "处方\t济川煎",
+    "relation": "composition",
+    "node_2": "中药名\t升麻"
+  },
+  {
+    "node_1": "中药名\t升麻",
+    "relation": "dose",
+    "node_2": "剂量\t1.5～3克"
+  },
+  {
+    "node_1": "处方\t济川煎",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳"
+  },
+  {
+    "node_1": "中药名\t枳壳",
+    "relation": "dose",
+    "node_2": "剂量\t3克"
+  }
+]

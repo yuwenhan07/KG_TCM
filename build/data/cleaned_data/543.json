@@ -1,0 +1,81 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t麻黄汤"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论：辨太阳病脉证并治中》"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮紧"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发汗解表"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风寒"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t宣肺平喘"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄白"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛身疼"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗而喘"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t麻黄汤",
+    "relation": "prescription type",
+    "node_2": "处方\t麻黄汤"
+  },
+  {
+    "node_1": "处方\t麻黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t麻黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t麻黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t麻黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草",
+    "weight": "3克"
+  }
+]

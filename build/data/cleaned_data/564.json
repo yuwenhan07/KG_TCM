@@ -1,0 +1,74 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t止嗽散"
+  },
+  {
+    "node_1": "方名\t止嗽散",
+    "relation": "from",
+    "node_2": "来源\t《医学心悟》"
+  },
+  {
+    "node_1": "方名\t止嗽散",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风宣肺"
+  },
+  {
+    "node_1": "方名\t止嗽散",
+    "relation": "functions",
+    "node_2": "功能主治\t解表"
+  },
+  {
+    "node_1": "方名\t止嗽散",
+    "relation": "functions",
+    "node_2": "功能主治\t止咳化痰"
+  },
+  {
+    "node_1": "方名\t止嗽散",
+    "relation": "prescription type",
+    "node_2": "处方\t止嗽散"
+  },
+  {
+    "node_1": "处方\t止嗽散",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗(炒)",
+    "weight": "1kg"
+  },
+  {
+    "node_1": "处方\t止嗽散",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥",
+    "weight": "1kg"
+  },
+  {
+    "node_1": "处方\t止嗽散",
+    "relation": "composition",
+    "node_2": "中药名\t紫菀(蒸)",
+    "weight": "1kg"
+  },
+  {
+    "node_1": "处方\t止嗽散",
+    "relation": "composition",
+    "node_2": "中药名\t百部(蒸)",
+    "weight": "1kg"
+  },
+  {
+    "node_1": "处方\t止嗽散",
+    "relation": "composition",
+    "node_2": "中药名\t白前(蒸)",
+    "weight": "1kg"
+  },
+  {
+    "node_1": "处方\t止嗽散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炒)",
+    "weight": "375g"
+  },
+  {
+    "node_1": "处方\t止嗽散",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮(水洗去白)",
+    "weight": "500g"
+  }
+]

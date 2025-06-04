@@ -1,0 +1,187 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t参苏饮"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t气短懒言"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻塞"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽痰白"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t倦怠无力"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弱"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t内有痰湿证"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t气虚外感风寒"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t胸脘满闷"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t参苏饮",
+    "relation": "prescription type",
+    "node_2": "处方\t参苏饮"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t三分 (6g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t紫苏叶"
+  },
+  {
+    "node_1": "中药名\t紫苏叶",
+    "relation": "dose",
+    "node_2": "剂量\t三分 (6g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t干葛"
+  },
+  {
+    "node_1": "中药名\t干葛",
+    "relation": "dose",
+    "node_2": "剂量\t三分 (6g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t三分 (6g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t前胡"
+  },
+  {
+    "node_1": "中药名\t前胡",
+    "relation": "dose",
+    "node_2": "剂量\t三分 (6g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t三分 (6g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳"
+  },
+  {
+    "node_1": "中药名\t枳壳",
+    "relation": "dose",
+    "node_2": "剂量\t半两 (4g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t半两 (4g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t半两 (4g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮"
+  },
+  {
+    "node_1": "中药名\t陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t半两 (4g)"
+  },
+  {
+    "node_1": "处方\t参苏饮",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t半两 (4g)"
+  }
+]

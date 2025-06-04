@@ -1,0 +1,82 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桂枝汤"
+  },
+  {
+    "node_1": "方名\t桂枝汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻鸣干呕"
+  },
+  {
+    "node_1": "方名\t桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶风发热"
+  },
+  {
+    "node_1": "方名\t桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白不渴"
+  },
+  {
+    "node_1": "方名\t桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t汗出"
+  },
+  {
+    "node_1": "方名\t桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮缓或浮弱者"
+  },
+  {
+    "node_1": "方名\t桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风寒表虚证"
+  },
+  {
+    "node_1": "方名\t桂枝汤",
+    "relation": "prescription type",
+    "node_2": "处方\t桂枝汤"
+  },
+  {
+    "node_1": "处方\t桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "三两 (9g)"
+  },
+  {
+    "node_1": "处方\t桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "三两 (9g)"
+  },
+  {
+    "node_1": "处方\t桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草",
+    "weight": "二两 (6g)"
+  },
+  {
+    "node_1": "处方\t桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "三两 (9g)"
+  },
+  {
+    "node_1": "处方\t桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "十二枚 (3g)"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t大定风珠"
+  },
+  {
+    "node_1": "方名\t大定风珠",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t大定风珠",
+    "relation": "functions",
+    "node_2": "功能主治\t时时欲脱者"
+  },
+  {
+    "node_1": "方名\t大定风珠",
+    "relation": "functions",
+    "node_2": "功能主治\t形消神倦"
+  },
+  {
+    "node_1": "方名\t大定风珠",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴息风"
+  },
+  {
+    "node_1": "方名\t大定风珠",
+    "relation": "functions",
+    "node_2": "功能主治\t手足瘈疭"
+  },
+  {
+    "node_1": "方名\t大定风珠",
+    "relation": "functions",
+    "node_2": "功能主治\t阴虚风动证"
+  },
+  {
+    "node_1": "方名\t大定风珠",
+    "relation": "functions",
+    "node_2": "功能主治\t脉气虚弱"
+  },
+  {
+    "node_1": "方名\t大定风珠",
+    "relation": "functions",
+    "node_2": "功能主治\t舌绛少苔"
+  },
+  {
+    "node_1": "方名\t大定风珠",
+    "relation": "prescription type",
+    "node_2": "处方\t大定风珠"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t生白芍",
+    "weight": "六钱(18g)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶",
+    "weight": "三钱(9g)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t生龟甲",
+    "weight": "四钱(12g)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄",
+    "weight": "六钱(18g)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t麻仁",
+    "weight": "二钱(6g)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t五味子",
+    "weight": "二钱(6g)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t生牡蛎",
+    "weight": "四钱(12g)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬连心",
+    "weight": "六钱(18g)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草",
+    "weight": "四钱(12g)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t鸡子黄生",
+    "weight": "二枚(2个)"
+  },
+  {
+    "node_1": "处方\t大定风珠",
+    "relation": "composition",
+    "node_2": "中药名\t鳖甲生",
+    "weight": "四钱(12g)"
+  }
+]

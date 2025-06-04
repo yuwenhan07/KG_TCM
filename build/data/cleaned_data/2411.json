@@ -1,0 +1,173 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t神术散2"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》；《太平惠民和剂局方》卷二；《医学心悟》卷三；《医方类聚》卷六十二引《王氏集验方》"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛项强"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t呕吐泻利"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t化浊辟秽"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t伤寒伤风"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t脉濡"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t伤风鼻塞声重"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡红"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t发热恶寒"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t头疼身痛"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽头昏"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t治外感风寒湿邪"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t胸满腹痛"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t发热头痛"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t化蚀辟秽"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗上呼吸道感染等病症"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风寒湿邪"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t身体疼痛"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t伤食停饮"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t发汗解表"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t治时行不正之气"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白腻"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t腰滞腿疼"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "functions",
+    "node_2": "功能主治\t发热憎寒"
+  },
+  {
+    "node_1": "方名\t神术散2",
+    "relation": "prescription type",
+    "node_2": "处方\t神术散2"
+  },
+  {
+    "node_1": "处方\t神术散2",
+    "relation": "composition",
+    "node_2": "中药名\t苍术",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t神术散2",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥穗",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t神术散2",
+    "relation": "composition",
+    "node_2": "中药名\t藁本",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t神术散2",
+    "relation": "composition",
+    "node_2": "中药名\t干葛",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t神术散2",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t神术散2",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "各等分"
+  }
+]

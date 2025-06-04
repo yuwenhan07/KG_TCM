@@ -1,0 +1,93 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t逍遥散"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "functions",
+    "node_2": "功能主治\t口燥咽干"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "functions",
+    "node_2": "功能主治\t两胁作痛"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "functions",
+    "node_2": "功能主治\t乳房胀痛"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "functions",
+    "node_2": "功能主治\t神疲食少"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛目眩"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "functions",
+    "node_2": "功能主治\t养血健脾"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "functions",
+    "node_2": "功能主治\t月经不调"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "functions",
+    "node_2": "功能主治\t疏肝解郁"
+  },
+  {
+    "node_1": "方名\t逍遥散",
+    "relation": "prescription type",
+    "node_2": "处方\t逍遥散"
+  },
+  {
+    "node_1": "处方\t逍遥散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草（微炙赤）",
+    "weight": "半两（15g）"
+  },
+  {
+    "node_1": "处方\t逍遥散",
+    "relation": "composition",
+    "node_2": "中药名\t当归（去苗，锉，微炒）",
+    "weight": "一两（30g）"
+  },
+  {
+    "node_1": "处方\t逍遥散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓（去皮）白者",
+    "weight": "一两（30g）"
+  },
+  {
+    "node_1": "处方\t逍遥散",
+    "relation": "composition",
+    "node_2": "中药名\t白芍药",
+    "weight": "一两（30g）"
+  },
+  {
+    "node_1": "处方\t逍遥散",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "一两（30g）"
+  },
+  {
+    "node_1": "处方\t逍遥散",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡（去苗）",
+    "weight": "一两（30g）"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t金铃子散"
+  },
+  {
+    "node_1": "方名\t金铃子散",
+    "relation": "from",
+    "node_2": "来源\t《太平聖惠方》錄自《袖珍方》"
+  },
+  {
+    "node_1": "方名\t金铃子散",
+    "relation": "functions",
+    "node_2": "功能主治\t清热泻火"
+  },
+  {
+    "node_1": "方名\t金铃子散",
+    "relation": "functions",
+    "node_2": "功能主治\t缓解心胸胁肋脘腹诸痛"
+  },
+  {
+    "node_1": "方名\t金铃子散",
+    "relation": "functions",
+    "node_2": "功能主治\t改善舌红苔黄"
+  },
+  {
+    "node_1": "方名\t金铃子散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗口苦"
+  },
+  {
+    "node_1": "方名\t金铃子散",
+    "relation": "functions",
+    "node_2": "功能主治\t调节脉弦数"
+  },
+  {
+    "node_1": "方名\t金铃子散",
+    "relation": "functions",
+    "node_2": "功能主治\t疏肝解郁"
+  },
+  {
+    "node_1": "方名\t金铃子散",
+    "relation": "prescription type",
+    "node_2": "处方\t金铃子散"
+  },
+  {
+    "node_1": "处方\t金铃子散",
+    "relation": "composition",
+    "node_2": "中药名\t金铃子"
+  },
+  {
+    "node_1": "中药名\t金铃子",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t金铃子散",
+    "relation": "composition",
+    "node_2": "中药名\t玄胡"
+  },
+  {
+    "node_1": "中药名\t玄胡",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  }
+]

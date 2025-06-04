@@ -1,0 +1,172 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t仙方活命饮"
+  },
+  {
+    "node_1": "方名\t仙方活命饮",
+    "relation": "from",
+    "node_2": "来源\t《校注妇人良方》"
+  },
+  {
+    "node_1": "方名\t仙方活命饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄白或黄"
+  },
+  {
+    "node_1": "方名\t仙方活命饮",
+    "relation": "functions",
+    "node_2": "功能主治\t局部红肿焮痛"
+  },
+  {
+    "node_1": "方名\t仙方活命饮",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数有力"
+  },
+  {
+    "node_1": "方名\t仙方活命饮",
+    "relation": "functions",
+    "node_2": "功能主治\t阳证痈疡肿毒初起"
+  },
+  {
+    "node_1": "方名\t仙方活命饮",
+    "relation": "functions",
+    "node_2": "功能主治\t身热凛寒"
+  },
+  {
+    "node_1": "方名\t仙方活命饮",
+    "relation": "prescription type",
+    "node_2": "处方\t仙方活命饮"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t白芷"
+  },
+  {
+    "node_1": "中药名\t白芷",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t贝母"
+  },
+  {
+    "node_1": "中药名\t贝母",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t赤芍药"
+  },
+  {
+    "node_1": "中药名\t赤芍药",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t当归尾"
+  },
+  {
+    "node_1": "中药名\t当归尾",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t甘草节"
+  },
+  {
+    "node_1": "中药名\t甘草节",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t皂角刺(炒)"
+  },
+  {
+    "node_1": "中药名\t皂角刺(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t穿山甲(炙)"
+  },
+  {
+    "node_1": "中药名\t穿山甲(炙)",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t天花粉"
+  },
+  {
+    "node_1": "中药名\t天花粉",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t乳香"
+  },
+  {
+    "node_1": "中药名\t乳香",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t没药"
+  },
+  {
+    "node_1": "中药名\t没药",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t金银花"
+  },
+  {
+    "node_1": "中药名\t金银花",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t仙方活命饮",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮"
+  },
+  {
+    "node_1": "中药名\t陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  }
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t清燥救肺汤"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "from",
+    "node_2": "来源\t《医门法律》"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气逆而喘"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌干少苔"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚大而数"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸满胁痛"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦口渴"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气阴两伤证"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t干咳无痰"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻燥"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热头痛"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咽喉干燥"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温燥伤肺"
+  },
+  {
+    "node_1": "方名\t清燥救肺汤",
+    "relation": "prescription type",
+    "node_2": "处方\t清燥救肺汤"
+  },
+  {
+    "node_1": "处方\t清燥救肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t桑叶",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t清燥救肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t石膏",
+    "weight": "8g"
+  },
+  {
+    "node_1": "处方\t清燥救肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清燥救肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t胡麻仁",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清燥救肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t真阿胶",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清燥救肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t枇杷叶",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清燥救肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬",
+    "weight": "4g"
+  },
+  {
+    "node_1": "处方\t清燥救肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "2g"
+  },
+  {
+    "node_1": "处方\t清燥救肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁",
+    "weight": "2g"
+  }
+]

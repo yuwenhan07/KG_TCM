@@ -1,0 +1,117 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t封髓丹"
+  },
+  {
+    "node_1": "方名\t封髓丹",
+    "relation": "from",
+    "node_2": "来源\t《御药院方》卷六；《北京市中药成方选集》；《医方类聚》卷一五三引《经验秘方》"
+  },
+  {
+    "node_1": "方名\t封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t肾气虚弱，相火妄动，梦遗滑精，阳关不守"
+  },
+  {
+    "node_1": "方名\t封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t肾阴不足，相火妄动，夜梦遗精"
+  },
+  {
+    "node_1": "方名\t封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t诸虚"
+  },
+  {
+    "node_1": "方名\t封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t降火止遗"
+  },
+  {
+    "node_1": "方名\t封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t降心火，益肾水，升阳壮气，添精补髓"
+  },
+  {
+    "node_1": "方名\t封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴降火，固精封髓"
+  },
+  {
+    "node_1": "方名\t封髓丹",
+    "relation": "prescription type",
+    "node_2": "处方\t封髓丹"
+  },
+  {
+    "node_1": "处方\t封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t商黄柏"
+  },
+  {
+    "node_1": "中药名\t商黄柏",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  },
+  {
+    "node_1": "处方\t封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t刘寄奴"
+  },
+  {
+    "node_1": "中药名\t刘寄奴",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  },
+  {
+    "node_1": "处方\t封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t新莲蕊"
+  },
+  {
+    "node_1": "中药名\t新莲蕊",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  },
+  {
+    "node_1": "处方\t封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t破故纸（羊肠煮）"
+  },
+  {
+    "node_1": "中药名\t破故纸（羊肠煮）",
+    "relation": "dose",
+    "node_2": "剂量\t1两"
+  },
+  {
+    "node_1": "处方\t封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t母丁香"
+  },
+  {
+    "node_1": "中药名\t母丁香",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t蛤蚧（微炒）"
+  },
+  {
+    "node_1": "中药名\t蛤蚧（微炒）",
+    "relation": "dose",
+    "node_2": "剂量\t1对"
+  },
+  {
+    "node_1": "处方\t封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t枣针"
+  },
+  {
+    "node_1": "中药名\t枣针",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  }
+]

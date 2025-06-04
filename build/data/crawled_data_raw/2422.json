@@ -1,0 +1,252 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t仙遗粮汤5"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "from",
+    "node_2": "来源\t《外科正宗》卷三；《景岳全书》卷六十四；《医学入门》卷八；医宗说约》卷六；《外科正宗》"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t杨梅疮初起，筋骨疼痛，数月延绵不已"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t杨梅风毒，误服轻粉，瘫痪骨疼，不能动履"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t除湿解毒"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风清热"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t清热疏风"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t散瘀解毒"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t活血散瘀"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t杨梅结毒，初起筋骨疼痛，已破，肌肉溃烂者"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t治杨梅疮"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t杨梅结毒，发无定处，外侵皮肤，内伤筋骨、肌肉，证见筋骨疼痛，肌肉溃烂等"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t预防下疳疮"
+  },
+  {
+    "node_1": "方名\t仙遗粮汤5",
+    "relation": "prescription type",
+    "node_2": "处方\t仙遗粮汤5"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t仙遗粮"
+  },
+  {
+    "node_1": "中药名\t仙遗粮",
+    "relation": "dose",
+    "node_2": "剂量\t四两(120g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥"
+  },
+  {
+    "node_1": "中药名\t荆芥",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t天花粉"
+  },
+  {
+    "node_1": "中药名\t天花粉",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t金银花"
+  },
+  {
+    "node_1": "中药名\t金银花",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t白蒺藜"
+  },
+  {
+    "node_1": "中药名\t白蒺藜",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t牛膝"
+  },
+  {
+    "node_1": "中药名\t牛膝",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t苡仁"
+  },
+  {
+    "node_1": "中药名\t苡仁",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t威灵仙"
+  },
+  {
+    "node_1": "中药名\t威灵仙",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t山栀"
+  },
+  {
+    "node_1": "中药名\t山栀",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t连翘"
+  },
+  {
+    "node_1": "中药名\t连翘",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t葛根"
+  },
+  {
+    "node_1": "中药名\t葛根",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t白芷"
+  },
+  {
+    "node_1": "中药名\t白芷",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(10g)"
+  },
+  {
+    "node_1": "处方\t仙遗粮汤5",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩"
+  },
+  {
+    "node_1": "中药名\t黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t二钱(6g)"
+  }
+]

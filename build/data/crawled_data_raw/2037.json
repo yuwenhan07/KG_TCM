@@ -1,0 +1,172 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t五子衍宗丸2"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "from",
+    "node_2": "来源\t《中国药典》；《摄生众妙方》卷十一"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t久不生育"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t遗精早泄"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t少精属肾精不足者"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t余沥不清"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t阳痿不育"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t治肾虚精少"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t精冷"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t阳瘘早泄"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t补肾益精"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t现代常用于治疗男性不育之弱精"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t用于肾虚腰痛"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t勃起功能障碍"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t虽专为男子不育而设，但主要是针对肾阴不足之不孕症同样有效"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t尿后余沥"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t补肾固精"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t不孕"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t妇女不孕症"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t添精益髓"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t不育"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t遗精"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "functions",
+    "node_2": "功能主治\t滑胎"
+  },
+  {
+    "node_1": "方名\t五子衍宗丸2",
+    "relation": "prescription type",
+    "node_2": "处方\t五子衍宗丸2"
+  },
+  {
+    "node_1": "处方\t五子衍宗丸2",
+    "relation": "composition",
+    "node_2": "中药名\t枸杞子"
+  },
+  {
+    "node_1": "中药名\t枸杞子",
+    "relation": "dose",
+    "node_2": "剂量\t240克"
+  },
+  {
+    "node_1": "处方\t五子衍宗丸2",
+    "relation": "composition",
+    "node_2": "中药名\t菟丝子"
+  },
+  {
+    "node_1": "中药名\t菟丝子",
+    "relation": "dose",
+    "node_2": "剂量\t240克"
+  },
+  {
+    "node_1": "处方\t五子衍宗丸2",
+    "relation": "composition",
+    "node_2": "中药名\t北五味子"
+  },
+  {
+    "node_1": "中药名\t北五味子",
+    "relation": "dose",
+    "node_2": "剂量\t60克"
+  },
+  {
+    "node_1": "处方\t五子衍宗丸2",
+    "relation": "composition",
+    "node_2": "中药名\t覆盆子"
+  },
+  {
+    "node_1": "中药名\t覆盆子",
+    "relation": "dose",
+    "node_2": "剂量\t120克"
+  },
+  {
+    "node_1": "处方\t五子衍宗丸2",
+    "relation": "composition",
+    "node_2": "中药名\t车前子"
+  },
+  {
+    "node_1": "中药名\t车前子",
+    "relation": "dose",
+    "node_2": "剂量\t60克"
+  }
+]

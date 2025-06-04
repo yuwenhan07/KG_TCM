@@ -1,0 +1,139 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t赤小豆当归散"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治肌表热不甚"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治大便下血"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t现常用于口腔溃疡"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t和营解毒"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t现常用于痈肿"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗尿路感染"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗口腔溃疡"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治伤寒狐惑"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治先血后便"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t现脓成者为宜"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治汗出"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t现也适用于白塞氏综合征之会阴损伤"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治脉数者"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t现也适用于尿路感染等属于湿热下注者"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治能进食"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治肠中痈脓"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t现常用于疮疡"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治微烦"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治目眦黑"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治欲卧"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t清热利湿"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "functions",
+    "node_2": "功能主治\t现尤对痔疮和直肠肛门周围脓肿"
+  },
+  {
+    "node_1": "方名\t赤小豆当归散",
+    "relation": "prescription type",
+    "node_2": "处方\t赤小豆当归散"
+  },
+  {
+    "node_1": "处方\t赤小豆当归散",
+    "relation": "composition",
+    "node_2": "中药名\t赤小豆",
+    "weight": "三升(150克)"
+  },
+  {
+    "node_1": "处方\t赤小豆当归散",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "三两(30克)"
+  }
+]

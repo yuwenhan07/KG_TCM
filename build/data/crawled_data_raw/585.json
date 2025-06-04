@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t清营汤"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴或不渴"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌绛而干"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热夜甚"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "functions",
+    "node_2": "功能主治\t斑疹隐隐"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热入营分证"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "functions",
+    "node_2": "功能主治\t目常喜开或喜闭"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细数"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "functions",
+    "node_2": "功能主治\t时有谵语"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神烦少寐"
+  },
+  {
+    "node_1": "方名\t清营汤",
+    "relation": "prescription type",
+    "node_2": "处方\t清营汤"
+  },
+  {
+    "node_1": "处方\t清营汤",
+    "relation": "composition",
+    "node_2": "中药名\t犀角(水牛角代替)"
+  },
+  {
+    "node_1": "中药名\t犀角(水牛角代替)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t清营汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄"
+  },
+  {
+    "node_1": "中药名\t生地黄",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t清营汤",
+    "relation": "composition",
+    "node_2": "中药名\t元参"
+  },
+  {
+    "node_1": "中药名\t元参",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t清营汤",
+    "relation": "composition",
+    "node_2": "中药名\t竹叶心"
+  },
+  {
+    "node_1": "中药名\t竹叶心",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t清营汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬"
+  },
+  {
+    "node_1": "中药名\t麦冬",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t清营汤",
+    "relation": "composition",
+    "node_2": "中药名\t丹参"
+  },
+  {
+    "node_1": "中药名\t丹参",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t清营汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  },
+  {
+    "node_1": "处方\t清营汤",
+    "relation": "composition",
+    "node_2": "中药名\t银花"
+  },
+  {
+    "node_1": "中药名\t银花",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t清营汤",
+    "relation": "composition",
+    "node_2": "中药名\t连翘"
+  },
+  {
+    "node_1": "中药名\t连翘",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  }
+]

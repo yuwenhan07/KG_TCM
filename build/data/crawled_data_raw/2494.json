@@ -1,0 +1,147 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t千金鲤鱼汤（鲤鱼汤）"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "from",
+    "node_2": "来源\t《备急干金要方》；（《千金》卷三）"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治或时盗汗"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t健脾利水"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t养血安胎"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治胎间有水气"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治通身肿满"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗恶性腹水等病症"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治妇人体虚"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治妊娠腹大"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治脉濡缓"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗妊娠合并羊水过多"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治流汗不止"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治舌淡胖"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗水肿"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治妊娠水肿"
+  },
+  {
+    "node_1": "方名\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "prescription type",
+    "node_2": "处方\t千金鲤鱼汤（鲤鱼汤）"
+  },
+  {
+    "node_1": "处方\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "composition",
+    "node_2": "中药名\t鲤鱼"
+  },
+  {
+    "node_1": "中药名\t鲤鱼",
+    "relation": "dose",
+    "node_2": "剂量\t1尾(约重1千克)"
+  },
+  {
+    "node_1": "处方\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t150克"
+  },
+  {
+    "node_1": "处方\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t120克"
+  },
+  {
+    "node_1": "处方\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t90克"
+  },
+  {
+    "node_1": "处方\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t90克"
+  },
+  {
+    "node_1": "处方\t千金鲤鱼汤（鲤鱼汤）",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t90克"
+  }
+]

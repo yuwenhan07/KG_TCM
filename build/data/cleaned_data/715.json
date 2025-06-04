@@ -1,0 +1,132 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t羚角钩藤汤"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "from",
+    "node_2": "来源\t《通俗伤寒论》"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足抽搐"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t烦闷躁扰"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t增液舒筋"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热盛动风证"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌绛而干"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t高热不退"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发为痉厥"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦而数"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t甚则神昏"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t凉肝熄风"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或舌焦起刺"
+  },
+  {
+    "node_1": "方名\t羚角钩藤汤",
+    "relation": "prescription type",
+    "node_2": "处方\t羚角钩藤汤"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t羚角片",
+    "weight": "钱半 (4.5g)"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t霜桑叶",
+    "weight": "二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t京贝母",
+    "weight": "四钱，去心 (12g)"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t鲜生地",
+    "weight": "五钱 (15g)"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t双钩藤",
+    "weight": "三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t滁菊花",
+    "weight": "三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯神木",
+    "weight": "三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t生白芍",
+    "weight": "三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t生甘草",
+    "weight": "八分 (2.4g)"
+  },
+  {
+    "node_1": "处方\t羚角钩藤汤",
+    "relation": "composition",
+    "node_2": "中药名\t淡竹茹",
+    "weight": "五钱，鲜刮 (15g)"
+  }
+]

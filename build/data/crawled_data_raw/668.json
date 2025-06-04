@@ -1,0 +1,197 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t甘露消毒丹"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "from",
+    "node_2": "来源\t《医效秘传》"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t身目发黄"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t利湿化浊"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t肢酸咽痛"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t湿温时疫"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t胸闷腹胀"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t小便短赤"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白或厚腻或干黄"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t脉濡数或滑数"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t泄泻淋浊"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t发热倦怠"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t颐肿口渴"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t邪在气分"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热并重证"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "functions",
+    "node_2": "功能主治\t清热解毒"
+  },
+  {
+    "node_1": "方名\t甘露消毒丹",
+    "relation": "prescription type",
+    "node_2": "处方\t甘露消毒丹"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t飞滑石"
+  },
+  {
+    "node_1": "中药名\t飞滑石",
+    "relation": "dose",
+    "node_2": "剂量\t450g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t淡黄芩"
+  },
+  {
+    "node_1": "中药名\t淡黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t300g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t绵茵陈"
+  },
+  {
+    "node_1": "中药名\t绵茵陈",
+    "relation": "dose",
+    "node_2": "剂量\t330g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t石菖蒲"
+  },
+  {
+    "node_1": "中药名\t石菖蒲",
+    "relation": "dose",
+    "node_2": "剂量\t180g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t川贝母"
+  },
+  {
+    "node_1": "中药名\t川贝母",
+    "relation": "dose",
+    "node_2": "剂量\t150g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t木通"
+  },
+  {
+    "node_1": "中药名\t木通",
+    "relation": "dose",
+    "node_2": "剂量\t150g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t藿香"
+  },
+  {
+    "node_1": "中药名\t藿香",
+    "relation": "dose",
+    "node_2": "剂量\t120g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t连翘"
+  },
+  {
+    "node_1": "中药名\t连翘",
+    "relation": "dose",
+    "node_2": "剂量\t120g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t白蔻仁"
+  },
+  {
+    "node_1": "中药名\t白蔻仁",
+    "relation": "dose",
+    "node_2": "剂量\t120g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t薄荷"
+  },
+  {
+    "node_1": "中药名\t薄荷",
+    "relation": "dose",
+    "node_2": "剂量\t120g"
+  },
+  {
+    "node_1": "处方\t甘露消毒丹",
+    "relation": "composition",
+    "node_2": "中药名\t射干"
+  },
+  {
+    "node_1": "中药名\t射干",
+    "relation": "dose",
+    "node_2": "剂量\t120g"
+  }
+]

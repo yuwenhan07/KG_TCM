@@ -1,0 +1,102 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t黛蛤散（青蛤丸）"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "from",
+    "node_2": "来源\t《中国药典》"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕耳鸣"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t《丹溪心法》亦以本方治咳嗽声嘶，由血虚受热所致者"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治肝火犯肺之咳嗽（久咳嗽不止）"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗均宜清肝泻肺，化痰止咳"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t咳痰带血"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t或咳嗽日久，面鼻发红"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t或血虚受热，咳嗽声嘶"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t化痰止咳"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦易怒"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t清肝泻肺"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "functions",
+    "node_2": "功能主治\t临床上用于支气管扩张、气管炎、百日咳、肺结核等属肝火犯肺者"
+  },
+  {
+    "node_1": "方名\t黛蛤散（青蛤丸）",
+    "relation": "prescription type",
+    "node_2": "处方\t黛蛤散（青蛤丸）"
+  },
+  {
+    "node_1": "处方\t黛蛤散（青蛤丸）",
+    "relation": "composition",
+    "node_2": "中药名\t青黛"
+  },
+  {
+    "node_1": "中药名\t青黛",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t黛蛤散（青蛤丸）",
+    "relation": "composition",
+    "node_2": "中药名\t蛤壳"
+  },
+  {
+    "node_1": "中药名\t蛤壳",
+    "relation": "dose",
+    "node_2": "剂量\t300g"
+  }
+]

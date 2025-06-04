@@ -1,0 +1,97 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t牡蛎散"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细弱"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸惊惕"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t夜卧更甚"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t常自汗出"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t益气固表"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t体虚自汗"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t盗汗证"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t短气烦倦"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t敛阴止汗"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡红"
+  },
+  {
+    "node_1": "方名\t牡蛎散",
+    "relation": "prescription type",
+    "node_2": "处方\t牡蛎散"
+  },
+  {
+    "node_1": "处方\t牡蛎散",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪"
+  },
+  {
+    "node_1": "中药名\t黄芪",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t牡蛎散",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄根"
+  },
+  {
+    "node_1": "中药名\t麻黄根",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t牡蛎散",
+    "relation": "composition",
+    "node_2": "中药名\t牡蛎米泔浸，刷去土，火烧通赤"
+  },
+  {
+    "node_1": "中药名\t牡蛎米泔浸，刷去土，火烧通赤",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  }
+]

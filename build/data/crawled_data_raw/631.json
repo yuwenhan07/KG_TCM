@@ -1,0 +1,112 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t咳血方"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "from",
+    "node_2": "来源\t《丹溪心法》"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦数"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "functions",
+    "node_2": "功能主治\t咯吐不爽"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "functions",
+    "node_2": "功能主治\t肝火犯肺之咳血证"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "functions",
+    "node_2": "功能主治\t咽干口苦"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "functions",
+    "node_2": "功能主治\t胸胁作痛"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽痰稠带血"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦易怒"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "functions",
+    "node_2": "功能主治\t颊赤便秘"
+  },
+  {
+    "node_1": "方名\t咳血方",
+    "relation": "prescription type",
+    "node_2": "处方\t咳血方"
+  },
+  {
+    "node_1": "处方\t咳血方",
+    "relation": "composition",
+    "node_2": "中药名\t青黛(水飞)"
+  },
+  {
+    "node_1": "中药名\t青黛(水飞)",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t咳血方",
+    "relation": "composition",
+    "node_2": "中药名\t诃子"
+  },
+  {
+    "node_1": "中药名\t诃子",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t咳血方",
+    "relation": "composition",
+    "node_2": "中药名\t瓜蒌仁(去油)"
+  },
+  {
+    "node_1": "中药名\t瓜蒌仁(去油)",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t咳血方",
+    "relation": "composition",
+    "node_2": "中药名\t海粉"
+  },
+  {
+    "node_1": "中药名\t海粉",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t咳血方",
+    "relation": "composition",
+    "node_2": "中药名\t山栀子(炒黑)"
+  },
+  {
+    "node_1": "中药名\t山栀子(炒黑)",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t十灰散"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "from",
+    "node_2": "来源\t《十药神书》"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t嗽血"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t衄血"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t吐血"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t血热妄行之上部出血证"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t血色鲜红"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t来势急暴"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t咯血"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "functions",
+    "node_2": "功能主治\t呕血"
+  },
+  {
+    "node_1": "方名\t十灰散",
+    "relation": "prescription type",
+    "node_2": "处方\t十灰散"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t大蓟"
+  },
+  {
+    "node_1": "中药名\t大蓟",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t小蓟"
+  },
+  {
+    "node_1": "中药名\t小蓟",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t荷叶"
+  },
+  {
+    "node_1": "中药名\t荷叶",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t侧柏叶"
+  },
+  {
+    "node_1": "中药名\t侧柏叶",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t茅根"
+  },
+  {
+    "node_1": "中药名\t茅根",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t茜根"
+  },
+  {
+    "node_1": "中药名\t茜根",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t山栀"
+  },
+  {
+    "node_1": "中药名\t山栀",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t牡丹皮"
+  },
+  {
+    "node_1": "中药名\t牡丹皮",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t十灰散",
+    "relation": "composition",
+    "node_2": "中药名\t棕榈皮"
+  },
+  {
+    "node_1": "中药名\t棕榈皮",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  }
+]

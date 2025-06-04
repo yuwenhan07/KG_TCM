@@ -1,0 +1,91 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t麻黄杏仁甘草石膏汤"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风邪"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄白或黄"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t甚则鼻煽"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清肺平喘"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t有汗或无汗"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮而数者"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热不解"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t辛凉宣泄"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳逆气急"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t邪热壅肺证"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁甘草石膏汤",
+    "relation": "prescription type",
+    "node_2": "处方\t麻黄杏仁甘草石膏汤"
+  },
+  {
+    "node_1": "处方\t麻黄杏仁甘草石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄",
+    "weight": "三钱(9克)"
+  },
+  {
+    "node_1": "处方\t麻黄杏仁甘草石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁",
+    "weight": "三钱(9克)"
+  },
+  {
+    "node_1": "处方\t麻黄杏仁甘草石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "两钱(6克)"
+  },
+  {
+    "node_1": "处方\t麻黄杏仁甘草石膏汤",
+    "relation": "composition",
+    "node_2": "中药名\t石膏(先煎)",
+    "weight": "一两(30克)"
+  }
+]

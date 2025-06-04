@@ -1,0 +1,192 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t天王补心丹"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "from",
+    "node_2": "来源\t《内外伤辨惑论》"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "functions",
+    "node_2": "功能主治\t安神定志"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "functions",
+    "node_2": "功能主治\t缓解虚烦失眠"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗心悸怔忡"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗梦遗"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "functions",
+    "node_2": "功能主治\t缓解大便干结"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "functions",
+    "node_2": "功能主治\t缓解手足心热"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴养血"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗口舌生疮"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "functions",
+    "node_2": "功能主治\t改善神疲健忘"
+  },
+  {
+    "node_1": "方名\t天王补心丹",
+    "relation": "prescription type",
+    "node_2": "处方\t天王补心丹"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t人参(去芦)"
+  },
+  {
+    "node_1": "中药名\t人参(去芦)",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t玄参"
+  },
+  {
+    "node_1": "中药名\t玄参",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t丹参"
+  },
+  {
+    "node_1": "中药名\t丹参",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t远志"
+  },
+  {
+    "node_1": "中药名\t远志",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t当归(酒浸)"
+  },
+  {
+    "node_1": "中药名\t当归(酒浸)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t五味子"
+  },
+  {
+    "node_1": "中药名\t五味子",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬(去心)"
+  },
+  {
+    "node_1": "中药名\t麦门冬(去心)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t天门冬"
+  },
+  {
+    "node_1": "中药名\t天门冬",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t柏子仁"
+  },
+  {
+    "node_1": "中药名\t柏子仁",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t酸枣仁(炒)"
+  },
+  {
+    "node_1": "中药名\t酸枣仁(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t天王补心丹",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄"
+  },
+  {
+    "node_1": "中药名\t生地黄",
+    "relation": "dose",
+    "node_2": "剂量\t120g"
+  }
+]

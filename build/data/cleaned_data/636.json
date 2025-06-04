@@ -1,0 +1,92 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桃核承气汤"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t血瘀经闭"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t少腹急结"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神志如狂"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痛经"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便自利"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t至夜发热"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t谵语烦躁"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t下焦蓄血证"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉实而涩"
+  },
+  {
+    "node_1": "方名\t桃核承气汤",
+    "relation": "prescription type",
+    "node_2": "处方\t桃核承气汤"
+  },
+  {
+    "node_1": "处方\t桃核承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁",
+    "weight": "去皮尖五十个（12g）"
+  },
+  {
+    "node_1": "处方\t桃核承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄",
+    "weight": "四两（12g）"
+  },
+  {
+    "node_1": "处方\t桃核承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "去皮二两（6g）"
+  },
+  {
+    "node_1": "处方\t桃核承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "炙二两（12g）"
+  },
+  {
+    "node_1": "处方\t桃核承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t芒硝",
+    "weight": "二两（6g）"
+  }
+]

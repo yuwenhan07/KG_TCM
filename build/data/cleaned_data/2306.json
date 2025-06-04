@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t防已茯苓汤"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "from",
+    "node_2": "来源\t汉·《金匮要略》"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t周身浮肿"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t下肢深静脉血栓后遗症"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t尿毒症等证属皮水水肿者"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t特发性水肿"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性心力衰竭"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急、慢性肾炎"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t类风湿关节炎"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肝硬化腹水"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗坐骨神经痛"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t妊娠水肿"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气通阳"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肾病综合征水肿"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急性肾小球肾炎"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治皮水"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗痛风关节炎"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t营养不良性水肿"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢肿胀"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t利水消肿"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢聂动者"
+  },
+  {
+    "node_1": "方名\t防已茯苓汤",
+    "relation": "prescription type",
+    "node_2": "处方\t防已茯苓汤"
+  },
+  {
+    "node_1": "处方\t防已茯苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t防己",
+    "weight": "三钱(9克)"
+  },
+  {
+    "node_1": "处方\t防已茯苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪",
+    "weight": "三钱(9克)"
+  },
+  {
+    "node_1": "处方\t防已茯苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "三钱(9克)"
+  },
+  {
+    "node_1": "处方\t防已茯苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "六钱(18克)"
+  },
+  {
+    "node_1": "处方\t防已茯苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "二钱(6克)"
+  }
+]

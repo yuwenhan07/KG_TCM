@@ -1,0 +1,297 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "from",
+    "node_2": "来源\t《医便》；《本草纲目》引《积菩堂方》。"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t抗衰老"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t女性不孕症"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t膝关节骨性关节炎"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t发脱齿摇"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t老年性痴呆"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗更年期综合征"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t调节免疫"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗重症贫血症"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t肝肾不足"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗青春期崩漏"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t主治真元虚损，精血不足证"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗脱发"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t七宝美髯丹对局灶性脑缺血大鼠自由基损伤具有保护作用"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t调节内分泌"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t形体消瘦"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t益气壮阳"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t男性精液异常"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t齿牙动摇"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t自发性气胸"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴填精"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t改善骨代谢"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t降低丙二醛(MDA)含量"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t恢复损伤骨髓造血功能"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t提高大鼠缺血脑组织超氧化物歧化酶(SOD)"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t促进生殖发育"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t腰膝酸软"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔少"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t体虚进补"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t证属真元不足、阴阳两虚的病症"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t血小板减少症"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t老年痴呆"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t两目昏花"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t绝经后妇女不稳定型心绞痛"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t须发早白"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t腰膝无力"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t男性不育症"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t遗精"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t阳痿遗精"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "functions",
+    "node_2": "功能主治\t久不孕育"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "prescription type",
+    "node_2": "处方\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "composition",
+    "node_2": "中药名\t赤何首乌"
+  },
+  {
+    "node_1": "中药名\t赤何首乌",
+    "relation": "dose",
+    "node_2": "剂量\t一斤(500克)"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "composition",
+    "node_2": "中药名\t白何首乌"
+  },
+  {
+    "node_1": "中药名\t白何首乌",
+    "relation": "dose",
+    "node_2": "剂量\t一斤(500克)"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓"
+  },
+  {
+    "node_1": "中药名\t白茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t半斤(250克)"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "composition",
+    "node_2": "中药名\t牛膝"
+  },
+  {
+    "node_1": "中药名\t牛膝",
+    "relation": "dose",
+    "node_2": "剂量\t半斤(250克)"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t半斤(250克)"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "composition",
+    "node_2": "中药名\t枸杞"
+  },
+  {
+    "node_1": "中药名\t枸杞",
+    "relation": "dose",
+    "node_2": "剂量\t半斤(250克)"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "composition",
+    "node_2": "中药名\t菟丝子"
+  },
+  {
+    "node_1": "中药名\t菟丝子",
+    "relation": "dose",
+    "node_2": "剂量\t半斤(250克)"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶（龟鹿二仙膏、二仙胶、龟鹿二胶）",
+    "relation": "composition",
+    "node_2": "中药名\t补骨脂"
+  },
+  {
+    "node_1": "中药名\t补骨脂",
+    "relation": "dose",
+    "node_2": "剂量\t四两(120克)"
+  }
+]

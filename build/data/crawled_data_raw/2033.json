@@ -1,0 +1,27 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t盐汤探吐方"
+  },
+  {
+    "node_1": "方名\t盐汤探吐方",
+    "relation": "from",
+    "node_2": "来源\t明·方贤着《奇效良方》"
+  },
+  {
+    "node_1": "方名\t盐汤探吐方",
+    "relation": "prescription type",
+    "node_2": "处方\t盐汤探吐方"
+  },
+  {
+    "node_1": "处方\t盐汤探吐方",
+    "relation": "composition",
+    "node_2": "中药名\t食盐"
+  },
+  {
+    "node_1": "中药名\t食盐",
+    "relation": "dose",
+    "node_2": "剂量\t炒"
+  }
+]

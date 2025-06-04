@@ -1,0 +1,92 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t黄芪桂枝五物汤"
+  },
+  {
+    "node_1": "方名\t黄芪桂枝五物汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t黄芪桂枝五物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t和血通痹"
+  },
+  {
+    "node_1": "方名\t黄芪桂枝五物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t血痹"
+  },
+  {
+    "node_1": "方名\t黄芪桂枝五物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉微涩而紧"
+  },
+  {
+    "node_1": "方名\t黄芪桂枝五物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肌肤麻木不仁"
+  },
+  {
+    "node_1": "方名\t黄芪桂枝五物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气温经"
+  },
+  {
+    "node_1": "方名\t黄芪桂枝五物汤",
+    "relation": "prescription type",
+    "node_2": "处方\t黄芪桂枝五物汤"
+  },
+  {
+    "node_1": "处方\t黄芪桂枝五物汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪"
+  },
+  {
+    "node_1": "中药名\t黄芪",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t黄芪桂枝五物汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t黄芪桂枝五物汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t黄芪桂枝五物汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t18g"
+  },
+  {
+    "node_1": "处方\t黄芪桂枝五物汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t4枚"
+  }
+]

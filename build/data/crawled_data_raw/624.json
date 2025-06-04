@@ -1,0 +1,77 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t麦门冬汤"
+  },
+  {
+    "node_1": "方名\t麦门冬汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t麦门冬汤",
+    "relation": "prescription type",
+    "node_2": "处方\t麦门冬汤"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬"
+  },
+  {
+    "node_1": "中药名\t麦门冬",
+    "relation": "dose",
+    "node_2": "剂量\t七升 (42g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t一升 (6g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t三两 (9g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t二两 (6g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t粳米"
+  },
+  {
+    "node_1": "中药名\t粳米",
+    "relation": "dose",
+    "node_2": "剂量\t三合 (3g)"
+  },
+  {
+    "node_1": "处方\t麦门冬汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t四枚 (2枚)"
+  }
+]

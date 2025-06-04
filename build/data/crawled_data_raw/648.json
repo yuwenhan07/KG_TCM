@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t旋覆代赭汤"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呕吐"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呃逆"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t纳差"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃虚痰阻气逆证"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃脘痞闷或胀满"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t按之不痛"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶心"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉缓或滑"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "functions",
+    "node_2": "功能主治\t频频嗳气"
+  },
+  {
+    "node_1": "方名\t旋覆代赭汤",
+    "relation": "prescription type",
+    "node_2": "处方\t旋覆代赭汤"
+  },
+  {
+    "node_1": "处方\t旋覆代赭汤",
+    "relation": "composition",
+    "node_2": "中药名\t旋覆花"
+  },
+  {
+    "node_1": "中药名\t旋覆花",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t旋覆代赭汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏(洗)"
+  },
+  {
+    "node_1": "中药名\t半夏(洗)",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t旋覆代赭汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)"
+  },
+  {
+    "node_1": "中药名\t甘草(炙)",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t旋覆代赭汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t旋覆代赭汤",
+    "relation": "composition",
+    "node_2": "中药名\t代赭石"
+  },
+  {
+    "node_1": "中药名\t代赭石",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t旋覆代赭汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t旋覆代赭汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣(擘)"
+  },
+  {
+    "node_1": "中药名\t大枣(擘)",
+    "relation": "dose",
+    "node_2": "剂量\t4枚"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t生肌散"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "from",
+    "node_2": "来源\t《外科正宗》"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t生肌敛疮"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t疮口腐肉已脱"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t宫颈糜烂"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t溃疡性结肠炎"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t诸种溃疡"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t疮疡"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治痈疽疮疖"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t活血祛腐"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗痈疽"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "functions",
+    "node_2": "功能主治\t脓水将尽之证"
+  },
+  {
+    "node_1": "方名\t生肌散",
+    "relation": "prescription type",
+    "node_2": "处方\t生肌散"
+  },
+  {
+    "node_1": "处方\t生肌散",
+    "relation": "composition",
+    "node_2": "中药名\t石膏"
+  },
+  {
+    "node_1": "中药名\t石膏",
+    "relation": "dose",
+    "node_2": "剂量\t一两(30克)"
+  },
+  {
+    "node_1": "处方\t生肌散",
+    "relation": "composition",
+    "node_2": "中药名\t轻粉"
+  },
+  {
+    "node_1": "中药名\t轻粉",
+    "relation": "dose",
+    "node_2": "剂量\t一两(30克)"
+  },
+  {
+    "node_1": "处方\t生肌散",
+    "relation": "composition",
+    "node_2": "中药名\t赤石脂"
+  },
+  {
+    "node_1": "中药名\t赤石脂",
+    "relation": "dose",
+    "node_2": "剂量\t一两(30克)"
+  },
+  {
+    "node_1": "处方\t生肌散",
+    "relation": "composition",
+    "node_2": "中药名\t黄丹(飞)"
+  },
+  {
+    "node_1": "中药名\t黄丹(飞)",
+    "relation": "dose",
+    "node_2": "剂量\t二钱(6克)"
+  },
+  {
+    "node_1": "处方\t生肌散",
+    "relation": "composition",
+    "node_2": "中药名\t龙骨"
+  },
+  {
+    "node_1": "中药名\t龙骨",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t生肌散",
+    "relation": "composition",
+    "node_2": "中药名\t血竭"
+  },
+  {
+    "node_1": "中药名\t血竭",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t生肌散",
+    "relation": "composition",
+    "node_2": "中药名\t乳香"
+  },
+  {
+    "node_1": "中药名\t乳香",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t生肌散",
+    "relation": "composition",
+    "node_2": "中药名\t樟脑"
+  },
+  {
+    "node_1": "中药名\t樟脑",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  }
+]

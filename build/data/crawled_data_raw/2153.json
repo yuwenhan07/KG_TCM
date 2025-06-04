@@ -1,0 +1,227 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桂枝加附子汤"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调节自主神经功能"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶风发热"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t自汗"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t性功能减退"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t镇痛"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质淡"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗盗汗"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疼痛"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗漏汗"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t瘾疹"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t更年期综合征"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性鼻炎"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便难"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻衄"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t室性早搏"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t汗漏不止"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调和营卫"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不寐"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治伤寒表阳虚弱"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t提高免疫功能"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄白"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮虚"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t难以屈伸"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t强心"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t抗炎"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t遗尿"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t低热"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢微急"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t扶阳固表"
+  },
+  {
+    "node_1": "方名\t桂枝加附子汤",
+    "relation": "prescription type",
+    "node_2": "处方\t桂枝加附子汤"
+  },
+  {
+    "node_1": "处方\t桂枝加附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t三两(各9克)"
+  },
+  {
+    "node_1": "处方\t桂枝加附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t三两(各9克)"
+  },
+  {
+    "node_1": "处方\t桂枝加附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t三两(各9克)"
+  },
+  {
+    "node_1": "处方\t桂枝加附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t三两(各9克)"
+  },
+  {
+    "node_1": "处方\t桂枝加附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t十二枚(3枚)"
+  },
+  {
+    "node_1": "处方\t桂枝加附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子"
+  },
+  {
+    "node_1": "中药名\t附子",
+    "relation": "dose",
+    "node_2": "剂量\t一枚(9克)"
+  }
+]

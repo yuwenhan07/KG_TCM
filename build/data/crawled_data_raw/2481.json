@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t七味白术散"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "from",
+    "node_2": "来源\t宋·钱乙《小儿药证直诀》"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细弱"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t清阳不升"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t烦渴饮水"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t健脾养胃"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t赢困少力"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t益气生津"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄白"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t乳食少进"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治小儿脾胃虚弱"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质淡"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t呕吐泄泻"
+  },
+  {
+    "node_1": "方名\t七味白术散",
+    "relation": "prescription type",
+    "node_2": "处方\t七味白术散"
+  },
+  {
+    "node_1": "处方\t七味白术散",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t二钱五分(7.5克)"
+  },
+  {
+    "node_1": "处方\t七味白术散",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓"
+  },
+  {
+    "node_1": "中药名\t白茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t五钱(15克，炒)"
+  },
+  {
+    "node_1": "处方\t七味白术散",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t五钱(15克)"
+  },
+  {
+    "node_1": "处方\t七味白术散",
+    "relation": "composition",
+    "node_2": "中药名\t藿香叶"
+  },
+  {
+    "node_1": "中药名\t藿香叶",
+    "relation": "dose",
+    "node_2": "剂量\t五钱(15克)"
+  },
+  {
+    "node_1": "处方\t七味白术散",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t二钱(6克)"
+  },
+  {
+    "node_1": "处方\t七味白术散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t一钱(3克)"
+  },
+  {
+    "node_1": "处方\t七味白术散",
+    "relation": "composition",
+    "node_2": "中药名\t葛根"
+  },
+  {
+    "node_1": "中药名\t葛根",
+    "relation": "dose",
+    "node_2": "剂量\t五钱"
+  },
+  {
+    "node_1": "处方\t七味白术散",
+    "relation": "composition",
+    "node_2": "中药名\t葛根"
+  },
+  {
+    "node_1": "中药名\t葛根",
+    "relation": "dose",
+    "node_2": "剂量\t一两(15～30克)"
+  }
+]

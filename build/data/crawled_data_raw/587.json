@@ -1,0 +1,77 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t泻白散"
+  },
+  {
+    "node_1": "方名\t泻白散",
+    "relation": "from",
+    "node_2": "来源\t《小儿药证直诀》"
+  },
+  {
+    "node_1": "方名\t泻白散",
+    "relation": "functions",
+    "node_2": "功能主治\t日晡尤甚"
+  },
+  {
+    "node_1": "方名\t泻白散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t泻白散",
+    "relation": "functions",
+    "node_2": "功能主治\t肺热喘咳"
+  },
+  {
+    "node_1": "方名\t泻白散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细数"
+  },
+  {
+    "node_1": "方名\t泻白散",
+    "relation": "functions",
+    "node_2": "功能主治\t皮肤蒸热"
+  },
+  {
+    "node_1": "方名\t泻白散",
+    "relation": "functions",
+    "node_2": "功能主治\t气喘咳嗽"
+  },
+  {
+    "node_1": "方名\t泻白散",
+    "relation": "prescription type",
+    "node_2": "处方\t泻白散"
+  },
+  {
+    "node_1": "处方\t泻白散",
+    "relation": "composition",
+    "node_2": "中药名\t地骨皮"
+  },
+  {
+    "node_1": "中药名\t地骨皮",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t泻白散",
+    "relation": "composition",
+    "node_2": "中药名\t桑白皮(炒)"
+  },
+  {
+    "node_1": "中药名\t桑白皮(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t泻白散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)"
+  },
+  {
+    "node_1": "中药名\t甘草(炙)",
+    "relation": "dose",
+    "node_2": "剂量\t3克"
+  }
+]

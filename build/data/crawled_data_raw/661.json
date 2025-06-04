@@ -1,0 +1,132 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桂苓甘露飲"
+  },
+  {
+    "node_1": "方名\t桂苓甘露飲",
+    "relation": "from",
+    "node_2": "来源\t《黄帝素问宣明论方》"
+  },
+  {
+    "node_1": "方名\t桂苓甘露飲",
+    "relation": "functions",
+    "node_2": "功能主治\t发热头痛"
+  },
+  {
+    "node_1": "方名\t桂苓甘露飲",
+    "relation": "functions",
+    "node_2": "功能主治\t暑湿证"
+  },
+  {
+    "node_1": "方名\t桂苓甘露飲",
+    "relation": "functions",
+    "node_2": "功能主治\t霍乱吐下"
+  },
+  {
+    "node_1": "方名\t桂苓甘露飲",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t桂苓甘露飲",
+    "relation": "functions",
+    "node_2": "功能主治\t烦渴引饮"
+  },
+  {
+    "node_1": "方名\t桂苓甘露飲",
+    "relation": "prescription type",
+    "node_2": "处方\t桂苓甘露飲"
+  },
+  {
+    "node_1": "处方\t桂苓甘露飲",
+    "relation": "composition",
+    "node_2": "中药名\t滑石"
+  },
+  {
+    "node_1": "中药名\t滑石",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桂苓甘露飲",
+    "relation": "composition",
+    "node_2": "中药名\t猪苓"
+  },
+  {
+    "node_1": "中药名\t猪苓",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t桂苓甘露飲",
+    "relation": "composition",
+    "node_2": "中药名\t石膏"
+  },
+  {
+    "node_1": "中药名\t石膏",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桂苓甘露飲",
+    "relation": "composition",
+    "node_2": "中药名\t寒水石"
+  },
+  {
+    "node_1": "中药名\t寒水石",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t桂苓甘露飲",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t桂苓甘露飲",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t桂苓甘露飲",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t桂苓甘露飲",
+    "relation": "composition",
+    "node_2": "中药名\t官桂"
+  },
+  {
+    "node_1": "中药名\t官桂",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t桂苓甘露飲",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  }
+]

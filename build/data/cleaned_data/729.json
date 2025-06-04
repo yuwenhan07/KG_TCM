@@ -1,0 +1,82 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t金锁固精丸"
+  },
+  {
+    "node_1": "方名\t金锁固精丸",
+    "relation": "from",
+    "node_2": "来源\t《医方集解》"
+  },
+  {
+    "node_1": "方名\t金锁固精丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腰痛耳鸣"
+  },
+  {
+    "node_1": "方名\t金锁固精丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细弱"
+  },
+  {
+    "node_1": "方名\t金锁固精丸",
+    "relation": "functions",
+    "node_2": "功能主治\t涩精补肾"
+  },
+  {
+    "node_1": "方名\t金锁固精丸",
+    "relation": "functions",
+    "node_2": "功能主治\t肾虚不固之遗精"
+  },
+  {
+    "node_1": "方名\t金锁固精丸",
+    "relation": "functions",
+    "node_2": "功能主治\t遗精滑泄"
+  },
+  {
+    "node_1": "方名\t金锁固精丸",
+    "relation": "functions",
+    "node_2": "功能主治\t神疲乏力"
+  },
+  {
+    "node_1": "方名\t金锁固精丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t金锁固精丸",
+    "relation": "prescription type",
+    "node_2": "处方\t金锁固精丸"
+  },
+  {
+    "node_1": "处方\t金锁固精丸",
+    "relation": "composition",
+    "node_2": "中药名\t沙苑蒺藜炒",
+    "weight": "二两 (各60g)"
+  },
+  {
+    "node_1": "处方\t金锁固精丸",
+    "relation": "composition",
+    "node_2": "中药名\t芡实蒸",
+    "weight": "二两 (各60g)"
+  },
+  {
+    "node_1": "处方\t金锁固精丸",
+    "relation": "composition",
+    "node_2": "中药名\t莲须",
+    "weight": "二两 (各60g)"
+  },
+  {
+    "node_1": "处方\t金锁固精丸",
+    "relation": "composition",
+    "node_2": "中药名\t龙骨酥炙",
+    "weight": "一两 (各30g)"
+  },
+  {
+    "node_1": "处方\t金锁固精丸",
+    "relation": "composition",
+    "node_2": "中药名\t牡蛎盐水煮一日一夜，煅粉",
+    "weight": "一两 (各30g)"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t当归芍药散"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "functions",
+    "node_2": "功能主治\t健脾利湿"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "functions",
+    "node_2": "功能主治\t养血调肝"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "functions",
+    "node_2": "功能主治\t头晕心悸"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质淡、苔白腻者"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "functions",
+    "node_2": "功能主治\t下肢浮肿"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "functions",
+    "node_2": "功能主治\t纠正胎位"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "functions",
+    "node_2": "功能主治\t妇人妊娠或经期，肝脾两虚，腹中拘急，绵绵作痛"
+  },
+  {
+    "node_1": "方名\t当归芍药散",
+    "relation": "prescription type",
+    "node_2": "处方\t当归芍药散"
+  },
+  {
+    "node_1": "处方\t当归芍药散",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "三两（9g）"
+  },
+  {
+    "node_1": "处方\t当归芍药散",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "一斤（48g）"
+  },
+  {
+    "node_1": "处方\t当归芍药散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "四两（12g）"
+  },
+  {
+    "node_1": "处方\t当归芍药散",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "四两（12g）"
+  },
+  {
+    "node_1": "处方\t当归芍药散",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻",
+    "weight": "半斤（24g）"
+  },
+  {
+    "node_1": "处方\t当归芍药散",
+    "relation": "composition",
+    "node_2": "中药名\t川芎",
+    "weight": "半斤（一作三两）（10g）"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t五苓散"
+  },
+  {
+    "node_1": "方名\t五苓散",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t五苓散",
+    "relation": "functions",
+    "node_2": "功能主治\t利水渗湿"
+  },
+  {
+    "node_1": "方名\t五苓散",
+    "relation": "functions",
+    "node_2": "功能主治\t温阳化气"
+  },
+  {
+    "node_1": "方名\t五苓散",
+    "relation": "prescription type",
+    "node_2": "处方\t五苓散"
+  },
+  {
+    "node_1": "处方\t五苓散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t五苓散",
+    "relation": "composition",
+    "node_2": "中药名\t猪苓",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t五苓散",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t五苓散",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t五苓散",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "6克"
+  }
+]

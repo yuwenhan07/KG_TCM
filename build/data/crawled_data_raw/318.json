@@ -1,0 +1,97 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t大黄附子汤"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发热"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳虚寒结"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t通便止痛"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温里散寒"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胁下偏痛"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦紧"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足厥泠不温"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t寒积里实证"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛便秘"
+  },
+  {
+    "node_1": "方名\t大黄附子汤",
+    "relation": "prescription type",
+    "node_2": "处方\t大黄附子汤"
+  },
+  {
+    "node_1": "处方\t大黄附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t三两(9g)"
+  },
+  {
+    "node_1": "处方\t大黄附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子"
+  },
+  {
+    "node_1": "中药名\t附子",
+    "relation": "dose",
+    "node_2": "剂量\t三枚炮(9g)"
+  },
+  {
+    "node_1": "处方\t大黄附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t细辛"
+  },
+  {
+    "node_1": "中药名\t细辛",
+    "relation": "dose",
+    "node_2": "剂量\t二两(3g)"
+  }
+]

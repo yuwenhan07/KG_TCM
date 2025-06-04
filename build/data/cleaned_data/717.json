@@ -1,0 +1,68 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t小活络丹"
+  },
+  {
+    "node_1": "方名\t小活络丹",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民合剂局方》"
+  },
+  {
+    "node_1": "方名\t小活络丹",
+    "relation": "functions",
+    "node_2": "功能主治\t活血止痛"
+  },
+  {
+    "node_1": "方名\t小活络丹",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风除湿"
+  },
+  {
+    "node_1": "方名\t小活络丹",
+    "relation": "functions",
+    "node_2": "功能主治\t化痰通络"
+  },
+  {
+    "node_1": "方名\t小活络丹",
+    "relation": "prescription type",
+    "node_2": "处方\t小活络丹"
+  },
+  {
+    "node_1": "处方\t小活络丹",
+    "relation": "composition",
+    "node_2": "中药名\t天南星",
+    "weight": "180g"
+  },
+  {
+    "node_1": "处方\t小活络丹",
+    "relation": "composition",
+    "node_2": "中药名\t制川乌",
+    "weight": "180g"
+  },
+  {
+    "node_1": "处方\t小活络丹",
+    "relation": "composition",
+    "node_2": "中药名\t制草乌",
+    "weight": "180g"
+  },
+  {
+    "node_1": "处方\t小活络丹",
+    "relation": "composition",
+    "node_2": "中药名\t地龙",
+    "weight": "180g"
+  },
+  {
+    "node_1": "处方\t小活络丹",
+    "relation": "composition",
+    "node_2": "中药名\t乳香(制)",
+    "weight": "65g"
+  },
+  {
+    "node_1": "处方\t小活络丹",
+    "relation": "composition",
+    "node_2": "中药名\t没药(制)",
+    "weight": "65g"
+  }
+]

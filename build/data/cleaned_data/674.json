@@ -1,0 +1,106 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t平胃散"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "from",
+    "node_2": "来源\t《简要济众方》"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t湿滞脾胃证"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t燥湿运脾"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t嗳气吞酸"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹胀满"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t行气和胃"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t不思饮食"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉缓"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t常多自利"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t口淡无味"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t恶心呕吐"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体沉重"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t怠惰嗜卧"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻而厚"
+  },
+  {
+    "node_1": "方名\t平胃散",
+    "relation": "prescription type",
+    "node_2": "处方\t平胃散"
+  },
+  {
+    "node_1": "处方\t平胃散",
+    "relation": "composition",
+    "node_2": "中药名\t苍术",
+    "weight": "120g"
+  },
+  {
+    "node_1": "处方\t平胃散",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴",
+    "weight": "90g"
+  },
+  {
+    "node_1": "处方\t平胃散",
+    "relation": "composition",
+    "node_2": "中药名\t陈橘皮",
+    "weight": "60g"
+  },
+  {
+    "node_1": "处方\t平胃散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "30g"
+  }
+]

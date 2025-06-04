@@ -1,0 +1,77 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t槐花散"
+  },
+  {
+    "node_1": "方名\t槐花散",
+    "relation": "from",
+    "node_2": "来源\t《普济本事方》"
+  },
+  {
+    "node_1": "方名\t槐花散",
+    "relation": "functions",
+    "node_2": "功能主治\t除湿解毒"
+  },
+  {
+    "node_1": "方名\t槐花散",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风清热"
+  },
+  {
+    "node_1": "方名\t槐花散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗痔疮出血"
+  },
+  {
+    "node_1": "方名\t槐花散",
+    "relation": "functions",
+    "node_2": "功能主治\t凉血止血"
+  },
+  {
+    "node_1": "方名\t槐花散",
+    "relation": "prescription type",
+    "node_2": "处方\t槐花散"
+  },
+  {
+    "node_1": "处方\t槐花散",
+    "relation": "composition",
+    "node_2": "中药名\t槐花(炒)"
+  },
+  {
+    "node_1": "中药名\t槐花(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t槐花散",
+    "relation": "composition",
+    "node_2": "中药名\t柏叶(杵，焙)"
+  },
+  {
+    "node_1": "中药名\t柏叶(杵，焙)",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t槐花散",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥穗"
+  },
+  {
+    "node_1": "中药名\t荆芥穗",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t槐花散",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳(麸炒)"
+  },
+  {
+    "node_1": "中药名\t枳壳(麸炒)",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t牛蒡解肌汤"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "from",
+    "node_2": "来源\t清·《疡科心得集》"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治头面颈项疮疡初起"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t便秘"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急性咽炎"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t其机制与改善凝血功能有关"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t现代研究表明牛蒡解肌汤能改善凝血功能"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风清热"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口干"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急性淋巴结炎"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数或浮数"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗流行性腮腺炎"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t尿赤"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t局部红肿"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t对实验性血栓闭塞性脉管炎大鼠模型具有较好的治疗作用"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t凉血解毒"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t牛蒡解肌汤",
+    "relation": "prescription type",
+    "node_2": "处方\t牛蒡解肌汤"
+  },
+  {
+    "node_1": "处方\t牛蒡解肌汤",
+    "relation": "composition",
+    "node_2": "中药名\t牛蒡子",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t牛蒡解肌汤",
+    "relation": "composition",
+    "node_2": "中药名\t薄荷",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t牛蒡解肌汤",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t牛蒡解肌汤",
+    "relation": "composition",
+    "node_2": "中药名\t连翘",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t牛蒡解肌汤",
+    "relation": "composition",
+    "node_2": "中药名\t山栀子",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t牛蒡解肌汤",
+    "relation": "composition",
+    "node_2": "中药名\t牡丹皮",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t牛蒡解肌汤",
+    "relation": "composition",
+    "node_2": "中药名\t石斛",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t牛蒡解肌汤",
+    "relation": "composition",
+    "node_2": "中药名\t玄参",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t牛蒡解肌汤",
+    "relation": "composition",
+    "node_2": "中药名\t夏枯草",
+    "weight": "9克"
+  }
+]

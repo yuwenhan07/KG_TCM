@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>中医药知识图谱系统</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #eef2f5;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      width: 60%;
+      margin: 50px auto;
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+      margin-bottom: 30px;
+    }
+    label {
+      font-weight: bold;
+      margin-top: 15px;
+      display: block;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 16px;
+    }
+    input[type="submit"] {
+      margin-top: 20px;
+      padding: 10px 25px;
+      background-color: #3498db;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    input[type="submit"]:hover {
+      background-color: #2980b9;
+    }
+    .result {
+      margin-top: 30px;
+    }
+    .result h2 {
+      color: #34495e;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 600px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+    td:first-child {
+      font-size: 18px;
+      text-align: center;
+    }
+    td, th {
+      text-align: center;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    td.herb-function {
+      width: 200px;
+      word-break: break-word;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>中医药知识图谱系统</h1>
+    <form method="POST">
+      <label for="symptom">请输入你的症状：</label>
+      <input type="text" id="symptom" name="symptom" placeholder="如：头晕" required value="{{ request.form.get('symptom', '') }}">
+      <input type="submit" value="查询">
+      <a href="/" style="margin-left: 10px;">
+        <input type="button" value="重置">
+      </a>
+    </form>
+
+    <div class="result">
+      {% if graph_path %}
+        <h2>知识图谱查询结果：</h2>
+        <iframe src="{{ url_for('static', filename='graph.html') }}"></iframe>
+        {% if table_data %}
+          <h2>具体中药配方：</h2>
+          <table border="1" cellpadding="8" cellspacing="0">
+            <tr>
+              <th>药方名称</th>
+              <th>中药</th>
+              <th>剂量</th>
+              <th>中药功能主治</th>
+            </tr>
+            {% set span_map = {} %}
+            {% for row in table_data %}
+              {% set span_map = span_map.update({row['方名']: (span_map.get(row['方名'], 0) + 1)}) or span_map %}
+            {% endfor %}
+            {% set shown = {} %}
+            {% for row in table_data %}
+            <tr>
+              {% if not shown.get(row['方名']) %}
+                <td rowspan="{{ span_map[row['方名']] }}">{{ row['方名'] }}</td>
+              {% endif %}
+              <td>{{ row['中药'] }}</td>
+              <td>{{ row['剂量'] }}</td>
+              {% if not shown.get(row['方名']) %}
+                <td rowspan="{{ span_map[row['方名']] }}" class="herb-function">{{ row['中药功能主治'] }}</td>
+                {% set _ = shown.update({row['方名']: True}) %}
+              {% endif %}
+            </tr>
+            {% endfor %}
+          </table>
+        {% endif %}
+      {% else %}
+        <p>暂无图谱展示</p>
+      {% endif %}
+    </div>
+  </div>
+</body>
+</html>

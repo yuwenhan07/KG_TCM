@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t八正散"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t清热泻火"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t口燥咽干"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t甚则癃闭不通"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t小腹急满"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t尿频尿急"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t利水通淋"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t溺时涩痛"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔黄腻"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热淋证"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t淋沥不畅"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t尿色浑赤"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t八正散",
+    "relation": "prescription type",
+    "node_2": "处方\t八正散"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t扁蓄",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t麦",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t黑栀子",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t连翘壳",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t车前子",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t白茅根",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t鹿衔草",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t滑石",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t八正散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "3g"
+  }
+]

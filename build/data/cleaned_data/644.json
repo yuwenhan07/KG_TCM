@@ -1,0 +1,94 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t暖肝煎"
+  },
+  {
+    "node_1": "方名\t暖肝煎",
+    "relation": "from",
+    "node_2": "来源\t《景岳全书》"
+  },
+  {
+    "node_1": "方名\t暖肝煎",
+    "relation": "functions",
+    "node_2": "功能主治\t畏寒喜暖"
+  },
+  {
+    "node_1": "方名\t暖肝煎",
+    "relation": "functions",
+    "node_2": "功能主治\t睾丸冷痛"
+  },
+  {
+    "node_1": "方名\t暖肝煎",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉迟"
+  },
+  {
+    "node_1": "方名\t暖肝煎",
+    "relation": "functions",
+    "node_2": "功能主治\t小腹疼痛"
+  },
+  {
+    "node_1": "方名\t暖肝煎",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t暖肝煎",
+    "relation": "functions",
+    "node_2": "功能主治\t寒滞肝脉证"
+  },
+  {
+    "node_1": "方名\t暖肝煎",
+    "relation": "functions",
+    "node_2": "功能主治\t肝肾不足"
+  },
+  {
+    "node_1": "方名\t暖肝煎",
+    "relation": "prescription type",
+    "node_2": "处方\t暖肝煎"
+  },
+  {
+    "node_1": "处方\t暖肝煎",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t暖肝煎",
+    "relation": "composition",
+    "node_2": "中药名\t枸杞子",
+    "weight": "三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t暖肝煎",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t暖肝煎",
+    "relation": "composition",
+    "node_2": "中药名\t小茴香",
+    "weight": "二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t暖肝煎",
+    "relation": "composition",
+    "node_2": "中药名\t肉桂",
+    "weight": "一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t暖肝煎",
+    "relation": "composition",
+    "node_2": "中药名\t乌药",
+    "weight": "二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t暖肝煎",
+    "relation": "composition",
+    "node_2": "中药名\t沉香",
+    "weight": "一钱(木香亦可) (3g)"
+  }
+]

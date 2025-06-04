@@ -1,0 +1,35 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t三圣散2"
+  },
+  {
+    "node_1": "方名\t三圣散2",
+    "relation": "from",
+    "node_2": "来源\t明·方贤着《奇效良方》；摘录 《儒门事亲》卷十二"
+  },
+  {
+    "node_1": "方名\t三圣散2",
+    "relation": "prescription type",
+    "node_2": "处方\t三圣散2"
+  },
+  {
+    "node_1": "处方\t三圣散2",
+    "relation": "composition",
+    "node_2": "中药名\t防风",
+    "weight": "90克（去芦）"
+  },
+  {
+    "node_1": "处方\t三圣散2",
+    "relation": "composition",
+    "node_2": "中药名\t瓜蒂",
+    "weight": "90克（碾破，以纸卷定，连纸锉细，去纸，用粗罗子罗过，另放末，将滓炒微黄，次入末一处，同炒黄用）"
+  },
+  {
+    "node_1": "处方\t三圣散2",
+    "relation": "composition",
+    "node_2": "中药名\t藜芦",
+    "weight": "7.5克（或1.5～30克）"
+  }
+]

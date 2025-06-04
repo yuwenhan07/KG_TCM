@@ -1,0 +1,107 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t甘麦大枣汤"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t甚则言行失常"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡红苔少"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t精神恍惚"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t养心安神"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不能自主"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心中烦乱"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t和中缓急"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t睡眠不安"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呵欠频作"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细微数"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脏躁"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "functions",
+    "node_2": "功能主治\t常悲伤欲哭"
+  },
+  {
+    "node_1": "方名\t甘麦大枣汤",
+    "relation": "prescription type",
+    "node_2": "处方\t甘麦大枣汤"
+  },
+  {
+    "node_1": "处方\t甘麦大枣汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t三两（9~12g）"
+  },
+  {
+    "node_1": "处方\t甘麦大枣汤",
+    "relation": "composition",
+    "node_2": "中药名\t小麦"
+  },
+  {
+    "node_1": "中药名\t小麦",
+    "relation": "dose",
+    "node_2": "剂量\t一升（15~30g）"
+  },
+  {
+    "node_1": "处方\t甘麦大枣汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t五~十枚"
+  }
+]

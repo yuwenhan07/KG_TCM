@@ -1,0 +1,102 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t苇茎汤"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "from",
+    "node_2": "来源\t《外台秘要》"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸中隐隐作痛"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄腻"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽痰多"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身有微热"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳吐腥臭脓血"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热毒壅滞"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肺痈"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰瘀互结证"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t苇茎汤",
+    "relation": "prescription type",
+    "node_2": "处方\t苇茎汤"
+  },
+  {
+    "node_1": "处方\t苇茎汤",
+    "relation": "composition",
+    "node_2": "中药名\t苇茎"
+  },
+  {
+    "node_1": "中药名\t苇茎",
+    "relation": "dose",
+    "node_2": "剂量\t60g"
+  },
+  {
+    "node_1": "处方\t苇茎汤",
+    "relation": "composition",
+    "node_2": "中药名\t瓜瓣"
+  },
+  {
+    "node_1": "中药名\t瓜瓣",
+    "relation": "dose",
+    "node_2": "剂量\t60g"
+  },
+  {
+    "node_1": "处方\t苇茎汤",
+    "relation": "composition",
+    "node_2": "中药名\t薏苡仁"
+  },
+  {
+    "node_1": "中药名\t薏苡仁",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t苇茎汤",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁"
+  },
+  {
+    "node_1": "中药名\t桃仁",
+    "relation": "dose",
+    "node_2": "剂量\t24g"
+  }
+]

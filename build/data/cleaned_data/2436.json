@@ -1,0 +1,77 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t茯苓白术汤5"
+  },
+  {
+    "node_1": "方名\t茯苓白术汤5",
+    "relation": "from",
+    "node_2": "来源\t《医方集解》；《易简方》；《三因》卷五；《圣济总录》卷二十五；《直指》卷三"
+  },
+  {
+    "node_1": "方名\t茯苓白术汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t湿温寒热，头目疼痛，胸满妄言，多汗，两胫逆冷者"
+  },
+  {
+    "node_1": "方名\t茯苓白术汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t心下支饮，常苦眩冒"
+  },
+  {
+    "node_1": "方名\t茯苓白术汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t中湿，身体痛重"
+  },
+  {
+    "node_1": "方名\t茯苓白术汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t冒暑毒，加以着湿，或汗未干即浴，皆成暑湿"
+  },
+  {
+    "node_1": "方名\t茯苓白术汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t冒雨湿着于肌肤，或因汗出浸渍，或因澡浴得病，腰重脚弱，身体烦痛，头眩"
+  },
+  {
+    "node_1": "方名\t茯苓白术汤5",
+    "relation": "functions",
+    "node_2": "功能主治\t伤寒吐后，心下逆满，松悸不定，起即头眩"
+  },
+  {
+    "node_1": "方名\t茯苓白术汤5",
+    "relation": "prescription type",
+    "node_2": "处方\t茯苓白术汤5"
+  },
+  {
+    "node_1": "处方\t茯苓白术汤5",
+    "relation": "composition",
+    "node_2": "中药名\t赤茯苓（去黑皮）",
+    "weight": "1两"
+  },
+  {
+    "node_1": "处方\t茯苓白术汤5",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "3分"
+  },
+  {
+    "node_1": "处方\t茯苓白术汤5",
+    "relation": "composition",
+    "node_2": "中药名\t桂（去粗皮）",
+    "weight": "3分"
+  },
+  {
+    "node_1": "处方\t茯苓白术汤5",
+    "relation": "composition",
+    "node_2": "中药名\t甘草（炙、锉）",
+    "weight": "半两"
+  },
+  {
+    "node_1": "处方\t茯苓白术汤5",
+    "relation": "composition",
+    "node_2": "中药名\t芎藭",
+    "weight": "1两"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t柴胡疏肝散"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "from",
+    "node_2": "来源\t《医学统旨》"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性胃炎"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t胁肋疼痛"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t易怒"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t肋间神经痛等属肝郁气滞者"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹胀满"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t现代应用本方常用于治疗慢性肝炎"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t肝气郁滞证"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t胆囊炎"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸闷善太息"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t情志抑郁"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t行气止痛"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "functions",
+    "node_2": "功能主治\t疏肝解郁"
+  },
+  {
+    "node_1": "方名\t柴胡疏肝散",
+    "relation": "prescription type",
+    "node_2": "处方\t柴胡疏肝散"
+  },
+  {
+    "node_1": "处方\t柴胡疏肝散",
+    "relation": "composition",
+    "node_2": "中药名\t醋炒陈皮"
+  },
+  {
+    "node_1": "中药名\t醋炒陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t二钱（各6g）"
+  },
+  {
+    "node_1": "处方\t柴胡疏肝散",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t二钱（各6g）"
+  },
+  {
+    "node_1": "处方\t柴胡疏肝散",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t一钱半（各5g）"
+  },
+  {
+    "node_1": "处方\t柴胡疏肝散",
+    "relation": "composition",
+    "node_2": "中药名\t香附"
+  },
+  {
+    "node_1": "中药名\t香附",
+    "relation": "dose",
+    "node_2": "剂量\t一钱半（各5g）"
+  },
+  {
+    "node_1": "处方\t柴胡疏肝散",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳麸炒"
+  },
+  {
+    "node_1": "中药名\t枳壳麸炒",
+    "relation": "dose",
+    "node_2": "剂量\t一钱半（各5g）"
+  },
+  {
+    "node_1": "处方\t柴胡疏肝散",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t一钱半（各5g）"
+  },
+  {
+    "node_1": "处方\t柴胡疏肝散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草炙"
+  },
+  {
+    "node_1": "中药名\t甘草炙",
+    "relation": "dose",
+    "node_2": "剂量\t五分（3g）"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t真人养脏汤（纯阳真人养脏汤）"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民合剂局方》"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t温中补虚"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t滑脱不禁"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t里急后重"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t脉迟细"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t下痢赤白"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t中焦虚寒"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t倦怠食少"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t脱肛坠下"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t泻痢无度"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛喜温喜按"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t便脓血"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t涩肠止泻"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t日夜无度"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t久泻久痢"
+  },
+  {
+    "node_1": "方名\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "prescription type",
+    "node_2": "处方\t真人养脏汤（纯阳真人养脏汤）"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "六钱(各6克)"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t当归(去芦)",
+    "weight": "六钱(各6克)"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t白术(焙)",
+    "weight": "六钱(各6克)"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t肉豆蔻(面裹，煨)",
+    "weight": "半两(8克)"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t白芍",
+    "weight": "一两六钱(12克)"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t诃子(去核)",
+    "weight": "一两二钱(9克)"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t肉桂(去粗皮)",
+    "weight": "八钱(各6克)"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草",
+    "weight": "八钱(各6克)"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t木香(不见火)",
+    "weight": "一两四钱(3克)"
+  },
+  {
+    "node_1": "处方\t真人养脏汤（纯阳真人养脏汤）",
+    "relation": "composition",
+    "node_2": "中药名\t罂粟壳(去蒂萼，蜜炙)",
+    "weight": "三两六钱(9克)"
+  }
+]

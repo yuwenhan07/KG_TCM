@@ -1,0 +1,109 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t凉膈散"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t面赤唇焦"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈烦躁"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t便秘溲赤"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t谵语狂妄"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t上、中二焦邪郁生热证"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t咽痛吐衄"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t口舌生疮"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t大便不畅"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t凉膈散",
+    "relation": "prescription type",
+    "node_2": "处方\t凉膈散"
+  },
+  {
+    "node_1": "处方\t凉膈散",
+    "relation": "composition",
+    "node_2": "中药名\t川大黄",
+    "weight": "600g"
+  },
+  {
+    "node_1": "处方\t凉膈散",
+    "relation": "composition",
+    "node_2": "中药名\t朴硝",
+    "weight": "600g"
+  },
+  {
+    "node_1": "处方\t凉膈散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "600g"
+  },
+  {
+    "node_1": "处方\t凉膈散",
+    "relation": "composition",
+    "node_2": "中药名\t山栀子仁",
+    "weight": "300g"
+  },
+  {
+    "node_1": "处方\t凉膈散",
+    "relation": "composition",
+    "node_2": "中药名\t薄荷叶(去梗)",
+    "weight": "300g"
+  },
+  {
+    "node_1": "处方\t凉膈散",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "300g"
+  },
+  {
+    "node_1": "处方\t凉膈散",
+    "relation": "composition",
+    "node_2": "中药名\t连翘",
+    "weight": "1250g"
+  }
+]

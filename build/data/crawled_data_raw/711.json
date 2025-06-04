@@ -1,0 +1,82 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t牵正散"
+  },
+  {
+    "node_1": "方名\t牵正散",
+    "relation": "from",
+    "node_2": "来源\t《杨氏家藏方》"
+  },
+  {
+    "node_1": "方名\t牵正散",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风化痰"
+  },
+  {
+    "node_1": "方名\t牵正散",
+    "relation": "functions",
+    "node_2": "功能主治\t口眼喁斜"
+  },
+  {
+    "node_1": "方名\t牵正散",
+    "relation": "functions",
+    "node_2": "功能主治\t通络止痉"
+  },
+  {
+    "node_1": "方名\t牵正散",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白"
+  },
+  {
+    "node_1": "方名\t牵正散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡红"
+  },
+  {
+    "node_1": "方名\t牵正散",
+    "relation": "functions",
+    "node_2": "功能主治\t风中头面经络"
+  },
+  {
+    "node_1": "方名\t牵正散",
+    "relation": "functions",
+    "node_2": "功能主治\t面肌抽动"
+  },
+  {
+    "node_1": "方名\t牵正散",
+    "relation": "prescription type",
+    "node_2": "处方\t牵正散"
+  },
+  {
+    "node_1": "处方\t牵正散",
+    "relation": "composition",
+    "node_2": "中药名\t白附子"
+  },
+  {
+    "node_1": "中药名\t白附子",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  },
+  {
+    "node_1": "处方\t牵正散",
+    "relation": "composition",
+    "node_2": "中药名\t白僵蚕"
+  },
+  {
+    "node_1": "中药名\t白僵蚕",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  },
+  {
+    "node_1": "处方\t牵正散",
+    "relation": "composition",
+    "node_2": "中药名\t全蝎"
+  },
+  {
+    "node_1": "中药名\t全蝎",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  }
+]

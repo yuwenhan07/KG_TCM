@@ -1,0 +1,91 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t龟鹿二仙胶"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "from",
+    "node_2": "来源\t《医便》"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t腰膝酸软"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t形体消瘦"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t发脱齿摇"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t益气壮阳"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t久不孕育"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t精血不足证"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t阳痿遗精"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴填精"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t真元虚损"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "functions",
+    "node_2": "功能主治\t两目昏花"
+  },
+  {
+    "node_1": "方名\t龟鹿二仙胶",
+    "relation": "prescription type",
+    "node_2": "处方\t龟鹿二仙胶"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶",
+    "relation": "composition",
+    "node_2": "中药名\t鹿角",
+    "weight": "5000g"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶",
+    "relation": "composition",
+    "node_2": "中药名\t龟板",
+    "weight": "2500g"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "450g"
+  },
+  {
+    "node_1": "处方\t龟鹿二仙胶",
+    "relation": "composition",
+    "node_2": "中药名\t枸杞子",
+    "weight": "900g"
+  }
+]

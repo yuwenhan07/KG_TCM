@@ -1,0 +1,109 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t水陆二仙丹"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "from",
+    "node_2": "来源\t《洪氏集验方》本方出自宋·苏颂《本草图经》，原名“水陆丹”，在《政和本草》卷二十三鸡头实(芡实)条曾予引载。后由宋·洪尊《洪氏集验方》载录并更名为“水陆二仙丹”。"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t固涩止遗"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t收敛固摄"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t益肾滋阴"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t白浊"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗遗精"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t主治肾虚遗精不固"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t滑精"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t小便频数"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t膀胱癌"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉弱"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t早期临床报道水陆二仙丹亦用于治疗妇女阴道炎"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t女子带下"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t糖尿病肾病"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t宫颈炎"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "functions",
+    "node_2": "功能主治\t白带过多"
+  },
+  {
+    "node_1": "方名\t水陆二仙丹",
+    "relation": "prescription type",
+    "node_2": "处方\t水陆二仙丹"
+  },
+  {
+    "node_1": "处方\t水陆二仙丹",
+    "relation": "composition",
+    "node_2": "中药名\t芡实",
+    "weight": "各等分"
+  },
+  {
+    "node_1": "处方\t水陆二仙丹",
+    "relation": "composition",
+    "node_2": "中药名\t金樱子",
+    "weight": "各等分"
+  }
+]

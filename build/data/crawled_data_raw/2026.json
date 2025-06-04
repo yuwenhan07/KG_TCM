@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t增液承气汤"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热结阴亏"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于热结阴亏便秘证"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t服增液汤不下者"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t泄热通便"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t无水舟停"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t产后尿潴留"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴增液"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急性有机磷农药中毒"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗功能性便秘"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t燥屎不行"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t津液不足"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t糖尿病性便秘"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治阳明温病"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t下之不通"
+  },
+  {
+    "node_1": "方名\t增液承气汤",
+    "relation": "prescription type",
+    "node_2": "处方\t增液承气汤"
+  },
+  {
+    "node_1": "处方\t增液承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄"
+  },
+  {
+    "node_1": "中药名\t生地黄",
+    "relation": "dose",
+    "node_2": "剂量\t八钱(24克)"
+  },
+  {
+    "node_1": "处方\t增液承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬"
+  },
+  {
+    "node_1": "中药名\t麦门冬",
+    "relation": "dose",
+    "node_2": "剂量\t八钱(24克)"
+  },
+  {
+    "node_1": "处方\t增液承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t增液承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t芒硝"
+  },
+  {
+    "node_1": "中药名\t芒硝",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(4.5克)"
+  },
+  {
+    "node_1": "处方\t增液承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t玄参"
+  },
+  {
+    "node_1": "中药名\t玄参",
+    "relation": "dose",
+    "node_2": "剂量\t一两(30克)"
+  }
+]

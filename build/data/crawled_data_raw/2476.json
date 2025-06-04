@@ -1,0 +1,147 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t枳术汤2"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》卷中；《重订严氏济生方》"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t心下坚，大如盘，边如旋盘"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t行气散结"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t治阳虚气滞"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t食少倦怠"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t治水饮内停"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t水饮内停"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白腻"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t心下坚硬如杯"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t健脾利水"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉弦"
+  },
+  {
+    "node_1": "方名\t枳术汤2",
+    "relation": "prescription type",
+    "node_2": "处方\t枳术汤2"
+  },
+  {
+    "node_1": "处方\t枳术汤2",
+    "relation": "composition",
+    "node_2": "中药名\t肉桂"
+  },
+  {
+    "node_1": "中药名\t肉桂",
+    "relation": "dose",
+    "node_2": "剂量\t22克"
+  },
+  {
+    "node_1": "处方\t枳术汤2",
+    "relation": "composition",
+    "node_2": "中药名\t附子"
+  },
+  {
+    "node_1": "中药名\t附子",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t枳术汤2",
+    "relation": "composition",
+    "node_2": "中药名\t细辛"
+  },
+  {
+    "node_1": "中药名\t细辛",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t枳术汤2",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t枳术汤2",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t22克"
+  },
+  {
+    "node_1": "处方\t枳术汤2",
+    "relation": "composition",
+    "node_2": "中药名\t槟榔"
+  },
+  {
+    "node_1": "中药名\t槟榔",
+    "relation": "dose",
+    "node_2": "剂量\t22克"
+  },
+  {
+    "node_1": "处方\t枳术汤2",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t22克"
+  },
+  {
+    "node_1": "处方\t枳术汤2",
+    "relation": "composition",
+    "node_2": "中药名\t枳实"
+  },
+  {
+    "node_1": "中药名\t枳实",
+    "relation": "dose",
+    "node_2": "剂量\t15克"
+  }
+]

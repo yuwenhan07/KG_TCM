@@ -1,0 +1,187 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t肾气丸"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "from",
+    "node_2": "来源\t《外科证治全生集》"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t入夜尤甚"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t补肾助阳"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腰痛脚软"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t沉弱而迟"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t尺部沉细"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t转胞"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t水肿"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t肾阳不足证"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t身半以下常有冷感"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脚气"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t消渴"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t阳痿早泄"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚弱"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t痰饮"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡而胖"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t小便反多"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t少腹拘急"
+  },
+  {
+    "node_1": "方名\t肾气丸",
+    "relation": "prescription type",
+    "node_2": "处方\t肾气丸"
+  },
+  {
+    "node_1": "处方\t肾气丸",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄"
+  },
+  {
+    "node_1": "中药名\t干地黄",
+    "relation": "dose",
+    "node_2": "剂量\t八两（24g）"
+  },
+  {
+    "node_1": "处方\t肾气丸",
+    "relation": "composition",
+    "node_2": "中药名\t薯蓣"
+  },
+  {
+    "node_1": "中药名\t薯蓣",
+    "relation": "dose",
+    "node_2": "剂量\t四两（各12g）"
+  },
+  {
+    "node_1": "处方\t肾气丸",
+    "relation": "composition",
+    "node_2": "中药名\t山茱萸"
+  },
+  {
+    "node_1": "中药名\t山茱萸",
+    "relation": "dose",
+    "node_2": "剂量\t四两（各12g）"
+  },
+  {
+    "node_1": "处方\t肾气丸",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t三两（各9g）"
+  },
+  {
+    "node_1": "处方\t肾气丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t三两（各9g）"
+  },
+  {
+    "node_1": "处方\t肾气丸",
+    "relation": "composition",
+    "node_2": "中药名\t牡丹皮"
+  },
+  {
+    "node_1": "中药名\t牡丹皮",
+    "relation": "dose",
+    "node_2": "剂量\t三两（各9g）"
+  },
+  {
+    "node_1": "处方\t肾气丸",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t一两（各3g）"
+  },
+  {
+    "node_1": "处方\t肾气丸",
+    "relation": "composition",
+    "node_2": "中药名\t附子(炮)"
+  },
+  {
+    "node_1": "中药名\t附子(炮)",
+    "relation": "dose",
+    "node_2": "剂量\t一两（各3g）"
+  }
+]

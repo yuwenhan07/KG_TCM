@@ -1,0 +1,142 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t麻黄甘草汤"
+  },
+  {
+    "node_1": "方名\t麻黄甘草汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮》卷中；《伤寒总病论》卷四；《圣济总录》卷二十二"
+  },
+  {
+    "node_1": "方名\t麻黄甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治烦喘"
+  },
+  {
+    "node_1": "方名\t麻黄甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风散寒，祛湿止痛"
+  },
+  {
+    "node_1": "方名\t麻黄甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风散寒，止咳平喘"
+  },
+  {
+    "node_1": "方名\t麻黄甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治伤寒头痛身热，咽喉壅塞，语声不出"
+  },
+  {
+    "node_1": "方名\t麻黄甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t里水，一身面目黄肿，其脉沉，小便不利"
+  },
+  {
+    "node_1": "方名\t麻黄甘草汤",
+    "relation": "prescription type",
+    "node_2": "处方\t麻黄甘草汤"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄(去节)"
+  },
+  {
+    "node_1": "中药名\t麻黄(去节)",
+    "relation": "dose",
+    "node_2": "剂量\t3分"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t地骨皮"
+  },
+  {
+    "node_1": "中药名\t地骨皮",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t玄参"
+  },
+  {
+    "node_1": "中药名\t玄参",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t五味子"
+  },
+  {
+    "node_1": "中药名\t五味子",
+    "relation": "dose",
+    "node_2": "剂量\t3分"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙，锉)"
+  },
+  {
+    "node_1": "中药名\t甘草(炙，锉)",
+    "relation": "dose",
+    "node_2": "剂量\t1分"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t干姜(炮)"
+  },
+  {
+    "node_1": "中药名\t干姜(炮)",
+    "relation": "dose",
+    "node_2": "剂量\t1分"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子(炮裂，去皮脐)"
+  },
+  {
+    "node_1": "中药名\t附子(炮裂，去皮脐)",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗(炒)"
+  },
+  {
+    "node_1": "中药名\t桔梗(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁(汤浸，去皮尖双仁，炒)"
+  },
+  {
+    "node_1": "中药名\t杏仁(汤浸，去皮尖双仁，炒)",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  },
+  {
+    "node_1": "处方\t麻黄甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母"
+  },
+  {
+    "node_1": "中药名\t知母",
+    "relation": "dose",
+    "node_2": "剂量\t半两"
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t镇肝熄风汤"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "from",
+    "node_2": "来源\t《医学衷中参西录》"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t醒后不能复元"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脑部热痛"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口眼渐形喁斜"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦长有力"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t镇肝熄风"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴潜阳"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色如醉"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕颠仆"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t时常噫气"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t移时始醒"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t昏不知人"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头目眩晕"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体渐觉不利"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t目胀耳鸣"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心中烦热"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "functions",
+    "node_2": "功能主治\t内中风"
+  },
+  {
+    "node_1": "方名\t镇肝熄风汤",
+    "relation": "prescription type",
+    "node_2": "处方\t镇肝熄风汤"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t怀牛膝",
+    "weight": "一两(30克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t生赭石(轧细)",
+    "weight": "一两(30克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t生龙骨(捣碎)",
+    "weight": "五钱(15克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t生牡蛎(捣碎)",
+    "weight": "五钱(15克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t生龟甲(捣碎)",
+    "weight": "五钱(15克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t生杭芍",
+    "weight": "五钱(15克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t玄参",
+    "weight": "五钱(15克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t天冬",
+    "weight": "五钱(15克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t川楝子(捣碎)",
+    "weight": "二钱(6克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t生麦芽",
+    "weight": "二钱(6克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t茵陈",
+    "weight": "二钱(6克)"
+  },
+  {
+    "node_1": "处方\t镇肝熄风汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "一钱半(4.5克)"
+  }
+]

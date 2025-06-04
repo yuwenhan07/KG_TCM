@@ -1,0 +1,127 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t牡蛎泽泻散"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "functions",
+    "node_2": "功能主治\t腰以下浮肿"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉实有力者"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "functions",
+    "node_2": "功能主治\t软坚散结"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "functions",
+    "node_2": "功能主治\t逐水消肿"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "functions",
+    "node_2": "功能主治\t治大病愈后，水气停聚"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "functions",
+    "node_2": "功能主治\t或短赤黄涩"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "functions",
+    "node_2": "功能主治\t膝胫足时尤甚"
+  },
+  {
+    "node_1": "方名\t牡蛎泽泻散",
+    "relation": "prescription type",
+    "node_2": "处方\t牡蛎泽泻散"
+  },
+  {
+    "node_1": "处方\t牡蛎泽泻散",
+    "relation": "composition",
+    "node_2": "中药名\t牡蛎（熬）"
+  },
+  {
+    "node_1": "中药名\t牡蛎（熬）",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  },
+  {
+    "node_1": "处方\t牡蛎泽泻散",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  },
+  {
+    "node_1": "处方\t牡蛎泽泻散",
+    "relation": "composition",
+    "node_2": "中药名\t蜀漆（暖水洗去腥）"
+  },
+  {
+    "node_1": "中药名\t蜀漆（暖水洗去腥）",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  },
+  {
+    "node_1": "处方\t牡蛎泽泻散",
+    "relation": "composition",
+    "node_2": "中药名\t葶苈子（熬）"
+  },
+  {
+    "node_1": "中药名\t葶苈子（熬）",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  },
+  {
+    "node_1": "处方\t牡蛎泽泻散",
+    "relation": "composition",
+    "node_2": "中药名\t商陆根（熬）"
+  },
+  {
+    "node_1": "中药名\t商陆根（熬）",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  },
+  {
+    "node_1": "处方\t牡蛎泽泻散",
+    "relation": "composition",
+    "node_2": "中药名\t海藻（洗去咸）"
+  },
+  {
+    "node_1": "中药名\t海藻（洗去咸）",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  },
+  {
+    "node_1": "处方\t牡蛎泽泻散",
+    "relation": "composition",
+    "node_2": "中药名\t栝楼根"
+  },
+  {
+    "node_1": "中药名\t栝楼根",
+    "relation": "dose",
+    "node_2": "剂量\t各等分"
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t理冲汤"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "from",
+    "node_2": "来源\t《医学衷中参西录》。"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气行血"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t产后恶露不尽"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调经祛瘀"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t一切脏腑癥瘕"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t室女月闭血枯"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t结为癥瘕"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气郁"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴虚作热"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脾弱"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t食少劳嗽"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t妇人经闭不行"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t虚证沓来"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t满闷"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t积聚"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痞胀"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不能饮食"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t男子劳瘵"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳虚作冷"
+  },
+  {
+    "node_1": "方名\t理冲汤",
+    "relation": "prescription type",
+    "node_2": "处方\t理冲汤"
+  },
+  {
+    "node_1": "处方\t理冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t生山药",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t理冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t天花粉",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t理冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t理冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t理冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t三棱",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t理冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t莪术",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t理冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t鸡内金",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t理冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t党参",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t理冲汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "6克"
+  }
+]

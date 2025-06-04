@@ -1,0 +1,189 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t栀子豆鼓汤（栀子豉汤）"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t降低胆固醇"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t抗早老年性痴呆"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t抗骨质疏松"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t抗自由基"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗反流性食管炎"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t抗病毒"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t抗肿瘤"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t保肝"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t雌激素样作用"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t除烦止躁"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄黄腻"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t饥不能食"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗焦虑症"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗抑郁症"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t抗菌"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t虚烦不得眠"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t解热"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t心血管保护"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t利胆"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗失眠"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t抗氧化"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t阵痛"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t降低过氧化脂质"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t心中懊侬"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t外感热病气分轻症"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t反复颠倒"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t表邪已罢"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t抗炎"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t清宣郁热"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t胸脘痞闷"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗小儿睡惊症"
+  },
+  {
+    "node_1": "方名\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "prescription type",
+    "node_2": "处方\t栀子豆鼓汤（栀子豉汤）"
+  },
+  {
+    "node_1": "处方\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "composition",
+    "node_2": "中药名\t栀子",
+    "weight": "十四个(9克)"
+  },
+  {
+    "node_1": "处方\t栀子豆鼓汤（栀子豉汤）",
+    "relation": "composition",
+    "node_2": "中药名\t香豉",
+    "weight": "四合(6克)"
+  }
+]

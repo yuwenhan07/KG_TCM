@@ -1,0 +1,78 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t参附龙牡汤"
+  },
+  {
+    "node_1": "方名\t参附龙牡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t症见汗出肢冷"
+  },
+  {
+    "node_1": "方名\t参附龙牡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色浮红"
+  },
+  {
+    "node_1": "方名\t参附龙牡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t敛汗潜阳"
+  },
+  {
+    "node_1": "方名\t参附龙牡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t扶正固脱"
+  },
+  {
+    "node_1": "方名\t参附龙牡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚数或浮大无根"
+  },
+  {
+    "node_1": "方名\t参附龙牡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治阴阳俱竭、阳越于上证"
+  },
+  {
+    "node_1": "方名\t参附龙牡汤",
+    "relation": "prescription type",
+    "node_2": "处方\t参附龙牡汤"
+  },
+  {
+    "node_1": "处方\t参附龙牡汤",
+    "relation": "composition",
+    "node_2": "中药名\t熟附子",
+    "weight": "10~30g"
+  },
+  {
+    "node_1": "处方\t参附龙牡汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "10~30g"
+  },
+  {
+    "node_1": "处方\t参附龙牡汤",
+    "relation": "composition",
+    "node_2": "中药名\t龙骨(煅，打碎)",
+    "weight": "10~25g"
+  },
+  {
+    "node_1": "处方\t参附龙牡汤",
+    "relation": "composition",
+    "node_2": "中药名\t牡蛎(煅，打碎)",
+    "weight": "10~25g"
+  },
+  {
+    "node_1": "处方\t参附龙牡汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍",
+    "weight": "5g"
+  },
+  {
+    "node_1": "处方\t参附龙牡汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草",
+    "weight": "5g"
+  }
+]

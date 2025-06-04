@@ -1,0 +1,177 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t健脾丸"
+  },
+  {
+    "node_1": "方名\t健脾丸",
+    "relation": "from",
+    "node_2": "来源\t《证治准绳》"
+  },
+  {
+    "node_1": "方名\t健脾丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹痞闷"
+  },
+  {
+    "node_1": "方名\t健脾丸",
+    "relation": "functions",
+    "node_2": "功能主治\t食少难消"
+  },
+  {
+    "node_1": "方名\t健脾丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脾虚食积证"
+  },
+  {
+    "node_1": "方名\t健脾丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉象虚弱"
+  },
+  {
+    "node_1": "方名\t健脾丸",
+    "relation": "functions",
+    "node_2": "功能主治\t苔腻微黄"
+  },
+  {
+    "node_1": "方名\t健脾丸",
+    "relation": "functions",
+    "node_2": "功能主治\t大便溏薄"
+  },
+  {
+    "node_1": "方名\t健脾丸",
+    "relation": "prescription type",
+    "node_2": "处方\t健脾丸"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t白术炒"
+  },
+  {
+    "node_1": "中药名\t白术炒",
+    "relation": "dose",
+    "node_2": "剂量\t二两半 (75g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t七钱半 (各22g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄连酒炒"
+  },
+  {
+    "node_1": "中药名\t黄连酒炒",
+    "relation": "dose",
+    "node_2": "剂量\t七钱半 (各22g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t七钱半 (各22g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓"
+  },
+  {
+    "node_1": "中药名\t白茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t二两 (60g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t一两五钱 (45g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t神曲"
+  },
+  {
+    "node_1": "中药名\t神曲",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮"
+  },
+  {
+    "node_1": "中药名\t陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t砂仁"
+  },
+  {
+    "node_1": "中药名\t砂仁",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t麦芽"
+  },
+  {
+    "node_1": "中药名\t麦芽",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t山楂"
+  },
+  {
+    "node_1": "中药名\t山楂",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t山药"
+  },
+  {
+    "node_1": "中药名\t山药",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  },
+  {
+    "node_1": "处方\t健脾丸",
+    "relation": "composition",
+    "node_2": "中药名\t肉豆蔻"
+  },
+  {
+    "node_1": "中药名\t肉豆蔻",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  }
+]

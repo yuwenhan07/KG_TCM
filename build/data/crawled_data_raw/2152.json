@@ -1,0 +1,242 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桃红四物汤"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "from",
+    "node_2": "来源\t《医垒元戎》"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿血小板减少性紫癜"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t血瘀引起的月经过多"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痛经"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉迟或弦细比较涩嘴"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t女性更年期综合征"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t经前腹痛"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t色紫暗"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t抗疲劳及耐缺氧"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t补充微量元素"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t血虚兼血瘀证"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t糖尿病周围神经病变"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t血栓闭塞性脉管炎"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t经行不畅而有血块"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t产后恶露不净"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t活血化瘀"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t淋漓不净"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t癫痫"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性肾小球肾炎"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t功能性子宫出血"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡紫"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t降血脂"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调经止痛"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t偏头痛"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t闭经"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t扩血管"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t眼底出血"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t抗炎"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t荨麻疹"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t抗休克"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗冠心病心绞痛"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "functions",
+    "node_2": "功能主治\t妇女经期超前"
+  },
+  {
+    "node_1": "方名\t桃红四物汤",
+    "relation": "prescription type",
+    "node_2": "处方\t桃红四物汤"
+  },
+  {
+    "node_1": "处方\t桃红四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t熟地"
+  },
+  {
+    "node_1": "中药名\t熟地",
+    "relation": "dose",
+    "node_2": "剂量\t15克"
+  },
+  {
+    "node_1": "处方\t桃红四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t15克"
+  },
+  {
+    "node_1": "处方\t桃红四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍"
+  },
+  {
+    "node_1": "中药名\t白芍",
+    "relation": "dose",
+    "node_2": "剂量\t10克"
+  },
+  {
+    "node_1": "处方\t桃红四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t8克"
+  },
+  {
+    "node_1": "处方\t桃红四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁"
+  },
+  {
+    "node_1": "中药名\t桃仁",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  },
+  {
+    "node_1": "处方\t桃红四物汤",
+    "relation": "composition",
+    "node_2": "中药名\t红花"
+  },
+  {
+    "node_1": "中药名\t红花",
+    "relation": "dose",
+    "node_2": "剂量\t6克"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t酸枣仁汤"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t虚热内扰证"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t虚烦失眠"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t精血虚耗"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咽干口燥"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t怔忡恍惚"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t夜卧不安"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸不安"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦细"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头目眩晕"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰饮内蓄"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肝血不足"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心肾水火不交"
+  },
+  {
+    "node_1": "方名\t酸枣仁汤",
+    "relation": "prescription type",
+    "node_2": "处方\t酸枣仁汤"
+  },
+  {
+    "node_1": "处方\t酸枣仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t酸枣仁(炒)"
+  },
+  {
+    "node_1": "中药名\t酸枣仁(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t酸枣仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t酸枣仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母"
+  },
+  {
+    "node_1": "中药名\t知母",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t酸枣仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t酸枣仁汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t加味续命汤2"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "from",
+    "node_2": "来源\t唐·《备急千金要方》；明·方贤着《奇效良方》；《济阳纲目》卷四十五；《胎产秘书》卷下"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t风寒入于腠理，经络不和，手足搐搦，眼目上视，角弓反张，口眼歪斜，舌瘖不语，痰涎上涌，不省人事"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t主中风风痱，肢体缓纵不收，皮肤不知痛痒，口不能言，不省人事"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗脑梗死、高血压、面神经麻痹等病症"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t卒中风，症见不省人事，口眼歪斜，半身不遂，语言謇涩"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t风湿痹痛"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t补气壮阳"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t风痫，发则仆地，闷动无知，嚼舌吐沫，背反张，目上视，手足搐搦，或作六畜声者"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风散寒"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t治风痉，口噤不开，身背强直，发如痫状"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t年春分后常服二三剂，即不患天行伤寒，及诸风邪等疾"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t益气温阳"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t主产后类中风痉症"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t产妇出血较多，及老人、小儿见上述症者"
+  },
+  {
+    "node_1": "方名\t加味续命汤2",
+    "relation": "prescription type",
+    "node_2": "处方\t加味续命汤2"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t2钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t焦术"
+  },
+  {
+    "node_1": "中药名\t焦术",
+    "relation": "dose",
+    "node_2": "剂量\t2钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t2钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t炮姜"
+  },
+  {
+    "node_1": "中药名\t炮姜",
+    "relation": "dose",
+    "node_2": "剂量\t8分"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t熟附子"
+  },
+  {
+    "node_1": "中药名\t熟附子",
+    "relation": "dose",
+    "node_2": "剂量\t3钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t北细辛"
+  },
+  {
+    "node_1": "中药名\t北细辛",
+    "relation": "dose",
+    "node_2": "剂量\t5分"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t生黄耆"
+  },
+  {
+    "node_1": "中药名\t生黄耆",
+    "relation": "dose",
+    "node_2": "剂量\t3钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t2钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t酒拌炒归身"
+  },
+  {
+    "node_1": "中药名\t酒拌炒归身",
+    "relation": "dose",
+    "node_2": "剂量\t3钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t法夏"
+  },
+  {
+    "node_1": "中药名\t法夏",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t8分"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t杞子"
+  },
+  {
+    "node_1": "中药名\t杞子",
+    "relation": "dose",
+    "node_2": "剂量\t3钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t鹿胶"
+  },
+  {
+    "node_1": "中药名\t鹿胶",
+    "relation": "dose",
+    "node_2": "剂量\t3钱"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t石菖蒲"
+  },
+  {
+    "node_1": "中药名\t石菖蒲",
+    "relation": "dose",
+    "node_2": "剂量\t1钱5分"
+  },
+  {
+    "node_1": "处方\t加味续命汤2",
+    "relation": "composition",
+    "node_2": "中药名\t天竺黄"
+  },
+  {
+    "node_1": "中药名\t天竺黄",
+    "relation": "dose",
+    "node_2": "剂量\t1钱5分"
+  }
+]

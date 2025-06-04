@@ -1,0 +1,107 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t易黄汤"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "from",
+    "node_2": "来源\t《傅青主女科》"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t其气腥秽"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔黄腻"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t色黄如浓茶汁"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清热祛湿"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t带下粘稠量多"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t固肾止带"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肾虚湿热带下"
+  },
+  {
+    "node_1": "方名\t易黄汤",
+    "relation": "prescription type",
+    "node_2": "处方\t易黄汤"
+  },
+  {
+    "node_1": "处方\t易黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t山药(炒)"
+  },
+  {
+    "node_1": "中药名\t山药(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t易黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t芡实(炒)"
+  },
+  {
+    "node_1": "中药名\t芡实(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t易黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏(盐水炒)"
+  },
+  {
+    "node_1": "中药名\t黄柏(盐水炒)",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t易黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t车前子(酒炒)"
+  },
+  {
+    "node_1": "中药名\t车前子(酒炒)",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t易黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t白果(碎，十枚)"
+  },
+  {
+    "node_1": "中药名\t白果(碎，十枚)",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t增液汤"
+  },
+  {
+    "node_1": "方名\t增液汤",
+    "relation": "from",
+    "node_2": "来源\t《医门法律》"
+  },
+  {
+    "node_1": "方名\t增液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳明温病"
+  },
+  {
+    "node_1": "方名\t增液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t津亏便秘证"
+  },
+  {
+    "node_1": "方名\t增液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细数或沉而无力"
+  },
+  {
+    "node_1": "方名\t增液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴"
+  },
+  {
+    "node_1": "方名\t增液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌干红"
+  },
+  {
+    "node_1": "方名\t增液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t若其人阴素虚，不可行承气者"
+  },
+  {
+    "node_1": "方名\t增液汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便秘结数日不大便"
+  },
+  {
+    "node_1": "方名\t增液汤",
+    "relation": "prescription type",
+    "node_2": "处方\t增液汤"
+  },
+  {
+    "node_1": "处方\t增液汤",
+    "relation": "composition",
+    "node_2": "中药名\t玄参",
+    "weight": "一两（30g）"
+  },
+  {
+    "node_1": "处方\t增液汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬（连心）",
+    "weight": "八钱（24g）"
+  },
+  {
+    "node_1": "处方\t增液汤",
+    "relation": "composition",
+    "node_2": "中药名\t细生地",
+    "weight": "八钱（24g）"
+  }
+]

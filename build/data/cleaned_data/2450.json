@@ -1,0 +1,111 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t健运汤"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "from",
+    "node_2": "来源\t《衷中参西》上"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "functions",
+    "node_2": "功能主治\t行痹止痛"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痹证"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "functions",
+    "node_2": "功能主治\t膝肿步难行"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腿疼"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "functions",
+    "node_2": "功能主治\t老年人气虚血滞引起的腿脚疼痛"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气养血"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "functions",
+    "node_2": "功能主治\t亦治腰疼"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "functions",
+    "node_2": "功能主治\t臂疼因气虚者"
+  },
+  {
+    "node_1": "方名\t健运汤",
+    "relation": "prescription type",
+    "node_2": "处方\t健运汤"
+  },
+  {
+    "node_1": "处方\t健运汤",
+    "relation": "composition",
+    "node_2": "中药名\t生黄芪",
+    "weight": "18克"
+  },
+  {
+    "node_1": "处方\t健运汤",
+    "relation": "composition",
+    "node_2": "中药名\t党参",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t健运汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t健运汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t健运汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t健运汤",
+    "relation": "composition",
+    "node_2": "中药名\t生明乳香",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t健运汤",
+    "relation": "composition",
+    "node_2": "中药名\t生明没药",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t健运汤",
+    "relation": "composition",
+    "node_2": "中药名\t莪术",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t健运汤",
+    "relation": "composition",
+    "node_2": "中药名\t三棱",
+    "weight": "3克"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t防己黄芪汤"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "functions",
+    "node_2": "功能主治\t表虚不固之风水或风湿证"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气祛风"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身重微肿"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "functions",
+    "node_2": "功能主治\t汗出恶风"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢节疼痛"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "functions",
+    "node_2": "功能主治\t健脾利水"
+  },
+  {
+    "node_1": "方名\t防己黄芪汤",
+    "relation": "prescription type",
+    "node_2": "处方\t防己黄芪汤"
+  },
+  {
+    "node_1": "处方\t防己黄芪汤",
+    "relation": "composition",
+    "node_2": "中药名\t防已",
+    "weight": "一两 (12g)"
+  },
+  {
+    "node_1": "处方\t防己黄芪汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪",
+    "weight": "一两一分 (15g)"
+  },
+  {
+    "node_1": "处方\t防己黄芪汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "半两 (6g)"
+  },
+  {
+    "node_1": "处方\t防己黄芪汤",
+    "relation": "composition",
+    "node_2": "中药名\t炒白术",
+    "weight": "七钱半 (9g)"
+  }
+]

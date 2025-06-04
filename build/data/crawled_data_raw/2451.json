@@ -1,0 +1,337 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t十六味流气饮"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "from",
+    "node_2": "来源\t《医宗金鉴》"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t前列腺增生"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t血液瘀滞"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t卵巢囊肿"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t无名恶肿痈疽等证"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t胃息肉"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t结节"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t甲状腺癌"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t气血不和，结成肿块，皮色不变者"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t气毒湿毒"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t肝气郁结"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t胆囊息肉"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t甲状腺结节"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t肿瘤"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t风寒湿邪外侵"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t肠息肉"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t息肉"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t破一切积聚"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t增生"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻息肉"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t气毒湿毒，流注遍身攻肿"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t肌瘤"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t流注及一切恚怒气结肿作痛，或漫肿木闷无头"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t骨质增生"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t肝囊肿"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t肾囊肿"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t乳腺增生"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t子宫肌瘤"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t喉息肉"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t囊肿"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t乳腺结节"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t奶岩"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "functions",
+    "node_2": "功能主治\t淋巴结核"
+  },
+  {
+    "node_1": "方名\t十六味流气饮",
+    "relation": "prescription type",
+    "node_2": "处方\t十六味流气饮"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t官桂"
+  },
+  {
+    "node_1": "中药名\t官桂",
+    "relation": "dose",
+    "node_2": "剂量\t5分"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t白芷"
+  },
+  {
+    "node_1": "中药名\t白芷",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t黄耆"
+  },
+  {
+    "node_1": "中药名\t黄耆",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t炙草"
+  },
+  {
+    "node_1": "中药名\t炙草",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴"
+  },
+  {
+    "node_1": "中药名\t厚朴",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t白芍药"
+  },
+  {
+    "node_1": "中药名\t白芍药",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t大腹皮"
+  },
+  {
+    "node_1": "中药名\t大腹皮",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t乌药"
+  },
+  {
+    "node_1": "中药名\t乌药",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳"
+  },
+  {
+    "node_1": "中药名\t枳壳",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  },
+  {
+    "node_1": "处方\t十六味流气饮",
+    "relation": "composition",
+    "node_2": "中药名\t苏叶"
+  },
+  {
+    "node_1": "中药名\t苏叶",
+    "relation": "dose",
+    "node_2": "剂量\t1钱"
+  }
+]

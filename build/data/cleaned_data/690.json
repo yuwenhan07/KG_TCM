@@ -1,0 +1,129 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t黄龙汤"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒六书》"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔焦黄或焦黑"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t谵语"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹胀满"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t自利清水，色纯清"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t补气养血"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t甚则循衣摸床，抽空理线"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳明腑实"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神疲少气"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气血不足证"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛拒按"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便秘结"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t攻下通便"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热口渴"
+  },
+  {
+    "node_1": "方名\t黄龙汤",
+    "relation": "prescription type",
+    "node_2": "处方\t黄龙汤"
+  },
+  {
+    "node_1": "处方\t黄龙汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t黄龙汤",
+    "relation": "composition",
+    "node_2": "中药名\t芒硝",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t黄龙汤",
+    "relation": "composition",
+    "node_2": "中药名\t枳实",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t黄龙汤",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t黄龙汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t黄龙汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t黄龙汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "3g"
+  }
+]

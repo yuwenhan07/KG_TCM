@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t芍药汤"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "from",
+    "node_2": "来源\t《素问病机气宜保命集》"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦数"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肛门灼热"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热痢疾"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "functions",
+    "node_2": "功能主治\t里急后重"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "functions",
+    "node_2": "功能主治\t赤白相兼"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便短赤"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔黄腻"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "functions",
+    "node_2": "功能主治\t便脓血"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛"
+  },
+  {
+    "node_1": "方名\t芍药汤",
+    "relation": "prescription type",
+    "node_2": "处方\t芍药汤"
+  },
+  {
+    "node_1": "处方\t芍药汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t芍药汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t芍药汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t芍药汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩"
+  },
+  {
+    "node_1": "中药名\t黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t芍药汤",
+    "relation": "composition",
+    "node_2": "中药名\t槟榔"
+  },
+  {
+    "node_1": "中药名\t槟榔",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t芍药汤",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t芍药汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t芍药汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t芍药汤",
+    "relation": "composition",
+    "node_2": "中药名\t肉桂"
+  },
+  {
+    "node_1": "中药名\t肉桂",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  }
+]

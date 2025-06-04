@@ -1,0 +1,157 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t暖肾助火汤"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "from",
+    "node_2": "来源\t《揣摩有得集》"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肾经虚寒"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳痿"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脾气虚弱虚寒之遗精"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉细"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t食欲缺乏"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t色欲过度"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴萎"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t遗精"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t性欲减退"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肾阳不足"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t固精止涩"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳缩早泄"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温补脾肾"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "functions",
+    "node_2": "功能主治\t畏寒肢冷"
+  },
+  {
+    "node_1": "方名\t暖肾助火汤",
+    "relation": "prescription type",
+    "node_2": "处方\t暖肾助火汤"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t潞参",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t山药",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t巴戟天",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t覆盆子",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t桑螵蛸",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子片",
+    "weight": "4.5g"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t上元桂",
+    "weight": "4.5g"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t芡实",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t暖肾助火汤",
+    "relation": "composition",
+    "node_2": "中药名\t肉苁蓉",
+    "weight": "3g"
+  }
+]

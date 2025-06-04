@@ -1,0 +1,136 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t三甲复脉汤"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗围绝经期综合征"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗桥本甲状腺炎"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗脑动脉硬化性头痛"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗面肌抽搐"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗高血压"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗血管性痴呆"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗骨质疏松"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴复脉"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗皮肤瘙痒症"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗甲状腺功能亢进症"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗心律失常"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗脑动脉硬化"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t潜阳熄风"
+  },
+  {
+    "node_1": "方名\t三甲复脉汤",
+    "relation": "prescription type",
+    "node_2": "处方\t三甲复脉汤"
+  },
+  {
+    "node_1": "处方\t三甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草",
+    "weight": "六钱(各18克)"
+  },
+  {
+    "node_1": "处方\t三甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄",
+    "weight": "六钱(各18克)"
+  },
+  {
+    "node_1": "处方\t三甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t生白芍",
+    "weight": "六钱(各18克)"
+  },
+  {
+    "node_1": "处方\t三甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t不去心麦门冬",
+    "weight": "五钱(15克)"
+  },
+  {
+    "node_1": "处方\t三甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶",
+    "weight": "三钱(9克)"
+  },
+  {
+    "node_1": "处方\t三甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻仁",
+    "weight": "三钱(9克)"
+  },
+  {
+    "node_1": "处方\t三甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t生牡蛎",
+    "weight": "五钱(15克)"
+  },
+  {
+    "node_1": "处方\t三甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t生鳖甲",
+    "weight": "八钱(24克)"
+  },
+  {
+    "node_1": "处方\t三甲复脉汤",
+    "relation": "composition",
+    "node_2": "中药名\t生龟甲",
+    "weight": "一两(30克)"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t半夏厚朴汤"
+  },
+  {
+    "node_1": "方名\t半夏厚朴汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t半夏厚朴汤",
+    "relation": "functions",
+    "node_2": "功能主治\t梅核气"
+  },
+  {
+    "node_1": "方名\t半夏厚朴汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦缓或弦滑"
+  },
+  {
+    "node_1": "方名\t半夏厚朴汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白润或白滑"
+  },
+  {
+    "node_1": "方名\t半夏厚朴汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咽中如有物阻，咯吐不出，吞咽不下"
+  },
+  {
+    "node_1": "方名\t半夏厚朴汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或咳或呕"
+  },
+  {
+    "node_1": "方名\t半夏厚朴汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈满闷"
+  },
+  {
+    "node_1": "方名\t半夏厚朴汤",
+    "relation": "prescription type",
+    "node_2": "处方\t半夏厚朴汤"
+  },
+  {
+    "node_1": "处方\t半夏厚朴汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t半夏厚朴汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t半夏厚朴汤",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴"
+  },
+  {
+    "node_1": "中药名\t厚朴",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t半夏厚朴汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t半夏厚朴汤",
+    "relation": "composition",
+    "node_2": "中药名\t苏叶"
+  },
+  {
+    "node_1": "中药名\t苏叶",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  }
+]

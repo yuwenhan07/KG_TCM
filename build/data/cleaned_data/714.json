@@ -1,0 +1,105 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t川芎茶调散"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风止痛"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "functions",
+    "node_2": "功能主治\t目眩鼻塞"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "functions",
+    "node_2": "功能主治\t偏正头痛"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "functions",
+    "node_2": "功能主治\t恶风发热"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "functions",
+    "node_2": "功能主治\t巅顶作痛"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄白"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风邪头痛"
+  },
+  {
+    "node_1": "方名\t川芎茶调散",
+    "relation": "prescription type",
+    "node_2": "处方\t川芎茶调散"
+  },
+  {
+    "node_1": "处方\t川芎茶调散",
+    "relation": "composition",
+    "node_2": "中药名\t川芎",
+    "weight": "四两 (各120g)"
+  },
+  {
+    "node_1": "处方\t川芎茶调散",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥",
+    "weight": "四两 (各120g)"
+  },
+  {
+    "node_1": "处方\t川芎茶调散",
+    "relation": "composition",
+    "node_2": "中药名\t白芷",
+    "weight": "二两 (各60g)"
+  },
+  {
+    "node_1": "处方\t川芎茶调散",
+    "relation": "composition",
+    "node_2": "中药名\t羌活",
+    "weight": "二两 (各60g)"
+  },
+  {
+    "node_1": "处方\t川芎茶调散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草爁",
+    "weight": "二两 (各60g)"
+  },
+  {
+    "node_1": "处方\t川芎茶调散",
+    "relation": "composition",
+    "node_2": "中药名\t细辛",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t川芎茶调散",
+    "relation": "composition",
+    "node_2": "中药名\t防风",
+    "weight": "一两半 (45g)"
+  },
+  {
+    "node_1": "处方\t川芎茶调散",
+    "relation": "composition",
+    "node_2": "中药名\t薄荷叶",
+    "weight": "八两 (240g)"
+  }
+]

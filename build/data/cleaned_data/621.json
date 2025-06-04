@@ -1,0 +1,113 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t杏苏散"
+  },
+  {
+    "node_1": "方名\t杏苏散",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》"
+  },
+  {
+    "node_1": "方名\t杏苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t外感凉燥证"
+  },
+  {
+    "node_1": "方名\t杏苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻塞咽干"
+  },
+  {
+    "node_1": "方名\t杏苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白脉弦"
+  },
+  {
+    "node_1": "方名\t杏苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t头微痛"
+  },
+  {
+    "node_1": "方名\t杏苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽痰稀"
+  },
+  {
+    "node_1": "方名\t杏苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒无汗"
+  },
+  {
+    "node_1": "方名\t杏苏散",
+    "relation": "prescription type",
+    "node_2": "处方\t杏苏散"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t苏叶",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t前胡",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t苦桔梗",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t橘皮",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "3片"
+  },
+  {
+    "node_1": "处方\t杏苏散",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "3枚"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t猪苓汤"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦不寐"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发热"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呕恶"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗复发性尿路感染"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t利水清热养阴"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t下利"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肾病综合征"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t乙肝肝硬化腹水"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t邪热伤阴"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t颅脑损伤"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治水热互结"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴欲饮"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉濡"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t猪苓汤",
+    "relation": "prescription type",
+    "node_2": "处方\t猪苓汤"
+  },
+  {
+    "node_1": "处方\t猪苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t猪苓"
+  },
+  {
+    "node_1": "中药名\t猪苓",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t猪苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t猪苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t猪苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t滑石"
+  },
+  {
+    "node_1": "中药名\t滑石",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  },
+  {
+    "node_1": "处方\t猪苓汤",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶"
+  },
+  {
+    "node_1": "中药名\t阿胶",
+    "relation": "dose",
+    "node_2": "剂量\t三钱(9克)"
+  }
+]

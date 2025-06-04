@@ -1,0 +1,147 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t八珍汤"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "from",
+    "node_2": "来源\t《瑞竹堂经验方》"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸怔忡"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气血两虚证"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气短懒言"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t饮食减少"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔薄白"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头晕耳眩"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢倦怠"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色苍白或萎黄"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细弱或虚大无力"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气补血"
+  },
+  {
+    "node_1": "方名\t八珍汤",
+    "relation": "prescription type",
+    "node_2": "处方\t八珍汤"
+  },
+  {
+    "node_1": "处方\t八珍汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t八珍汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t八珍汤",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓"
+  },
+  {
+    "node_1": "中药名\t白茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t八珍汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t八珍汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t八珍汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍药"
+  },
+  {
+    "node_1": "中药名\t白芍药",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t八珍汤",
+    "relation": "composition",
+    "node_2": "中药名\t熟地黄"
+  },
+  {
+    "node_1": "中药名\t熟地黄",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t八珍汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)"
+  },
+  {
+    "node_1": "中药名\t甘草(炙)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  }
+]

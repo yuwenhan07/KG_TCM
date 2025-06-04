@@ -1,0 +1,87 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t苓甘五味姜辛汤"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清稀色白"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温肺化饮"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t寒饮咳嗽"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦滑"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸满不舒"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳痰量多"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白滑"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "functions",
+    "node_2": "功能主治\t喜唾涎沫"
+  },
+  {
+    "node_1": "方名\t苓甘五味姜辛汤",
+    "relation": "prescription type",
+    "node_2": "处方\t苓甘五味姜辛汤"
+  },
+  {
+    "node_1": "处方\t苓甘五味姜辛汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t苓甘五味姜辛汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t苓甘五味姜辛汤",
+    "relation": "composition",
+    "node_2": "中药名\t干姜",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t苓甘五味姜辛汤",
+    "relation": "composition",
+    "node_2": "中药名\t细辛",
+    "weight": "5g"
+  },
+  {
+    "node_1": "处方\t苓甘五味姜辛汤",
+    "relation": "composition",
+    "node_2": "中药名\t五味子",
+    "weight": "5g"
+  }
+]

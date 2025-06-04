@@ -1,0 +1,77 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t越鞠丸"
+  },
+  {
+    "node_1": "方名\t越鞠丸",
+    "relation": "from",
+    "node_2": "来源\t《丹溪心法》"
+  },
+  {
+    "node_1": "方名\t越鞠丸",
+    "relation": "functions",
+    "node_2": "功能主治\t饮食不消"
+  },
+  {
+    "node_1": "方名\t越鞠丸",
+    "relation": "functions",
+    "node_2": "功能主治\t六郁证"
+  },
+  {
+    "node_1": "方名\t越鞠丸",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈痞闷"
+  },
+  {
+    "node_1": "方名\t越鞠丸",
+    "relation": "functions",
+    "node_2": "功能主治\t恶心呕吐"
+  },
+  {
+    "node_1": "方名\t越鞠丸",
+    "relation": "functions",
+    "node_2": "功能主治\t嗳腐吞酸"
+  },
+  {
+    "node_1": "方名\t越鞠丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹胀满或疼痛"
+  },
+  {
+    "node_1": "方名\t越鞠丸",
+    "relation": "prescription type",
+    "node_2": "处方\t越鞠丸"
+  },
+  {
+    "node_1": "处方\t越鞠丸",
+    "relation": "composition",
+    "node_2": "中药名\t香附",
+    "weight": "各等分 (各6~10g)"
+  },
+  {
+    "node_1": "处方\t越鞠丸",
+    "relation": "composition",
+    "node_2": "中药名\t川芎",
+    "weight": "各等分 (各6~10g)"
+  },
+  {
+    "node_1": "处方\t越鞠丸",
+    "relation": "composition",
+    "node_2": "中药名\t苍术",
+    "weight": "各等分 (各6~10g)"
+  },
+  {
+    "node_1": "处方\t越鞠丸",
+    "relation": "composition",
+    "node_2": "中药名\t栀子",
+    "weight": "各等分 (各6~10g)"
+  },
+  {
+    "node_1": "处方\t越鞠丸",
+    "relation": "composition",
+    "node_2": "中药名\t神曲",
+    "weight": "各等分 (各6~10g)"
+  }
+]

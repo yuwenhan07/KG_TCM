@@ -1,0 +1,141 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t理中汤"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t自利不渴"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸痞虚证"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温中祛寒"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t崩漏"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳虚失血"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃下垂"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t倦怠少气"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性肝炎"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t便血"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t吐血"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呕吐腹痛"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急、慢性胃炎"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸痛彻背"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹满不食"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治脾胃虚寒证"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t中寒霍乱"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t补气健脾"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢不温"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃窦炎"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t溃疡病"
+  },
+  {
+    "node_1": "方名\t理中汤",
+    "relation": "prescription type",
+    "node_2": "处方\t理中汤"
+  },
+  {
+    "node_1": "处方\t理中汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "6克(可用党参代替)"
+  },
+  {
+    "node_1": "处方\t理中汤",
+    "relation": "composition",
+    "node_2": "中药名\t干姜",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t理中汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t理中汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "12克"
+  }
+]

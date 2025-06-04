@@ -1,0 +1,197 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t消风散"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "from",
+    "node_2": "来源\t《外科正宗》"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风除湿"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t风疹"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t清热养血"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t湿疹"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t遍身云片斑点"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮数"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t皮肤瘙痒"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t抓破后渗出津水"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t疹出色红"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白或黄"
+  },
+  {
+    "node_1": "方名\t消风散",
+    "relation": "prescription type",
+    "node_2": "处方\t消风散"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t生地"
+  },
+  {
+    "node_1": "中药名\t生地",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t蝉蜕"
+  },
+  {
+    "node_1": "中药名\t蝉蜕",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t知母"
+  },
+  {
+    "node_1": "中药名\t知母",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t苦参"
+  },
+  {
+    "node_1": "中药名\t苦参",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t胡麻"
+  },
+  {
+    "node_1": "中药名\t胡麻",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥"
+  },
+  {
+    "node_1": "中药名\t荆芥",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t苍术"
+  },
+  {
+    "node_1": "中药名\t苍术",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t牛蒡子"
+  },
+  {
+    "node_1": "中药名\t牛蒡子",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t石膏"
+  },
+  {
+    "node_1": "中药名\t石膏",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t消风散",
+    "relation": "composition",
+    "node_2": "中药名\t木通"
+  },
+  {
+    "node_1": "中药名\t木通",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  }
+]

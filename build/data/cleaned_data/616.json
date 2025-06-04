@@ -1,0 +1,111 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t吴茱萸汤"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉弦或迟"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呕吐酸水"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足逆冷"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便泄泻"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肝胃虚寒"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t干呕"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白滑"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸满脘痛"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t巅顶头痛"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t畏寒肢凉"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t烦躁不宁"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t浊阴上逆证"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t吐清涎冷沫"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t食后泛泛欲呕"
+  },
+  {
+    "node_1": "方名\t吴茱萸汤",
+    "relation": "prescription type",
+    "node_2": "处方\t吴茱萸汤"
+  },
+  {
+    "node_1": "处方\t吴茱萸汤",
+    "relation": "composition",
+    "node_2": "中药名\t吴茱萸",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t吴茱萸汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "18g"
+  },
+  {
+    "node_1": "处方\t吴茱萸汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t吴茱萸汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "十二枚"
+  }
+]

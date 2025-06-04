@@ -1,0 +1,107 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t玉女煎"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "from",
+    "node_2": "来源\t《景岳全书》"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "functions",
+    "node_2": "功能主治\t消谷善饥"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "functions",
+    "node_2": "功能主治\t齿松牙衄"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄而干"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "functions",
+    "node_2": "功能主治\t消渴"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "functions",
+    "node_2": "功能主治\t胃热阴虚证"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "functions",
+    "node_2": "功能主治\t牙痛"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "functions",
+    "node_2": "功能主治\t烦热干渴"
+  },
+  {
+    "node_1": "方名\t玉女煎",
+    "relation": "prescription type",
+    "node_2": "处方\t玉女煎"
+  },
+  {
+    "node_1": "处方\t玉女煎",
+    "relation": "composition",
+    "node_2": "中药名\t石膏"
+  },
+  {
+    "node_1": "中药名\t石膏",
+    "relation": "dose",
+    "node_2": "剂量\t9-15g"
+  },
+  {
+    "node_1": "处方\t玉女煎",
+    "relation": "composition",
+    "node_2": "中药名\t熟地"
+  },
+  {
+    "node_1": "中药名\t熟地",
+    "relation": "dose",
+    "node_2": "剂量\t9-30g"
+  },
+  {
+    "node_1": "处方\t玉女煎",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬"
+  },
+  {
+    "node_1": "中药名\t麦冬",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t玉女煎",
+    "relation": "composition",
+    "node_2": "中药名\t知母"
+  },
+  {
+    "node_1": "中药名\t知母",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  },
+  {
+    "node_1": "处方\t玉女煎",
+    "relation": "composition",
+    "node_2": "中药名\t牛膝"
+  },
+  {
+    "node_1": "中药名\t牛膝",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  }
+]

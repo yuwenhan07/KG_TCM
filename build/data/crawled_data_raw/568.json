@@ -1,0 +1,147 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t加减葳蕤汤"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "from",
+    "node_2": "来源\t《通俗伤寒论》"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t微恶风寒"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗或有汗不多"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咽干"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛身热"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴虚外感风热证"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦"
+  },
+  {
+    "node_1": "方名\t加减葳蕤汤",
+    "relation": "prescription type",
+    "node_2": "处方\t加减葳蕤汤"
+  },
+  {
+    "node_1": "处方\t加减葳蕤汤",
+    "relation": "composition",
+    "node_2": "中药名\t生葳蕤"
+  },
+  {
+    "node_1": "中药名\t生葳蕤",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t加减葳蕤汤",
+    "relation": "composition",
+    "node_2": "中药名\t淡豆豉"
+  },
+  {
+    "node_1": "中药名\t淡豆豉",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t加减葳蕤汤",
+    "relation": "composition",
+    "node_2": "中药名\t红枣"
+  },
+  {
+    "node_1": "中药名\t红枣",
+    "relation": "dose",
+    "node_2": "剂量\t二枚"
+  },
+  {
+    "node_1": "处方\t加减葳蕤汤",
+    "relation": "composition",
+    "node_2": "中药名\t生葱白"
+  },
+  {
+    "node_1": "中药名\t生葱白",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t加减葳蕤汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t1.5g"
+  },
+  {
+    "node_1": "处方\t加减葳蕤汤",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  },
+  {
+    "node_1": "处方\t加减葳蕤汤",
+    "relation": "composition",
+    "node_2": "中药名\t苏薄荷"
+  },
+  {
+    "node_1": "中药名\t苏薄荷",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  },
+  {
+    "node_1": "处方\t加减葳蕤汤",
+    "relation": "composition",
+    "node_2": "中药名\t东白薇"
+  },
+  {
+    "node_1": "中药名\t东白薇",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  }
+]

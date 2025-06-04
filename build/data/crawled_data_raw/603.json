@@ -1,0 +1,207 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t苏合香丸"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "from",
+    "node_2": "来源\t《外台秘要》"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "functions",
+    "node_2": "功能主治\t牙关紧闭"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "functions",
+    "node_2": "功能主治\t不省人事"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "functions",
+    "node_2": "功能主治\t寒闭证"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "functions",
+    "node_2": "功能主治\t甚则昏厥属于寒闭证者"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "functions",
+    "node_2": "功能主治\t突然昏倒"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉迟"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "functions",
+    "node_2": "功能主治\t心腹卒痛"
+  },
+  {
+    "node_1": "方名\t苏合香丸",
+    "relation": "prescription type",
+    "node_2": "处方\t苏合香丸"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t苏合香"
+  },
+  {
+    "node_1": "中药名\t苏合香",
+    "relation": "dose",
+    "node_2": "剂量\t半两（15g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t冰片"
+  },
+  {
+    "node_1": "中药名\t冰片",
+    "relation": "dose",
+    "node_2": "剂量\t半两（15g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t乳香"
+  },
+  {
+    "node_1": "中药名\t乳香",
+    "relation": "dose",
+    "node_2": "剂量\t半两（15g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t麝香"
+  },
+  {
+    "node_1": "中药名\t麝香",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t安息香"
+  },
+  {
+    "node_1": "中药名\t安息香",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t香附"
+  },
+  {
+    "node_1": "中药名\t香附",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t白檀香"
+  },
+  {
+    "node_1": "中药名\t白檀香",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t丁香"
+  },
+  {
+    "node_1": "中药名\t丁香",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t沉香"
+  },
+  {
+    "node_1": "中药名\t沉香",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t荜茇"
+  },
+  {
+    "node_1": "中药名\t荜茇",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t吃力伽"
+  },
+  {
+    "node_1": "中药名\t吃力伽",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t诃子皮"
+  },
+  {
+    "node_1": "中药名\t诃子皮",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t朱砂"
+  },
+  {
+    "node_1": "中药名\t朱砂",
+    "relation": "dose",
+    "node_2": "剂量\t一两（30g）"
+  },
+  {
+    "node_1": "处方\t苏合香丸",
+    "relation": "composition",
+    "node_2": "中药名\t犀角"
+  },
+  {
+    "node_1": "中药名\t犀角",
+    "relation": "dose",
+    "node_2": "剂量\t一两（水牛角浓缩粉代，65g）"
+  }
+]

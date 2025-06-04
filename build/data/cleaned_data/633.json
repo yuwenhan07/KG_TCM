@@ -1,0 +1,112 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t小蓟饮子"
+  },
+  {
+    "node_1": "方名\t小蓟饮子",
+    "relation": "from",
+    "node_2": "来源\t《济生方》"
+  },
+  {
+    "node_1": "方名\t小蓟饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红"
+  },
+  {
+    "node_1": "方名\t小蓟饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t赤涩热痛"
+  },
+  {
+    "node_1": "方名\t小蓟饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数"
+  },
+  {
+    "node_1": "方名\t小蓟饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t小便频数"
+  },
+  {
+    "node_1": "方名\t小蓟饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t热结下焦之血淋"
+  },
+  {
+    "node_1": "方名\t小蓟饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t尿中带血"
+  },
+  {
+    "node_1": "方名\t小蓟饮子",
+    "relation": "functions",
+    "node_2": "功能主治\t尿血"
+  },
+  {
+    "node_1": "方名\t小蓟饮子",
+    "relation": "prescription type",
+    "node_2": "处方\t小蓟饮子"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄",
+    "weight": "各等分9g"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t小蓟",
+    "weight": "各等分9g"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t滑石",
+    "weight": "各等分9g"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t木通",
+    "weight": "各等分9g"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t蒲黄",
+    "weight": "各等分9g"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t藕节",
+    "weight": "各等分9g"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t淡竹叶",
+    "weight": "各等分9g"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "各等分9g"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t山栀子",
+    "weight": "各等分9g"
+  },
+  {
+    "node_1": "处方\t小蓟饮子",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "各等分9g"
+  }
+]

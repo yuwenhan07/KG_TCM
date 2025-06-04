@@ -1,0 +1,118 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t四神丸"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "from",
+    "node_2": "来源\t《内科摘要》"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄白"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t温脾暖肾"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脾肾阳虚之肾泻"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质淡"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t不思饮食"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腰痛肢冷"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t神疲乏力"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t久泻不愈"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t五更泄泻"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t食不消化"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t固肠止泻"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉迟无力"
+  },
+  {
+    "node_1": "方名\t四神丸",
+    "relation": "prescription type",
+    "node_2": "处方\t四神丸"
+  },
+  {
+    "node_1": "处方\t四神丸",
+    "relation": "composition",
+    "node_2": "中药名\t肉豆蔻",
+    "weight": "二两 (60g)"
+  },
+  {
+    "node_1": "处方\t四神丸",
+    "relation": "composition",
+    "node_2": "中药名\t补骨脂",
+    "weight": "四两 (102g)"
+  },
+  {
+    "node_1": "处方\t四神丸",
+    "relation": "composition",
+    "node_2": "中药名\t五味子",
+    "weight": "二两 (60g)"
+  },
+  {
+    "node_1": "处方\t四神丸",
+    "relation": "composition",
+    "node_2": "中药名\t吴茱萸",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t四神丸",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "四两 (120g)"
+  },
+  {
+    "node_1": "处方\t四神丸",
+    "relation": "composition",
+    "node_2": "中药名\t红枣",
+    "weight": "五十枚"
+  }
+]

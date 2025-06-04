@@ -1,0 +1,112 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t白术附子汤（桂枝附子去桂加白术汤）"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》卷上"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t身体疼烦"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性心功能不全"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t散寒化湿"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t老年性功能性便秘"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t温阳通经"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t不呕不渴"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t小便自利"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t风湿相搏"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t风湿性关节炎"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t类风湿关节炎"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t大便硬"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t不能自转侧"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风通络"
+  },
+  {
+    "node_1": "方名\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "prescription type",
+    "node_2": "处方\t白术附子汤（桂枝附子去桂加白术汤）"
+  },
+  {
+    "node_1": "处方\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "composition",
+    "node_2": "中药名\t附子",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t白术附子汤（桂枝附子去桂加白术汤）",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "12枚"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t苏子降气汤"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "from",
+    "node_2": "来源\t《备急千金要方》录自《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白滑或白腻"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰涎壅盛"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腰疼脚弱"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦滑"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体倦怠"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t上实下虚喘咳证"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳喘短气"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呼多吸少"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体浮肿"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈满闷"
+  },
+  {
+    "node_1": "方名\t苏子降气汤",
+    "relation": "prescription type",
+    "node_2": "处方\t苏子降气汤"
+  },
+  {
+    "node_1": "处方\t苏子降气汤",
+    "relation": "composition",
+    "node_2": "中药名\t紫苏子"
+  },
+  {
+    "node_1": "中药名\t紫苏子",
+    "relation": "dose",
+    "node_2": "剂量\t二两半(各75g)"
+  },
+  {
+    "node_1": "处方\t苏子降气汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏汤洗七次"
+  },
+  {
+    "node_1": "中药名\t半夏汤洗七次",
+    "relation": "dose",
+    "node_2": "剂量\t二两半(各75g)"
+  },
+  {
+    "node_1": "处方\t苏子降气汤",
+    "relation": "composition",
+    "node_2": "中药名\t川当归去芦"
+  },
+  {
+    "node_1": "中药名\t川当归去芦",
+    "relation": "dose",
+    "node_2": "剂量\t两半(45g)"
+  },
+  {
+    "node_1": "处方\t苏子降气汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草炙"
+  },
+  {
+    "node_1": "中药名\t甘草炙",
+    "relation": "dose",
+    "node_2": "剂量\t二两(6g)"
+  },
+  {
+    "node_1": "处方\t苏子降气汤",
+    "relation": "composition",
+    "node_2": "中药名\t前胡去芦"
+  },
+  {
+    "node_1": "中药名\t前胡去芦",
+    "relation": "dose",
+    "node_2": "剂量\t一两(各30g)"
+  },
+  {
+    "node_1": "处方\t苏子降气汤",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴去粗皮姜汁拌炒"
+  },
+  {
+    "node_1": "中药名\t厚朴去粗皮姜汁拌炒",
+    "relation": "dose",
+    "node_2": "剂量\t一两(各30g)"
+  },
+  {
+    "node_1": "处方\t苏子降气汤",
+    "relation": "composition",
+    "node_2": "中药名\t肉桂去皮"
+  },
+  {
+    "node_1": "中药名\t肉桂去皮",
+    "relation": "dose",
+    "node_2": "剂量\t一两半(45g)"
+  }
+]

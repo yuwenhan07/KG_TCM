@@ -1,0 +1,81 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t骨痹汤"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "from",
+    "node_2": "来源\t《关幼波.中医学家》"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t滋补肝肾"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t足跟骨质增生"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疼痛"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腰椎骨质增生"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t颈椎骨质增生"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t麻木"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t祛邪止痛"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t骨质增生"
+  },
+  {
+    "node_1": "方名\t骨痹汤",
+    "relation": "prescription type",
+    "node_2": "处方\t骨痹汤"
+  },
+  {
+    "node_1": "处方\t骨痹汤",
+    "relation": "composition",
+    "node_2": "中药名\t杭白芍",
+    "weight": "30-60克"
+  },
+  {
+    "node_1": "处方\t骨痹汤",
+    "relation": "composition",
+    "node_2": "中药名\t生甘草",
+    "weight": "10克"
+  },
+  {
+    "node_1": "处方\t骨痹汤",
+    "relation": "composition",
+    "node_2": "中药名\t木瓜",
+    "weight": "10克"
+  },
+  {
+    "node_1": "处方\t骨痹汤",
+    "relation": "composition",
+    "node_2": "中药名\t威灵仙",
+    "weight": "15克"
+  }
+]

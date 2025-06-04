@@ -1,0 +1,87 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t通脉四逆汤"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身反不恶寒"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t里寒外热"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t其人面色赤"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉不出"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t下利清谷"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t利止"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉微欲绝"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足厥逆"
+  },
+  {
+    "node_1": "方名\t通脉四逆汤",
+    "relation": "prescription type",
+    "node_2": "处方\t通脉四逆汤"
+  },
+  {
+    "node_1": "处方\t通脉四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t通脉四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子"
+  },
+  {
+    "node_1": "中药名\t附子",
+    "relation": "dose",
+    "node_2": "剂量\t10~20g"
+  },
+  {
+    "node_1": "处方\t通脉四逆汤",
+    "relation": "composition",
+    "node_2": "中药名\t干姜"
+  },
+  {
+    "node_1": "中药名\t干姜",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  }
+]

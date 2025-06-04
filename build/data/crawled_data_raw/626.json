@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t补阳还五汤"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "from",
+    "node_2": "来源\t《医林改错》"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气虚血瘀证"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉缓无力"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便频数或遗尿失禁"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t半身不遂"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌黯淡"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t中风"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t语言蹇涩"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口角流涎"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口眼涡斜"
+  },
+  {
+    "node_1": "方名\t补阳还五汤",
+    "relation": "prescription type",
+    "node_2": "处方\t补阳还五汤"
+  },
+  {
+    "node_1": "处方\t补阳还五汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪生"
+  },
+  {
+    "node_1": "中药名\t黄芪生",
+    "relation": "dose",
+    "node_2": "剂量\t四两 (120g)"
+  },
+  {
+    "node_1": "处方\t补阳还五汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归尾"
+  },
+  {
+    "node_1": "中药名\t当归尾",
+    "relation": "dose",
+    "node_2": "剂量\t二钱 (6g)"
+  },
+  {
+    "node_1": "处方\t补阳还五汤",
+    "relation": "composition",
+    "node_2": "中药名\t赤芍"
+  },
+  {
+    "node_1": "中药名\t赤芍",
+    "relation": "dose",
+    "node_2": "剂量\t一钱半 (5g)"
+  },
+  {
+    "node_1": "处方\t补阳还五汤",
+    "relation": "composition",
+    "node_2": "中药名\t地龙去土"
+  },
+  {
+    "node_1": "中药名\t地龙去土",
+    "relation": "dose",
+    "node_2": "剂量\t一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t补阳还五汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t补阳还五汤",
+    "relation": "composition",
+    "node_2": "中药名\t红花"
+  },
+  {
+    "node_1": "中药名\t红花",
+    "relation": "dose",
+    "node_2": "剂量\t一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t补阳还五汤",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁"
+  },
+  {
+    "node_1": "中药名\t桃仁",
+    "relation": "dose",
+    "node_2": "剂量\t一钱 (3g)"
+  }
+]

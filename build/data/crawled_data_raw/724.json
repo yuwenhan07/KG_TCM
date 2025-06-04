@@ -1,0 +1,127 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t固经丸"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "from",
+    "node_2": "来源\t《丹溪心法》"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦数"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t月经过多"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴清热"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腰膝酸软"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t手足心热"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t血色深红或紫黑稠粘"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t阴虚血热之崩漏"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t固经止血"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "functions",
+    "node_2": "功能主治\t崩中漏下"
+  },
+  {
+    "node_1": "方名\t固经丸",
+    "relation": "prescription type",
+    "node_2": "处方\t固经丸"
+  },
+  {
+    "node_1": "处方\t固经丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩炒"
+  },
+  {
+    "node_1": "中药名\t黄芩炒",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t固经丸",
+    "relation": "composition",
+    "node_2": "中药名\t白芍炒"
+  },
+  {
+    "node_1": "中药名\t白芍炒",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t固经丸",
+    "relation": "composition",
+    "node_2": "中药名\t龟板炙"
+  },
+  {
+    "node_1": "中药名\t龟板炙",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t固经丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏炒"
+  },
+  {
+    "node_1": "中药名\t黄柏炒",
+    "relation": "dose",
+    "node_2": "剂量\t三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t固经丸",
+    "relation": "composition",
+    "node_2": "中药名\t椿树根皮"
+  },
+  {
+    "node_1": "中药名\t椿树根皮",
+    "relation": "dose",
+    "node_2": "剂量\t七钱半 (22.5g)"
+  },
+  {
+    "node_1": "处方\t固经丸",
+    "relation": "composition",
+    "node_2": "中药名\t香附"
+  },
+  {
+    "node_1": "中药名\t香附",
+    "relation": "dose",
+    "node_2": "剂量\t二钱半 (7.5g)"
+  }
+]

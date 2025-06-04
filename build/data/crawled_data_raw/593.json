@@ -1,0 +1,122 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t黄连解毒汤"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "from",
+    "node_2": "来源\t《肘后备急方》"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口燥咽干"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热甚发斑"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热病吐血"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t三焦火毒证"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大热烦躁"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热黄疸"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数有力"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t衄血"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外科痈疡疔毒"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便黄赤"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热下利"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "functions",
+    "node_2": "功能主治\t错语不眠"
+  },
+  {
+    "node_1": "方名\t黄连解毒汤",
+    "relation": "prescription type",
+    "node_2": "处方\t黄连解毒汤"
+  },
+  {
+    "node_1": "处方\t黄连解毒汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t黄连解毒汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩"
+  },
+  {
+    "node_1": "中药名\t黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t黄连解毒汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏"
+  },
+  {
+    "node_1": "中药名\t黄柏",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t黄连解毒汤",
+    "relation": "composition",
+    "node_2": "中药名\t栀子"
+  },
+  {
+    "node_1": "中药名\t栀子",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  }
+]

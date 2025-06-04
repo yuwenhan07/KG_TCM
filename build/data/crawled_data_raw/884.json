@@ -1,0 +1,157 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t麻杏石甘汤"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻煽"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t支气管哮喘"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风邪"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t表邪未尽"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t上呼吸道感染"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄白或黄"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急性支气管炎"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热不解"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t辛凉宣泄"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑而数者"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t感冒"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t有汗或无汗"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清肺平喘"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t麻疹合并肺炎"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热邪壅肺者"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳逆气急"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t邪热壅肺证"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大叶性肺炎"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t支气管肺炎"
+  },
+  {
+    "node_1": "方名\t麻杏石甘汤",
+    "relation": "prescription type",
+    "node_2": "处方\t麻杏石甘汤"
+  },
+  {
+    "node_1": "处方\t麻杏石甘汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄"
+  },
+  {
+    "node_1": "中药名\t麻黄",
+    "relation": "dose",
+    "node_2": "剂量\t9~12g（4两）"
+  },
+  {
+    "node_1": "处方\t麻杏石甘汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁"
+  },
+  {
+    "node_1": "中药名\t杏仁",
+    "relation": "dose",
+    "node_2": "剂量\t9g（50个去皮尖）"
+  },
+  {
+    "node_1": "处方\t麻杏石甘汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t6g（2两炙）"
+  },
+  {
+    "node_1": "处方\t麻杏石甘汤",
+    "relation": "composition",
+    "node_2": "中药名\t石膏"
+  },
+  {
+    "node_1": "中药名\t石膏",
+    "relation": "dose",
+    "node_2": "剂量\t24g"
+  }
+]

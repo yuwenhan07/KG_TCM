@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t至宝丹"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "from",
+    "node_2": "来源\t《灵苑方》"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "functions",
+    "node_2": "功能主治\t身热烦躁"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿惊厥属于痰热内闭者"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "functions",
+    "node_2": "功能主治\t舌绛苔黄垢腻"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "functions",
+    "node_2": "功能主治\t痰热内闭心包证"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "functions",
+    "node_2": "功能主治\t中风"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "functions",
+    "node_2": "功能主治\t神昏谵语"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "functions",
+    "node_2": "功能主治\t痰盛气粗"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "functions",
+    "node_2": "功能主治\t中暑"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t至宝丹",
+    "relation": "prescription type",
+    "node_2": "处方\t至宝丹"
+  },
+  {
+    "node_1": "处方\t至宝丹",
+    "relation": "composition",
+    "node_2": "中药名\t犀角"
+  },
+  {
+    "node_1": "中药名\t犀角",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (水牛角浓缩粉代，65g)"
+  },
+  {
+    "node_1": "处方\t至宝丹",
+    "relation": "composition",
+    "node_2": "中药名\t朱砂"
+  },
+  {
+    "node_1": "中药名\t朱砂",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t至宝丹",
+    "relation": "composition",
+    "node_2": "中药名\t雄黄"
+  },
+  {
+    "node_1": "中药名\t雄黄",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t至宝丹",
+    "relation": "composition",
+    "node_2": "中药名\t生玳瑁"
+  },
+  {
+    "node_1": "中药名\t生玳瑁",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t至宝丹",
+    "relation": "composition",
+    "node_2": "中药名\t琥珀"
+  },
+  {
+    "node_1": "中药名\t琥珀",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t至宝丹",
+    "relation": "composition",
+    "node_2": "中药名\t牛黄"
+  },
+  {
+    "node_1": "中药名\t牛黄",
+    "relation": "dose",
+    "node_2": "剂量\t一分 (0.3g)"
+  },
+  {
+    "node_1": "处方\t至宝丹",
+    "relation": "composition",
+    "node_2": "中药名\t麝香"
+  },
+  {
+    "node_1": "中药名\t麝香",
+    "relation": "dose",
+    "node_2": "剂量\t一分 (0.3g)"
+  },
+  {
+    "node_1": "处方\t至宝丹",
+    "relation": "composition",
+    "node_2": "中药名\t冰片"
+  },
+  {
+    "node_1": "中药名\t冰片",
+    "relation": "dose",
+    "node_2": "剂量\t一分 (0.3g)"
+  },
+  {
+    "node_1": "处方\t至宝丹",
+    "relation": "composition",
+    "node_2": "中药名\t安息香"
+  },
+  {
+    "node_1": "中药名\t安息香",
+    "relation": "dose",
+    "node_2": "剂量\t一两半 (45g)，酒浸，重汤煮令化，滤去滓，约取一两净 (原用金银箔各五十片，现不用)"
+  }
+]

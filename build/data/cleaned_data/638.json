@@ -1,0 +1,97 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桂枝茯苓丸"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t经闭腹痛"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t妇人素有症块"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t瘀阻胞宫证"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t胎动不安"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t产后恶露不尽而腹痛拒按"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t血色紫黑晦暗"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛拒按"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质紫黯或有瘀点"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉涩"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t妊娠漏下不止"
+  },
+  {
+    "node_1": "方名\t桂枝茯苓丸",
+    "relation": "prescription type",
+    "node_2": "处方\t桂枝茯苓丸"
+  },
+  {
+    "node_1": "处方\t桂枝茯苓丸",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "各等分 (9g)"
+  },
+  {
+    "node_1": "处方\t桂枝茯苓丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "各等分 (9g)"
+  },
+  {
+    "node_1": "处方\t桂枝茯苓丸",
+    "relation": "composition",
+    "node_2": "中药名\t丹皮",
+    "weight": "各等分 (9g)"
+  },
+  {
+    "node_1": "处方\t桂枝茯苓丸",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁",
+    "weight": "各等分 (9g)"
+  },
+  {
+    "node_1": "处方\t桂枝茯苓丸",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "各等分 (9g)"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t麻黄连翘赤小豆汤2"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t常用于荨麻疹"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t清热利湿"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t解表发汗"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t发热恶寒"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t治阳黄兼表证"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t周身黄染如橘色"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗身痒"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮滑"
+  },
+  {
+    "node_1": "方名\t麻黄连翘赤小豆汤2",
+    "relation": "prescription type",
+    "node_2": "处方\t麻黄连翘赤小豆汤2"
+  },
+  {
+    "node_1": "处方\t麻黄连翘赤小豆汤2",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄"
+  },
+  {
+    "node_1": "中药名\t麻黄",
+    "relation": "dose",
+    "node_2": "剂量\t6克（去节）"
+  },
+  {
+    "node_1": "处方\t麻黄连翘赤小豆汤2",
+    "relation": "composition",
+    "node_2": "中药名\t连翘"
+  },
+  {
+    "node_1": "中药名\t连翘",
+    "relation": "dose",
+    "node_2": "剂量\t9克（即连翘根）"
+  },
+  {
+    "node_1": "处方\t麻黄连翘赤小豆汤2",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁"
+  },
+  {
+    "node_1": "中药名\t杏仁",
+    "relation": "dose",
+    "node_2": "剂量\t6克"
+  },
+  {
+    "node_1": "处方\t麻黄连翘赤小豆汤2",
+    "relation": "composition",
+    "node_2": "中药名\t赤小豆"
+  },
+  {
+    "node_1": "中药名\t赤小豆",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t麻黄连翘赤小豆汤2",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t12枚（擘）"
+  },
+  {
+    "node_1": "处方\t麻黄连翘赤小豆汤2",
+    "relation": "composition",
+    "node_2": "中药名\t生梓白皮"
+  },
+  {
+    "node_1": "中药名\t生梓白皮",
+    "relation": "dose",
+    "node_2": "剂量\t10克（切，现多用桑白皮代替）"
+  },
+  {
+    "node_1": "处方\t麻黄连翘赤小豆汤2",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t6克"
+  },
+  {
+    "node_1": "处方\t麻黄连翘赤小豆汤2",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t6克（炙）"
+  }
+]

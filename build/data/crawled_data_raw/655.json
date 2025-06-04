@@ -1,0 +1,132 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t枳实导滞丸"
+  },
+  {
+    "node_1": "方名\t枳实导滞丸",
+    "relation": "from",
+    "node_2": "来源\t《内外伤辨惑论》"
+  },
+  {
+    "node_1": "方名\t枳实导滞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹胀痛"
+  },
+  {
+    "node_1": "方名\t枳实导滞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t下痢泄泻"
+  },
+  {
+    "node_1": "方名\t枳实导滞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热食积证"
+  },
+  {
+    "node_1": "方名\t枳实导滞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔黄腻"
+  },
+  {
+    "node_1": "方名\t枳实导滞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t小便短赤"
+  },
+  {
+    "node_1": "方名\t枳实导滞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉有力"
+  },
+  {
+    "node_1": "方名\t枳实导滞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t大便秘结"
+  },
+  {
+    "node_1": "方名\t枳实导滞丸",
+    "relation": "prescription type",
+    "node_2": "处方\t枳实导滞丸"
+  },
+  {
+    "node_1": "处方\t枳实导滞丸",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t枳实导滞丸",
+    "relation": "composition",
+    "node_2": "中药名\t枳实"
+  },
+  {
+    "node_1": "中药名\t枳实",
+    "relation": "dose",
+    "node_2": "剂量\t五钱 (各15g)"
+  },
+  {
+    "node_1": "处方\t枳实导滞丸",
+    "relation": "composition",
+    "node_2": "中药名\t神曲"
+  },
+  {
+    "node_1": "中药名\t神曲",
+    "relation": "dose",
+    "node_2": "剂量\t五钱 (各15g)"
+  },
+  {
+    "node_1": "处方\t枳实导滞丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t三钱 (各9g)"
+  },
+  {
+    "node_1": "处方\t枳实导滞丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩"
+  },
+  {
+    "node_1": "中药名\t黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t三钱 (各9g)"
+  },
+  {
+    "node_1": "处方\t枳实导滞丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t三钱 (各9g)"
+  },
+  {
+    "node_1": "处方\t枳实导滞丸",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t三钱 (各9g)"
+  },
+  {
+    "node_1": "处方\t枳实导滞丸",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t二钱 (6g)"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t半夏白术天麻汤"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "from",
+    "node_2": "来源\t《医学心悟》"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "functions",
+    "node_2": "功能主治\t平肝息风"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "functions",
+    "node_2": "功能主治\t风痰上扰证"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "functions",
+    "node_2": "功能主治\t燥湿化痰"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦滑"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈痞闷"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶心呕吐"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t半夏白术天麻汤",
+    "relation": "prescription type",
+    "node_2": "处方\t半夏白术天麻汤"
+  },
+  {
+    "node_1": "处方\t半夏白术天麻汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "一钱五分 (4.5g)"
+  },
+  {
+    "node_1": "处方\t半夏白术天麻汤",
+    "relation": "composition",
+    "node_2": "中药名\t天麻",
+    "weight": "一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t半夏白术天麻汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t半夏白术天麻汤",
+    "relation": "composition",
+    "node_2": "中药名\t橘红",
+    "weight": "一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t半夏白术天麻汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t半夏白术天麻汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "五分 (1.5g)"
+  },
+  {
+    "node_1": "处方\t半夏白术天麻汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "一片"
+  },
+  {
+    "node_1": "处方\t半夏白术天麻汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "二枚"
+  }
+]

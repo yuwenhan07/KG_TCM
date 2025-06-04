@@ -1,0 +1,91 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t甘草附子汤"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t掣痛不得屈伸"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t近之则痛剧"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温经散寒"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t骨节疼烦"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t风湿相搏"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t汗出短气"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或身微肿"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风除湿"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶风不欲去衣"
+  },
+  {
+    "node_1": "方名\t甘草附子汤",
+    "relation": "prescription type",
+    "node_2": "处方\t甘草附子汤"
+  },
+  {
+    "node_1": "处方\t甘草附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t甘草附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子",
+    "weight": "12克（炮，去皮，破）"
+  },
+  {
+    "node_1": "处方\t甘草附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t甘草附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "12克（去皮）"
+  }
+]

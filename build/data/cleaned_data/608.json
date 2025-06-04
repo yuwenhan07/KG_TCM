@@ -1,0 +1,119 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t达原饮"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "from",
+    "node_2": "来源\t《温疫论》"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦数"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t发无定时"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白厚如积粉"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t胸闷呕恶"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛烦躁"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t瘟疫或疟疾"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌边深红"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t一日一次"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t邪伏膜原证"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t憎寒壮热"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔垢腻"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "functions",
+    "node_2": "功能主治\t一日三次"
+  },
+  {
+    "node_1": "方名\t达原饮",
+    "relation": "prescription type",
+    "node_2": "处方\t达原饮"
+  },
+  {
+    "node_1": "处方\t达原饮",
+    "relation": "composition",
+    "node_2": "中药名\t槟榔",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t达原饮",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t达原饮",
+    "relation": "composition",
+    "node_2": "中药名\t草果仁",
+    "weight": "1.5克"
+  },
+  {
+    "node_1": "处方\t达原饮",
+    "relation": "composition",
+    "node_2": "中药名\t知母",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t达原饮",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t达原饮",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t达原饮",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "1.5克"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t白虎加人参汤"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t汗出背微恶寒"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发热"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳明热证气津两伤"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t烦渴"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉大无力"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t暑病发热"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清热"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t生津"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t津气两伤"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热而渴"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t上消多饮者"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大热"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大汗"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗糖尿病火热迫肺"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气"
+  },
+  {
+    "node_1": "方名\t白虎加人参汤",
+    "relation": "prescription type",
+    "node_2": "处方\t白虎加人参汤"
+  },
+  {
+    "node_1": "处方\t白虎加人参汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母",
+    "weight": "六两(9克)"
+  },
+  {
+    "node_1": "处方\t白虎加人参汤",
+    "relation": "composition",
+    "node_2": "中药名\t石膏",
+    "weight": "一斤(30克)"
+  },
+  {
+    "node_1": "处方\t白虎加人参汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "二两(3克)"
+  },
+  {
+    "node_1": "处方\t白虎加人参汤",
+    "relation": "composition",
+    "node_2": "中药名\t粳米",
+    "weight": "六合(15克)"
+  },
+  {
+    "node_1": "处方\t白虎加人参汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "三两(10克)"
+  }
+]

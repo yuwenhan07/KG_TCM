@@ -1,0 +1,147 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t小建中汤"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢酸楚"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咽干口燥"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t喜温喜按"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肝脾不和证"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t虚怯少气"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色无华"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t中焦虚寒"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细弦"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神疲乏力"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹中拘急疼痛"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t虚烦不宁"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足烦热"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心中悸动"
+  },
+  {
+    "node_1": "方名\t小建中汤",
+    "relation": "prescription type",
+    "node_2": "处方\t小建中汤"
+  },
+  {
+    "node_1": "处方\t小建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t三两，去皮 (9g)"
+  },
+  {
+    "node_1": "处方\t小建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t二两，炙 (6g)"
+  },
+  {
+    "node_1": "处方\t小建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t十二枚，擘 (6枚)"
+  },
+  {
+    "node_1": "处方\t小建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t六两，(18g)"
+  },
+  {
+    "node_1": "处方\t小建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t三两，切 (9g)"
+  },
+  {
+    "node_1": "处方\t小建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t胶饴"
+  },
+  {
+    "node_1": "中药名\t胶饴",
+    "relation": "dose",
+    "node_2": "剂量\t一升 (30g)"
+  }
+]

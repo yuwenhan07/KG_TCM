@@ -1,0 +1,150 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t生脉饮"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "from",
+    "node_2": "来源\t《中国药典》"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t气阴两虚证"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t冠心病心绞痛"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚数"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t益气复脉"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t呼吸系统疾病"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t急危重病属气阴两虚者"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t扩张型心肌病"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t体倦乏力"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t口干舌燥"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性心力衰竭"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t短气自汗"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t干咳少痰"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t气短懒言"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t缺血性中风"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌干红少苔"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t养阴生津"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t汗多神疲"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚细"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t非小细胞肺癌"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t咽干口渴"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t暑热耗气伤阴证"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t久咳伤肺"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "functions",
+    "node_2": "功能主治\t心血管系统疾病"
+  },
+  {
+    "node_1": "方名\t生脉饮",
+    "relation": "prescription type",
+    "node_2": "处方\t生脉饮"
+  },
+  {
+    "node_1": "处方\t生脉饮",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t生脉饮",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t生脉饮",
+    "relation": "composition",
+    "node_2": "中药名\t五味子",
+    "weight": "适量"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t保和丸"
+  },
+  {
+    "node_1": "方名\t保和丸",
+    "relation": "from",
+    "node_2": "来源\t《丹溪心法》"
+  },
+  {
+    "node_1": "方名\t保和丸",
+    "relation": "functions",
+    "node_2": "功能主治\t大便泄泻"
+  },
+  {
+    "node_1": "方名\t保和丸",
+    "relation": "functions",
+    "node_2": "功能主治\t食滞胃脘证"
+  },
+  {
+    "node_1": "方名\t保和丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔厚腻"
+  },
+  {
+    "node_1": "方名\t保和丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹痞满胀痛"
+  },
+  {
+    "node_1": "方名\t保和丸",
+    "relation": "functions",
+    "node_2": "功能主治\t恶食呕吐"
+  },
+  {
+    "node_1": "方名\t保和丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑"
+  },
+  {
+    "node_1": "方名\t保和丸",
+    "relation": "functions",
+    "node_2": "功能主治\t嗳腐吞酸"
+  },
+  {
+    "node_1": "方名\t保和丸",
+    "relation": "prescription type",
+    "node_2": "处方\t保和丸"
+  },
+  {
+    "node_1": "处方\t保和丸",
+    "relation": "composition",
+    "node_2": "中药名\t山楂"
+  },
+  {
+    "node_1": "中药名\t山楂",
+    "relation": "dose",
+    "node_2": "剂量\t六两 (180g)"
+  },
+  {
+    "node_1": "处方\t保和丸",
+    "relation": "composition",
+    "node_2": "中药名\t神曲"
+  },
+  {
+    "node_1": "中药名\t神曲",
+    "relation": "dose",
+    "node_2": "剂量\t二两 (60g)"
+  },
+  {
+    "node_1": "处方\t保和丸",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t三两 (各90g)"
+  },
+  {
+    "node_1": "处方\t保和丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t三两 (各90g)"
+  },
+  {
+    "node_1": "处方\t保和丸",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮"
+  },
+  {
+    "node_1": "中药名\t陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  },
+  {
+    "node_1": "处方\t保和丸",
+    "relation": "composition",
+    "node_2": "中药名\t连翘"
+  },
+  {
+    "node_1": "中药名\t连翘",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  },
+  {
+    "node_1": "处方\t保和丸",
+    "relation": "composition",
+    "node_2": "中药名\t莱菔子"
+  },
+  {
+    "node_1": "中药名\t莱菔子",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (各30g)"
+  }
+]

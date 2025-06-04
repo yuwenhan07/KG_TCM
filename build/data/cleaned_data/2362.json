@@ -1,0 +1,108 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t木香顺气丸"
+  },
+  {
+    "node_1": "方名\t木香顺气丸",
+    "relation": "from",
+    "node_2": "来源\t《全国中药成药处方集》(人民卫生出版社)。"
+  },
+  {
+    "node_1": "方名\t木香顺气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t行气化湿"
+  },
+  {
+    "node_1": "方名\t木香顺气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t活血祛瘀"
+  },
+  {
+    "node_1": "方名\t木香顺气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t消积化滞"
+  },
+  {
+    "node_1": "方名\t木香顺气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t行气止痛"
+  },
+  {
+    "node_1": "方名\t木香顺气丸",
+    "relation": "functions",
+    "node_2": "功能主治\t健脾和胃"
+  },
+  {
+    "node_1": "方名\t木香顺气丸",
+    "relation": "prescription type",
+    "node_2": "处方\t木香顺气丸"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t木香",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t砂仁",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t醋香附",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t槟榔",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳(炒)",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t苍术(炒)",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t青皮(炒)",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t木香顺气丸",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "适量"
+  }
+]

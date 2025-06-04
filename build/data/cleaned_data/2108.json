@@ -1,0 +1,70 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t二甲复脉汤2"
+  },
+  {
+    "node_1": "方名\t二甲复脉汤2",
+    "relation": "from",
+    "node_2": "来源\t《温病条辨》卷三"
+  },
+  {
+    "node_1": "方名\t二甲复脉汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t育阴潜阴"
+  },
+  {
+    "node_1": "方名\t二甲复脉汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t主温病热邪深入下焦"
+  },
+  {
+    "node_1": "方名\t二甲复脉汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t有发痉厥之势"
+  },
+  {
+    "node_1": "方名\t二甲复脉汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t手指微微蠕动"
+  },
+  {
+    "node_1": "方名\t二甲复脉汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t舌干齿黑"
+  },
+  {
+    "node_1": "方名\t二甲复脉汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t或痉厥己作者"
+  },
+  {
+    "node_1": "方名\t二甲复脉汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t脉象沉数"
+  },
+  {
+    "node_1": "方名\t二甲复脉汤2",
+    "relation": "prescription type",
+    "node_2": "处方\t二甲复脉汤2"
+  },
+  {
+    "node_1": "处方\t二甲复脉汤2",
+    "relation": "composition",
+    "node_2": "中药名\t加减复脉汤",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t二甲复脉汤2",
+    "relation": "composition",
+    "node_2": "中药名\t生牡蛎",
+    "weight": "5钱"
+  },
+  {
+    "node_1": "处方\t二甲复脉汤2",
+    "relation": "composition",
+    "node_2": "中药名\t生鳖甲",
+    "weight": "8钱"
+  }
+]

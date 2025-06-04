@@ -1,0 +1,143 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t藿香正气散"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹疼痛"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t肠鸣泄泻"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风寒"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t解表化湿"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t山岚瘴疟"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t恶心呕吐"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t内伤湿滞证"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t理气和中"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈满闷"
+  },
+  {
+    "node_1": "方名\t藿香正气散",
+    "relation": "prescription type",
+    "node_2": "处方\t藿香正气散"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t大腹皮",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t白芷",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t紫苏",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓(去皮)",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t半夏曲",
+    "weight": "60g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "60g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮(去白)",
+    "weight": "60g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴(去粗皮，姜汁炙)",
+    "weight": "60g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t苦桔梗",
+    "weight": "60g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t藿香(去土)",
+    "weight": "90g"
+  },
+  {
+    "node_1": "处方\t藿香正气散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)",
+    "weight": "75g"
+  }
+]

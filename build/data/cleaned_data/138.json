@@ -1,0 +1,105 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t养阴清肺汤"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "from",
+    "node_2": "来源\t《重楼玉钥》"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咽喉肿痛"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t白喉之阴虚燥热证"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呼吸有声，似喘非喘"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t初起或发热或不发热"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻干唇燥"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t喉间起白如腐，不易拭去，并逐渐扩展，病变甚速"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数无力或细数"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或咳或不咳"
+  },
+  {
+    "node_1": "方名\t养阴清肺汤",
+    "relation": "prescription type",
+    "node_2": "处方\t养阴清肺汤"
+  },
+  {
+    "node_1": "处方\t养阴清肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t大生地",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t养阴清肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t养阴清肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t玄参",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t养阴清肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t生甘草",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t养阴清肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t薄荷",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t养阴清肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t贝母(去心)",
+    "weight": "5g"
+  },
+  {
+    "node_1": "处方\t养阴清肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t丹皮",
+    "weight": "5g"
+  },
+  {
+    "node_1": "处方\t养阴清肺汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍(炒)",
+    "weight": "5g"
+  }
+]

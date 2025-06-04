@@ -1,0 +1,140 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t左归丸"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "from",
+    "node_2": "来源\t《景岳全书》"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t虚热往来"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t真阴肾水不足，不能滋养营卫，渐至衰弱"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t气虚昏运"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腰痠腿软"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t津液枯涸之证"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t血不归原"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t自汗盗汗"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t培左肾之元阴"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t遗淋不禁"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t眼花耳聋"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t口燥舌干"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t虚损伤阴"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t壮水之主"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t神不守舍"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t精髓内亏"
+  },
+  {
+    "node_1": "方名\t左归丸",
+    "relation": "prescription type",
+    "node_2": "处方\t左归丸"
+  },
+  {
+    "node_1": "处方\t左归丸",
+    "relation": "composition",
+    "node_2": "中药名\t大怀熟",
+    "weight": "八两（24g）"
+  },
+  {
+    "node_1": "处方\t左归丸",
+    "relation": "composition",
+    "node_2": "中药名\t山药（炒）",
+    "weight": "四两（12g）"
+  },
+  {
+    "node_1": "处方\t左归丸",
+    "relation": "composition",
+    "node_2": "中药名\t枸杞",
+    "weight": "四两（12g）"
+  },
+  {
+    "node_1": "处方\t左归丸",
+    "relation": "composition",
+    "node_2": "中药名\t山茱萸肉",
+    "weight": "四两（12g）"
+  },
+  {
+    "node_1": "处方\t左归丸",
+    "relation": "composition",
+    "node_2": "中药名\t川牛膝（酒洗，蒸熟）",
+    "weight": "三两（精滑者不用）（9g）"
+  },
+  {
+    "node_1": "处方\t左归丸",
+    "relation": "composition",
+    "node_2": "中药名\t菟丝子（制）",
+    "weight": "四两（12g）"
+  },
+  {
+    "node_1": "处方\t左归丸",
+    "relation": "composition",
+    "node_2": "中药名\t鹿胶（敲碎，炒珠）",
+    "weight": "四两（12g）"
+  },
+  {
+    "node_1": "处方\t左归丸",
+    "relation": "composition",
+    "node_2": "中药名\t龟胶（切碎，炒珠）",
+    "weight": "四两（无火者不必用）（12g）"
+  }
+]

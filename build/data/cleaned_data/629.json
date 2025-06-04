@@ -1,0 +1,59 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t黄土汤"
+  },
+  {
+    "node_1": "方名\t黄土汤",
+    "relation": "from",
+    "node_2": "来源\t《金匱要略》"
+  },
+  {
+    "node_1": "方名\t黄土汤",
+    "relation": "prescription type",
+    "node_2": "处方\t黄土汤"
+  },
+  {
+    "node_1": "处方\t黄土汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t黄土汤",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄",
+    "weight": "60g"
+  },
+  {
+    "node_1": "处方\t黄土汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "40g"
+  },
+  {
+    "node_1": "处方\t黄土汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子(炮)",
+    "weight": "40g"
+  },
+  {
+    "node_1": "处方\t黄土汤",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶",
+    "weight": "48g"
+  },
+  {
+    "node_1": "处方\t黄土汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "48g"
+  },
+  {
+    "node_1": "处方\t黄土汤",
+    "relation": "composition",
+    "node_2": "中药名\t灶中黄土",
+    "weight": "半斤（120g）"
+  }
+]

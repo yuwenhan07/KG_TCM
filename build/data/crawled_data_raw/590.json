@@ -1,0 +1,117 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t龙胆泻肝汤"
+  },
+  {
+    "node_1": "方名\t龙胆泻肝汤",
+    "relation": "from",
+    "node_2": "来源\t《医方集解》"
+  },
+  {
+    "node_1": "方名\t龙胆泻肝汤",
+    "relation": "prescription type",
+    "node_2": "处方\t龙胆泻肝汤"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t龙胆草(酒炒)"
+  },
+  {
+    "node_1": "中药名\t龙胆草(酒炒)",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩(酒炒)"
+  },
+  {
+    "node_1": "中药名\t黄芩(酒炒)",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t山栀子(酒炒)"
+  },
+  {
+    "node_1": "中药名\t山栀子(酒炒)",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t木通"
+  },
+  {
+    "node_1": "中药名\t木通",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t车前子"
+  },
+  {
+    "node_1": "中药名\t车前子",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归(酒炒)"
+  },
+  {
+    "node_1": "中药名\t当归(酒炒)",
+    "relation": "dose",
+    "node_2": "剂量\t8g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄"
+  },
+  {
+    "node_1": "中药名\t生地黄",
+    "relation": "dose",
+    "node_2": "剂量\t20g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t10g"
+  },
+  {
+    "node_1": "处方\t龙胆泻肝汤",
+    "relation": "composition",
+    "node_2": "中药名\t生甘草"
+  },
+  {
+    "node_1": "中药名\t生甘草",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  }
+]

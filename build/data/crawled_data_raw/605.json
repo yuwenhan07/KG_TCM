@@ -1,0 +1,72 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t瓜蒂散"
+  },
+  {
+    "node_1": "方名\t瓜蒂散",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t瓜蒂散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸中痞硬"
+  },
+  {
+    "node_1": "方名\t瓜蒂散",
+    "relation": "functions",
+    "node_2": "功能主治\t寸脉微浮者"
+  },
+  {
+    "node_1": "方名\t瓜蒂散",
+    "relation": "functions",
+    "node_2": "功能主治\t痰涎宿食"
+  },
+  {
+    "node_1": "方名\t瓜蒂散",
+    "relation": "functions",
+    "node_2": "功能主治\t壅滞胸脘证"
+  },
+  {
+    "node_1": "方名\t瓜蒂散",
+    "relation": "functions",
+    "node_2": "功能主治\t欲吐不出"
+  },
+  {
+    "node_1": "方名\t瓜蒂散",
+    "relation": "functions",
+    "node_2": "功能主治\t气上冲咽喉不得息"
+  },
+  {
+    "node_1": "方名\t瓜蒂散",
+    "relation": "functions",
+    "node_2": "功能主治\t懊憹不安"
+  },
+  {
+    "node_1": "方名\t瓜蒂散",
+    "relation": "prescription type",
+    "node_2": "处方\t瓜蒂散"
+  },
+  {
+    "node_1": "处方\t瓜蒂散",
+    "relation": "composition",
+    "node_2": "中药名\t瓜蒂"
+  },
+  {
+    "node_1": "中药名\t瓜蒂",
+    "relation": "dose",
+    "node_2": "剂量\t熬黄一分 (3g)"
+  },
+  {
+    "node_1": "处方\t瓜蒂散",
+    "relation": "composition",
+    "node_2": "中药名\t赤小豆"
+  },
+  {
+    "node_1": "中药名\t赤小豆",
+    "relation": "dose",
+    "node_2": "剂量\t一分 (3g)"
+  }
+]

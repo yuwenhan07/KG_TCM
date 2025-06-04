@@ -1,0 +1,106 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t四磨汤"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "from",
+    "node_2": "来源\t宋·《济生方》"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗功能性便秘"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t行气降逆"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气扶正"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治七情所伤"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肝气郁结证"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不思饮食"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦细"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心下痞满"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄白腻"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膈胀闷"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t上气喘急"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肺心病心力衰竭"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "functions",
+    "node_2": "功能主治\t功能性消化不良"
+  },
+  {
+    "node_1": "方名\t四磨汤",
+    "relation": "prescription type",
+    "node_2": "处方\t四磨汤"
+  },
+  {
+    "node_1": "处方\t四磨汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t四磨汤",
+    "relation": "composition",
+    "node_2": "中药名\t槟榔",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t四磨汤",
+    "relation": "composition",
+    "node_2": "中药名\t沉香",
+    "weight": "适量"
+  },
+  {
+    "node_1": "处方\t四磨汤",
+    "relation": "composition",
+    "node_2": "中药名\t天台乌药",
+    "weight": "适量"
+  }
+]

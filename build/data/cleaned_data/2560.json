@@ -1,0 +1,104 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桂枝麻黄各半汤"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "another name",
+    "node_2": "别名\t（桂枝越婢汤(《内台方议》卷一)、桂枝二越脾一汤(《古方选注》卷上)。）"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "functions",
+    "node_2": "功能主治\t辅助治疗神经性疼痛"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调和营卫"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清里热"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗流行性感冒"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小发其汗"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "functions",
+    "node_2": "功能主治\t微发其汗"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗西医临床中的感冒"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "functions",
+    "node_2": "功能主治\t辅助治疗肌肉及关节疼痛"
+  },
+  {
+    "node_1": "方名\t桂枝麻黄各半汤",
+    "relation": "prescription type",
+    "node_2": "处方\t桂枝麻黄各半汤"
+  },
+  {
+    "node_1": "处方\t桂枝麻黄各半汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "一两十六铢（去皮）"
+  },
+  {
+    "node_1": "处方\t桂枝麻黄各半汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "一两"
+  },
+  {
+    "node_1": "处方\t桂枝麻黄各半汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "一两（切）"
+  },
+  {
+    "node_1": "处方\t桂枝麻黄各半汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "一两（炙）"
+  },
+  {
+    "node_1": "处方\t桂枝麻黄各半汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄",
+    "weight": "一两（去节）"
+  },
+  {
+    "node_1": "处方\t桂枝麻黄各半汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "四枚（擘）"
+  },
+  {
+    "node_1": "处方\t桂枝麻黄各半汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁",
+    "weight": "二十四枚（汤浸，去皮尖及两仁者）"
+  }
+]

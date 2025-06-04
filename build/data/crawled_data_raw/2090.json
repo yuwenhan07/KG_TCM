@@ -1,0 +1,187 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t开郁种玉汤"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "from",
+    "node_2": "来源\t《傅青主女科》卷上"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t时叹息"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸闷胁胀"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t经行量少不畅"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t经行乳房胀痛用于肝郁证"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t经前乳房胀痛"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小腹胀痛"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或急躁易怒"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t用于肝郁证不孕症"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸胁胀满"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调经种子"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t精神抑郁"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t可见经前乳房胀痒作痛"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄白"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t色紫红，有血块"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t可见月经不调，先后不一"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质暗红"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t情志抑郁不畅"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治治妇人肝气郁结所致的不孕症"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疏肝解郁"
+  },
+  {
+    "node_1": "方名\t开郁种玉汤",
+    "relation": "prescription type",
+    "node_2": "处方\t开郁种玉汤"
+  },
+  {
+    "node_1": "处方\t开郁种玉汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍（酒炒）"
+  },
+  {
+    "node_1": "中药名\t白芍（酒炒）",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t开郁种玉汤",
+    "relation": "composition",
+    "node_2": "中药名\t香附（酒炒）"
+  },
+  {
+    "node_1": "中药名\t香附（酒炒）",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  },
+  {
+    "node_1": "处方\t开郁种玉汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归（酒洗）"
+  },
+  {
+    "node_1": "中药名\t当归（酒洗）",
+    "relation": "dose",
+    "node_2": "剂量\t15克"
+  },
+  {
+    "node_1": "处方\t开郁种玉汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术（土炒）"
+  },
+  {
+    "node_1": "中药名\t白术（土炒）",
+    "relation": "dose",
+    "node_2": "剂量\t15克"
+  },
+  {
+    "node_1": "处方\t开郁种玉汤",
+    "relation": "composition",
+    "node_2": "中药名\t丹皮（酒洗）"
+  },
+  {
+    "node_1": "中药名\t丹皮（酒洗）",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  },
+  {
+    "node_1": "处方\t开郁种玉汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓（去皮）"
+  },
+  {
+    "node_1": "中药名\t茯苓（去皮）",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  },
+  {
+    "node_1": "处方\t开郁种玉汤",
+    "relation": "composition",
+    "node_2": "中药名\t花粉"
+  },
+  {
+    "node_1": "中药名\t花粉",
+    "relation": "dose",
+    "node_2": "剂量\t6克"
+  }
+]

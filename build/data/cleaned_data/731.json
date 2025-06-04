@@ -1,0 +1,96 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t茯苓丸"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "from",
+    "node_2": "来源\t《是斋百—选方》录自《全生指迷方》"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t流注经络证"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t或四肢浮肿"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉细或弦滑"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t燥湿行气"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t或左右时复转移"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t不得上举"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t痰伏中脘"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t或两手麻木"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t软坚化痰"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "functions",
+    "node_2": "功能主治\t两臂痠痛或抽掣"
+  },
+  {
+    "node_1": "方名\t茯苓丸",
+    "relation": "prescription type",
+    "node_2": "处方\t茯苓丸"
+  },
+  {
+    "node_1": "处方\t茯苓丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t茯苓丸",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳(麸炒去瓢)",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t茯苓丸",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "30g"
+  },
+  {
+    "node_1": "处方\t茯苓丸",
+    "relation": "composition",
+    "node_2": "中药名\t风化朴硝",
+    "weight": "3g"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t黄芪建中汤"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治虚劳不足"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t自汗或盗汗"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃溃疡"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃癌"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性萎缩性胃炎"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温中补虚"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗反流兰食管炎"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体困倦"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t缓急止痛"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚大"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t短气"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性阻塞性肺病稳定期"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹中拘急"
+  },
+  {
+    "node_1": "方名\t黄芪建中汤",
+    "relation": "prescription type",
+    "node_2": "处方\t黄芪建中汤"
+  },
+  {
+    "node_1": "处方\t黄芪建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪"
+  },
+  {
+    "node_1": "中药名\t黄芪",
+    "relation": "dose",
+    "node_2": "剂量\t一两半(45克)"
+  },
+  {
+    "node_1": "处方\t黄芪建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t三两(90克)"
+  },
+  {
+    "node_1": "处方\t黄芪建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t六两(180克)"
+  },
+  {
+    "node_1": "处方\t黄芪建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t二两(60克)"
+  },
+  {
+    "node_1": "处方\t黄芪建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t三两(90克)"
+  },
+  {
+    "node_1": "处方\t黄芪建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t十二枚"
+  },
+  {
+    "node_1": "处方\t黄芪建中汤",
+    "relation": "composition",
+    "node_2": "中药名\t饴糖"
+  },
+  {
+    "node_1": "中药名\t饴糖",
+    "relation": "dose",
+    "node_2": "剂量\t一升"
+  }
+]

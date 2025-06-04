@@ -1,0 +1,187 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t蒿芩清胆汤"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "from",
+    "node_2": "来源\t《重订通俗伤寒论》"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t寒轻热重"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数而右滑左弦"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔白腻"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t少阳湿热证"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t寒热如疟"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呕黄涎而黏"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便黄少"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t吐酸苦水"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t干呕呃逆"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸胁胀疼"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口苦膈闷"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t间见杂色"
+  },
+  {
+    "node_1": "方名\t蒿芩清胆汤",
+    "relation": "prescription type",
+    "node_2": "处方\t蒿芩清胆汤"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t青蒿脑"
+  },
+  {
+    "node_1": "中药名\t青蒿脑",
+    "relation": "dose",
+    "node_2": "剂量\t钱半至二钱 (4.5~6g)"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t淡竹茹"
+  },
+  {
+    "node_1": "中药名\t淡竹茹",
+    "relation": "dose",
+    "node_2": "剂量\t三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t仙半夏"
+  },
+  {
+    "node_1": "中药名\t仙半夏",
+    "relation": "dose",
+    "node_2": "剂量\t钱半 (4.5g)"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t赤茯苓"
+  },
+  {
+    "node_1": "中药名\t赤茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t青子芩"
+  },
+  {
+    "node_1": "中药名\t青子芩",
+    "relation": "dose",
+    "node_2": "剂量\t钱半至三钱 (4.5g~9g)"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t生枳壳"
+  },
+  {
+    "node_1": "中药名\t生枳壳",
+    "relation": "dose",
+    "node_2": "剂量\t钱半 (4.5g)"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t陈广皮"
+  },
+  {
+    "node_1": "中药名\t陈广皮",
+    "relation": "dose",
+    "node_2": "剂量\t钱半 (4.5g)"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t碧玉散"
+  },
+  {
+    "node_1": "中药名\t碧玉散",
+    "relation": "dose",
+    "node_2": "剂量\t包，三钱 (9g)"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t滑石"
+  },
+  {
+    "node_1": "中药名\t滑石",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t蒿芩清胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t青黛"
+  },
+  {
+    "node_1": "中药名\t青黛",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  }
+]

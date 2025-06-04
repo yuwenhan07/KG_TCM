@@ -1,0 +1,105 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t清骨散"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "from",
+    "node_2": "来源\t《证治准绳》"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "functions",
+    "node_2": "功能主治\t滋补肝肾"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗骨蒸劳热"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "functions",
+    "node_2": "功能主治\t改善形体消瘦"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗低热日久不退"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "functions",
+    "node_2": "功能主治\t缓解唇红颧赤"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "functions",
+    "node_2": "功能主治\t缓解口渴心烦"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "functions",
+    "node_2": "功能主治\t清退虚热"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "functions",
+    "node_2": "功能主治\t减轻困倦盗汗"
+  },
+  {
+    "node_1": "方名\t清骨散",
+    "relation": "prescription type",
+    "node_2": "处方\t清骨散"
+  },
+  {
+    "node_1": "处方\t清骨散",
+    "relation": "composition",
+    "node_2": "中药名\t银柴胡",
+    "weight": "5g"
+  },
+  {
+    "node_1": "处方\t清骨散",
+    "relation": "composition",
+    "node_2": "中药名\t胡黄连",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清骨散",
+    "relation": "composition",
+    "node_2": "中药名\t秦艽",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清骨散",
+    "relation": "composition",
+    "node_2": "中药名\t鳖甲",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清骨散",
+    "relation": "composition",
+    "node_2": "中药名\t地骨皮",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清骨散",
+    "relation": "composition",
+    "node_2": "中药名\t青蒿",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清骨散",
+    "relation": "composition",
+    "node_2": "中药名\t知母",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清骨散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "2g"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t参苓白术散"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t面色萎黄"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢乏力"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t形体消瘦"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t益气健脾"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白腻"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚缓"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t脾虚湿盛证"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t饮食不化"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t渗湿止泻"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸脘痞闷"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "functions",
+    "node_2": "功能主治\t肠鸣泄泻"
+  },
+  {
+    "node_1": "方名\t参苓白术散",
+    "relation": "prescription type",
+    "node_2": "处方\t参苓白术散"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t莲子肉"
+  },
+  {
+    "node_1": "中药名\t莲子肉",
+    "relation": "dose",
+    "node_2": "剂量\t一斤(500克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t薏苡仁"
+  },
+  {
+    "node_1": "中药名\t薏苡仁",
+    "relation": "dose",
+    "node_2": "剂量\t一斤(500克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t缩砂仁"
+  },
+  {
+    "node_1": "中药名\t缩砂仁",
+    "relation": "dose",
+    "node_2": "剂量\t一斤(500克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t一斤(500克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t白扁豆"
+  },
+  {
+    "node_1": "中药名\t白扁豆",
+    "relation": "dose",
+    "node_2": "剂量\t一斤半(750克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓"
+  },
+  {
+    "node_1": "中药名\t白茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t二斤(1000克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t二斤(1000克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t二斤(1000克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t二斤(1000克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t二两炙(6克)"
+  },
+  {
+    "node_1": "处方\t参苓白术散",
+    "relation": "composition",
+    "node_2": "中药名\t山药"
+  },
+  {
+    "node_1": "中药名\t山药",
+    "relation": "dose",
+    "node_2": "剂量\t二斤(1000克)"
+  }
+]

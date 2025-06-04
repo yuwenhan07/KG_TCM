@@ -1,0 +1,233 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t薯蓣丸，又名“大山芋丸"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "from",
+    "node_2": "来源\t汉·《金匮要略》"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉细"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t健忘失眠"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t骨节酸痛"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t外兼风邪"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风除邪"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t虚劳不足"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸气短"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t不思饮食"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t神疲乏力"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t益气和荣"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t风气百疾"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t虚劳诸不足"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t气血两虚"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t调理脾胃"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t诸风气百疾"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t头晕目眩"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t身体瘦弱"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "prescription type",
+    "node_2": "处方\t薯蓣丸，又名“大山芋丸"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t薯蓣",
+    "weight": "三十分(30克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t神曲",
+    "weight": "十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄",
+    "weight": "十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t大豆黄卷",
+    "weight": "十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "二十八分(28克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "七分各7克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶",
+    "weight": "七分各7克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t川芎",
+    "weight": "六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t白芍",
+    "weight": "六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬",
+    "weight": "六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t防风",
+    "weight": "六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁",
+    "weight": "六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "五分(5克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗",
+    "weight": "五分(5克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "五分(5克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t干姜",
+    "weight": "三分(3克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t白蔹",
+    "weight": "二分(2克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "一百枚(100个)"
+  }
+]

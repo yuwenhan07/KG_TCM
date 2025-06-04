@@ -1,0 +1,117 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t抵当汤"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治下焦蓄血"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t破血逐瘀"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t高黏血症"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡紫"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗慢性肾夏竭"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便自利"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉迟或弦细涩"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t少腹硬满疼痛"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t瘗闭"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便色黑"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "functions",
+    "node_2": "功能主治\t喜忘发狂"
+  },
+  {
+    "node_1": "方名\t抵当汤",
+    "relation": "prescription type",
+    "node_2": "处方\t抵当汤"
+  },
+  {
+    "node_1": "处方\t抵当汤",
+    "relation": "composition",
+    "node_2": "中药名\t水蛭"
+  },
+  {
+    "node_1": "中药名\t水蛭",
+    "relation": "dose",
+    "node_2": "剂量\t30个(各6克)"
+  },
+  {
+    "node_1": "处方\t抵当汤",
+    "relation": "composition",
+    "node_2": "中药名\t虻虫"
+  },
+  {
+    "node_1": "中药名\t虻虫",
+    "relation": "dose",
+    "node_2": "剂量\t30个(各6克)"
+  },
+  {
+    "node_1": "处方\t抵当汤",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁"
+  },
+  {
+    "node_1": "中药名\t桃仁",
+    "relation": "dose",
+    "node_2": "剂量\t20个(9克)"
+  },
+  {
+    "node_1": "处方\t抵当汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t三两(9克)"
+  }
+]

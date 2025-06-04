@@ -1,0 +1,327 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t荆防败毒散"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "from",
+    "node_2": "来源\t明·《摄生众妙方》"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗眩晕"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗玫瑰糠疹"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t一切疮疡肿毒"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗口腔感染"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗水痘"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗感冒流感有良效"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗肾病蛋白尿"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t发汗解表"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗髋关节滑膜炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗荨麻疹"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗痈"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗过敏性皮炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗妊娠高热"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗乳痈"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗寒哮"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t痰多色白"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗急性上呼吸道感染"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸闷咳嗽"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗带状疱疹"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗麦粒肿"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗夜咳"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t主外感风寒初起"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗小儿痢疾"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t头疼身痛"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗多发性神经炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t左手脉浮数者"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白脉浮"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗特应性皮炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗老年性瘙痒症"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t肿痛发热"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗眼睑皮肤炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗流行性腮腺炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t散风祛湿"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗结膜炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗类风湿关节炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗病毒性角膜炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗坐骨神经痛"
+  },
+  {
+    "node_1": "方名\t荆防败毒散",
+    "relation": "prescription type",
+    "node_2": "处方\t荆防败毒散"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳"
+  },
+  {
+    "node_1": "中药名\t枳壳",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t前胡"
+  },
+  {
+    "node_1": "中药名\t前胡",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t羌活"
+  },
+  {
+    "node_1": "中药名\t羌活",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t独活"
+  },
+  {
+    "node_1": "中药名\t独活",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥穗"
+  },
+  {
+    "node_1": "中药名\t荆芥穗",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t荆防败毒散",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t三才封髓丹"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "from",
+    "node_2": "来源\t《医学发明》卷七"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t泻火坚阴"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t口舌干燥"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗早泄"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t主治阴虚火旺"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t脊髓空洞症"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t腰膝酸软"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t五心烦热"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t痤疮"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t失眠多梦"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性乙型肝炎"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t虚火牙痛"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t固精封髓"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t扰动精室之梦遗滑精"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "functions",
+    "node_2": "功能主治\t相火妄动"
+  },
+  {
+    "node_1": "方名\t三才封髓丹",
+    "relation": "prescription type",
+    "node_2": "处方\t三才封髓丹"
+  },
+  {
+    "node_1": "处方\t三才封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t半两(15克)"
+  },
+  {
+    "node_1": "处方\t三才封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t天门冬"
+  },
+  {
+    "node_1": "中药名\t天门冬",
+    "relation": "dose",
+    "node_2": "剂量\t半两(15克)"
+  },
+  {
+    "node_1": "处方\t三才封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t熟地黄"
+  },
+  {
+    "node_1": "中药名\t熟地黄",
+    "relation": "dose",
+    "node_2": "剂量\t半两(15克)"
+  },
+  {
+    "node_1": "处方\t三才封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏"
+  },
+  {
+    "node_1": "中药名\t黄柏",
+    "relation": "dose",
+    "node_2": "剂量\t3两(90克)"
+  },
+  {
+    "node_1": "处方\t三才封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t砂仁"
+  },
+  {
+    "node_1": "中药名\t砂仁",
+    "relation": "dose",
+    "node_2": "剂量\t一两半(45克)"
+  },
+  {
+    "node_1": "处方\t三才封髓丹",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t七钱半(22.5克)"
+  }
+]

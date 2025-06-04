@@ -1,0 +1,127 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t温胆汤"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "from",
+    "node_2": "来源\t《三因极一病证方论》"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呕恶呃逆"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胆郁痰扰证"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t理气化痰"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t和胃利胆"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t夜多异梦"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头眩心悸"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦不眠"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胆怯易惊"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "functions",
+    "node_2": "功能主治\t癫痫"
+  },
+  {
+    "node_1": "方名\t温胆汤",
+    "relation": "prescription type",
+    "node_2": "处方\t温胆汤"
+  },
+  {
+    "node_1": "处方\t温胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏(汤洗七次)"
+  },
+  {
+    "node_1": "中药名\t半夏(汤洗七次)",
+    "relation": "dose",
+    "node_2": "剂量\t60g"
+  },
+  {
+    "node_1": "处方\t温胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t竹茹"
+  },
+  {
+    "node_1": "中药名\t竹茹",
+    "relation": "dose",
+    "node_2": "剂量\t60g"
+  },
+  {
+    "node_1": "处方\t温胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t枳实(麸炒，去瓤)"
+  },
+  {
+    "node_1": "中药名\t枳实(麸炒，去瓤)",
+    "relation": "dose",
+    "node_2": "剂量\t60g"
+  },
+  {
+    "node_1": "处方\t温胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮"
+  },
+  {
+    "node_1": "中药名\t陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t90g"
+  },
+  {
+    "node_1": "处方\t温胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)"
+  },
+  {
+    "node_1": "中药名\t甘草(炙)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t温胆汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t45g"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t清暑益气汤"
+  },
+  {
+    "node_1": "方名\t清暑益气汤",
+    "relation": "from",
+    "node_2": "来源\t《温热经纬》"
+  },
+  {
+    "node_1": "方名\t清暑益气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发热头痛"
+  },
+  {
+    "node_1": "方名\t清暑益气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t暑湿证"
+  },
+  {
+    "node_1": "方名\t清暑益气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t霍乱吐下"
+  },
+  {
+    "node_1": "方名\t清暑益气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t清暑益气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t烦渴引饮"
+  },
+  {
+    "node_1": "方名\t清暑益气汤",
+    "relation": "prescription type",
+    "node_2": "处方\t清暑益气汤"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t西洋参",
+    "weight": "5g"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t石斛",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t竹叶",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t荷梗",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "3g"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t粳米",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t清暑益气汤",
+    "relation": "composition",
+    "node_2": "中药名\t西瓜翠衣",
+    "weight": "30g"
+  }
+]

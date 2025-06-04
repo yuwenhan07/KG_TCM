@@ -1,0 +1,162 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t麻黄杏仁薏苡甘草汤"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗嗜睡"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗扁平疣"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗咳嗽"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗鼻窦炎"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗皮肤瘙痒症"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗风湿热"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t午后发热加剧"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮数"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗黄褐斑"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗湿疹"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t一身尽疼"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗风湿性关节炎"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗急性肾小球肾炎"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t通经解表"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t湿郁化热证"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗哮喘"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗头痛"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄腻"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t祛寒除湿"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t风湿在表"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗银屑病"
+  },
+  {
+    "node_1": "方名\t麻黄杏仁薏苡甘草汤",
+    "relation": "prescription type",
+    "node_2": "处方\t麻黄杏仁薏苡甘草汤"
+  },
+  {
+    "node_1": "处方\t麻黄杏仁薏苡甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄"
+  },
+  {
+    "node_1": "中药名\t麻黄",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t麻黄杏仁薏苡甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁"
+  },
+  {
+    "node_1": "中药名\t杏仁",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t麻黄杏仁薏苡甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t薏苡仁"
+  },
+  {
+    "node_1": "中药名\t薏苡仁",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t麻黄杏仁薏苡甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  }
+]

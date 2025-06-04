@@ -1,0 +1,107 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t朱砂安神丸"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "from",
+    "node_2": "来源\t《内外伤辨惑论》"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦神乱"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t阴血不足证"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t失眠多梦"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t惊悸怔忡"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t胸中懊侬"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉细数"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t心火亢盛"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌尖红"
+  },
+  {
+    "node_1": "方名\t朱砂安神丸",
+    "relation": "prescription type",
+    "node_2": "处方\t朱砂安神丸"
+  },
+  {
+    "node_1": "处方\t朱砂安神丸",
+    "relation": "composition",
+    "node_2": "中药名\t朱砂"
+  },
+  {
+    "node_1": "中药名\t朱砂",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t朱砂安神丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t18g"
+  },
+  {
+    "node_1": "处方\t朱砂安神丸",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t16.5g"
+  },
+  {
+    "node_1": "处方\t朱砂安神丸",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄"
+  },
+  {
+    "node_1": "中药名\t生地黄",
+    "relation": "dose",
+    "node_2": "剂量\t4.5g"
+  },
+  {
+    "node_1": "处方\t朱砂安神丸",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t7.5g"
+  }
+]

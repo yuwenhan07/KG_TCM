@@ -1,0 +1,104 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t温脾汤"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "from",
+    "node_2": "来源\t《千金备急方》"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳虚寒积证"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉弦而迟"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温补脾阳"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t攻下冷积"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足不温"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脐下绞结"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t绕脐不止"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白不渴"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛便秘"
+  },
+  {
+    "node_1": "方名\t温脾汤",
+    "relation": "prescription type",
+    "node_2": "处方\t温脾汤"
+  },
+  {
+    "node_1": "处方\t温脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t温脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t温脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t干姜",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t温脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t温脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t温脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t芒硝",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t温脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "6g"
+  }
+]

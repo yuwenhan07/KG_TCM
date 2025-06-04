@@ -1,0 +1,57 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t六一散"
+  },
+  {
+    "node_1": "方名\t六一散",
+    "relation": "from",
+    "node_2": "来源\t《黄帝素问宣明论方》"
+  },
+  {
+    "node_1": "方名\t六一散",
+    "relation": "functions",
+    "node_2": "功能主治\t身热烦渴"
+  },
+  {
+    "node_1": "方名\t六一散",
+    "relation": "functions",
+    "node_2": "功能主治\t小便不利"
+  },
+  {
+    "node_1": "方名\t六一散",
+    "relation": "functions",
+    "node_2": "功能主治\t暑湿证"
+  },
+  {
+    "node_1": "方名\t六一散",
+    "relation": "functions",
+    "node_2": "功能主治\t泄泻"
+  },
+  {
+    "node_1": "方名\t六一散",
+    "relation": "prescription type",
+    "node_2": "处方\t六一散"
+  },
+  {
+    "node_1": "处方\t六一散",
+    "relation": "composition",
+    "node_2": "中药名\t滑石"
+  },
+  {
+    "node_1": "中药名\t滑石",
+    "relation": "dose",
+    "node_2": "剂量\t六两 (180g)"
+  },
+  {
+    "node_1": "处方\t六一散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  }
+]

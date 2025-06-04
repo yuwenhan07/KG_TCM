@@ -1,0 +1,93 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t贝母瓜蒌散"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "from",
+    "node_2": "来源\t《医学心悟》"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽呛急"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "functions",
+    "node_2": "功能主治\t燥痰咳嗽"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "functions",
+    "node_2": "功能主治\t理气化痰"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "functions",
+    "node_2": "功能主治\t涩而难出"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白而干"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "functions",
+    "node_2": "功能主治\t咽喉干燥"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "functions",
+    "node_2": "功能主治\t咯痰不爽"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "functions",
+    "node_2": "功能主治\t润肺清热"
+  },
+  {
+    "node_1": "方名\t贝母瓜蒌散",
+    "relation": "prescription type",
+    "node_2": "处方\t贝母瓜蒌散"
+  },
+  {
+    "node_1": "处方\t贝母瓜蒌散",
+    "relation": "composition",
+    "node_2": "中药名\t贝母",
+    "weight": "一钱五分 (5g)"
+  },
+  {
+    "node_1": "处方\t贝母瓜蒌散",
+    "relation": "composition",
+    "node_2": "中药名\t瓜蒌",
+    "weight": "一钱 (3g)"
+  },
+  {
+    "node_1": "处方\t贝母瓜蒌散",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "八分 (2.5g)"
+  },
+  {
+    "node_1": "处方\t贝母瓜蒌散",
+    "relation": "composition",
+    "node_2": "中药名\t橘红",
+    "weight": "八分 (2.5g)"
+  },
+  {
+    "node_1": "处方\t贝母瓜蒌散",
+    "relation": "composition",
+    "node_2": "中药名\t花粉",
+    "weight": "八分 (2.5g)"
+  },
+  {
+    "node_1": "处方\t贝母瓜蒌散",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗",
+    "weight": "八分 (2.5g)"
+  }
+]

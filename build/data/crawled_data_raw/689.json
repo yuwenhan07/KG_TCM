@@ -1,0 +1,102 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t小承气汤"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔黄"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹中疠痛"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t里急后重"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸腹痞满"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脘腹胀满"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t谵语潮热"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便秘结"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t峻下热结"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痢疾初起"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "functions",
+    "node_2": "功能主治\t伤寒阳明腑实证"
+  },
+  {
+    "node_1": "方名\t小承气汤",
+    "relation": "prescription type",
+    "node_2": "处方\t小承气汤"
+  },
+  {
+    "node_1": "处方\t小承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t12克(酒洗)"
+  },
+  {
+    "node_1": "处方\t小承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴"
+  },
+  {
+    "node_1": "中药名\t厚朴",
+    "relation": "dose",
+    "node_2": "剂量\t6克(炙，去皮)"
+  },
+  {
+    "node_1": "处方\t小承气汤",
+    "relation": "composition",
+    "node_2": "中药名\t枳实"
+  },
+  {
+    "node_1": "中药名\t枳实",
+    "relation": "dose",
+    "node_2": "剂量\t9克(大者，炙)"
+  }
+]

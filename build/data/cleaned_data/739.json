@@ -1,0 +1,81 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t三子养亲汤"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "from",
+    "node_2": "来源\t《皆效方》录自《杂病广要》"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t温肺化痰"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t降气消食"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t食少难消"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰多胸痞"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽喘逆"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰壅气逆食滞证"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t三子养亲汤",
+    "relation": "prescription type",
+    "node_2": "处方\t三子养亲汤"
+  },
+  {
+    "node_1": "处方\t三子养亲汤",
+    "relation": "composition",
+    "node_2": "中药名\t紫苏子",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t三子养亲汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芥子",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t三子养亲汤",
+    "relation": "composition",
+    "node_2": "中药名\t莱菔子",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t三子养亲汤",
+    "relation": "composition",
+    "node_2": "中药名\t原书末着剂量",
+    "weight": "适量"
+  }
+]

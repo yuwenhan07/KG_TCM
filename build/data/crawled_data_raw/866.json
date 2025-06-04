@@ -1,0 +1,232 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t升阳益胃汤"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "from",
+    "node_2": "来源\t元·李东垣《内外伤辨惑论》"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t兼见肺病"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口苦舌干"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢不收"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气升阳"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t洒淅恶寒"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t食不消化"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便颊数"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色恶而不和"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t惨惨不乐"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t体重节肿"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t饮食无味"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清热除湿"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脾胃虚弱"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t怠惰嗜卧"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便不调"
+  },
+  {
+    "node_1": "方名\t升阳益胃汤",
+    "relation": "prescription type",
+    "node_2": "处方\t升阳益胃汤"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪"
+  },
+  {
+    "node_1": "中药名\t黄芪",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t独活"
+  },
+  {
+    "node_1": "中药名\t独活",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍药"
+  },
+  {
+    "node_1": "中药名\t白芍药",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t羌活"
+  },
+  {
+    "node_1": "中药名\t羌活",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t橘皮"
+  },
+  {
+    "node_1": "中药名\t橘皮",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t泽泻"
+  },
+  {
+    "node_1": "中药名\t泽泻",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t5g"
+  },
+  {
+    "node_1": "处方\t升阳益胃汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t1.5g"
+  }
+]

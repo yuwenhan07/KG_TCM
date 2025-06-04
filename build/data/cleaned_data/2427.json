@@ -1,0 +1,89 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t复明地黄汤加减方"
+  },
+  {
+    "node_1": "方名\t复明地黄汤加减方",
+    "relation": "from",
+    "node_2": "来源\t《兰室秘藏》卷上；《杨氏家藏方》卷十一；《小儿卫生总微论》卷十八；《证治准绳·类方》卷七；《卫生总微》卷十八；《准绳·类方》卷七）；《幼科金针》卷下；《普济方》卷七十三；齐强方"
+  },
+  {
+    "node_1": "方名\t复明地黄汤加减方",
+    "relation": "prescription type",
+    "node_2": "处方\t复明地黄汤加减方"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t枸杞",
+    "weight": "25克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t菊花",
+    "weight": "20克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t地黄",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t赤芍",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t苏木",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t青葙子",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t丝瓜络",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t寸冬",
+    "weight": "10克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t珍珠母",
+    "weight": "50克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t丹参",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t复明地黄汤加减方",
+    "relation": "composition",
+    "node_2": "中药名\t生芪",
+    "weight": "15克"
+  }
+]

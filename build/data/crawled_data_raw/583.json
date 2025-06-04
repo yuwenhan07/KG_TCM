@@ -1,0 +1,122 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t清胃散"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "from",
+    "node_2": "来源\t《脾胃论》"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t牙龈红肿溃烂"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t面颊发热"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t唇舌腮颊肿痛"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t口干舌燥"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t牙宣出血"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t胃火牙痛"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t其齿喜冷恶热"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t口气热臭"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t牙痛牵引头痛"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t清胃散",
+    "relation": "prescription type",
+    "node_2": "处方\t清胃散"
+  },
+  {
+    "node_1": "处方\t清胃散",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄"
+  },
+  {
+    "node_1": "中药名\t生地黄",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t清胃散",
+    "relation": "composition",
+    "node_2": "中药名\t当归身"
+  },
+  {
+    "node_1": "中药名\t当归身",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t清胃散",
+    "relation": "composition",
+    "node_2": "中药名\t牡丹皮"
+  },
+  {
+    "node_1": "中药名\t牡丹皮",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t清胃散",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t6g (夏月倍之)"
+  },
+  {
+    "node_1": "处方\t清胃散",
+    "relation": "composition",
+    "node_2": "中药名\t升麻"
+  },
+  {
+    "node_1": "中药名\t升麻",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  }
+]

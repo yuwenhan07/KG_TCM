@@ -1,0 +1,163 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t大秦艽汤"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "from",
+    "node_2": "来源\t《素问病机气宜保命集》"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌强不能言语"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体挛急"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疏风清热"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t养血活血"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t风邪初中经络证"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮数或弦细"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t手足不能运动"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔白或黄"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口眼斜"
+  },
+  {
+    "node_1": "方名\t大秦艽汤",
+    "relation": "prescription type",
+    "node_2": "处方\t大秦艽汤"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t秦艽",
+    "weight": "三两 (90g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "二两 (60g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎",
+    "weight": "二两 (60g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "二两 (60g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍药",
+    "weight": "二两 (60g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t细辛",
+    "weight": "半两 (15g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t川羌活",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t防风",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t石膏",
+    "weight": "二两 (60g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t吴白芷",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t熟地黄",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓",
+    "weight": "一两 (30g)"
+  },
+  {
+    "node_1": "处方\t大秦艽汤",
+    "relation": "composition",
+    "node_2": "中药名\t川独活",
+    "weight": "二两 (60g)"
+  }
+]

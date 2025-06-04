@@ -1,0 +1,72 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t干姜附子汤"
+  },
+  {
+    "node_1": "方名\t干姜附子汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t干姜附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉微"
+  },
+  {
+    "node_1": "方名\t干姜附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身无大热者"
+  },
+  {
+    "node_1": "方名\t干姜附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不呕不渴"
+  },
+  {
+    "node_1": "方名\t干姜附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t无表证"
+  },
+  {
+    "node_1": "方名\t干姜附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t夜而安静"
+  },
+  {
+    "node_1": "方名\t干姜附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t昼日烦躁不得眠"
+  },
+  {
+    "node_1": "方名\t干姜附子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t伤寒下之后，复发汗"
+  },
+  {
+    "node_1": "方名\t干姜附子汤",
+    "relation": "prescription type",
+    "node_2": "处方\t干姜附子汤"
+  },
+  {
+    "node_1": "处方\t干姜附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t干姜"
+  },
+  {
+    "node_1": "中药名\t干姜",
+    "relation": "dose",
+    "node_2": "剂量\t一两（50g）"
+  },
+  {
+    "node_1": "处方\t干姜附子汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子"
+  },
+  {
+    "node_1": "中药名\t附子",
+    "relation": "dose",
+    "node_2": "剂量\t一枚（5g）"
+  }
+]

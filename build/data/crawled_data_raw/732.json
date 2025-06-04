@@ -1,0 +1,187 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t定痫丸"
+  },
+  {
+    "node_1": "方名\t定痫丸",
+    "relation": "from",
+    "node_2": "来源\t《医学心悟》"
+  },
+  {
+    "node_1": "方名\t定痫丸",
+    "relation": "functions",
+    "node_2": "功能主治\t癫狂"
+  },
+  {
+    "node_1": "方名\t定痫丸",
+    "relation": "functions",
+    "node_2": "功能主治\t涤痰熄风"
+  },
+  {
+    "node_1": "方名\t定痫丸",
+    "relation": "functions",
+    "node_2": "功能主治\t风痰蕴热之痫病"
+  },
+  {
+    "node_1": "方名\t定痫丸",
+    "relation": "functions",
+    "node_2": "功能主治\t忽然发作，眩仆倒地，目晴上视，口吐白沫，喉中痰鸣，叫喊作声，甚或手足抽搐，舌苔白腻微黄，脉弦滑略数"
+  },
+  {
+    "node_1": "方名\t定痫丸",
+    "relation": "prescription type",
+    "node_2": "处方\t定痫丸"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t明天麻"
+  },
+  {
+    "node_1": "中药名\t明天麻",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t僵蚕"
+  },
+  {
+    "node_1": "中药名\t僵蚕",
+    "relation": "dose",
+    "node_2": "剂量\t五钱 (15g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t川贝母"
+  },
+  {
+    "node_1": "中药名\t川贝母",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t全蝎"
+  },
+  {
+    "node_1": "中药名\t全蝎",
+    "relation": "dose",
+    "node_2": "剂量\t五钱 (15g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯神"
+  },
+  {
+    "node_1": "中药名\t茯神",
+    "relation": "dose",
+    "node_2": "剂量\t一两 (30g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮"
+  },
+  {
+    "node_1": "中药名\t陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t七钱 (20g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t远志"
+  },
+  {
+    "node_1": "中药名\t远志",
+    "relation": "dose",
+    "node_2": "剂量\t七钱 (20g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t石菖蒲"
+  },
+  {
+    "node_1": "中药名\t石菖蒲",
+    "relation": "dose",
+    "node_2": "剂量\t五钱 (15g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t胆南星"
+  },
+  {
+    "node_1": "中药名\t胆南星",
+    "relation": "dose",
+    "node_2": "剂量\t五钱 (15g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t丹参"
+  },
+  {
+    "node_1": "中药名\t丹参",
+    "relation": "dose",
+    "node_2": "剂量\t二两 (60g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t麦冬"
+  },
+  {
+    "node_1": "中药名\t麦冬",
+    "relation": "dose",
+    "node_2": "剂量\t二两 (60g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t琥珀"
+  },
+  {
+    "node_1": "中药名\t琥珀",
+    "relation": "dose",
+    "node_2": "剂量\t五钱 (15g)"
+  },
+  {
+    "node_1": "处方\t定痫丸",
+    "relation": "composition",
+    "node_2": "中药名\t辰砂"
+  },
+  {
+    "node_1": "中药名\t辰砂",
+    "relation": "dose",
+    "node_2": "剂量\t三钱 (9g)"
+  }
+]

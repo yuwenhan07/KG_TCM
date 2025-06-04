@@ -1,0 +1,106 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t定喘汤"
+  },
+  {
+    "node_1": "方名\t定喘汤",
+    "relation": "from",
+    "node_2": "来源\t《摄生众妙方》"
+  },
+  {
+    "node_1": "方名\t定喘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t微恶风寒"
+  },
+  {
+    "node_1": "方名\t定喘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰多气急"
+  },
+  {
+    "node_1": "方名\t定喘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t哮喘咳嗽"
+  },
+  {
+    "node_1": "方名\t定喘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔黄腻"
+  },
+  {
+    "node_1": "方名\t定喘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰热蕴肺之哮喘"
+  },
+  {
+    "node_1": "方名\t定喘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰稠色黄"
+  },
+  {
+    "node_1": "方名\t定喘汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t定喘汤",
+    "relation": "prescription type",
+    "node_2": "处方\t定喘汤"
+  },
+  {
+    "node_1": "处方\t定喘汤",
+    "relation": "composition",
+    "node_2": "中药名\t白果",
+    "weight": "二十一枚（9g）"
+  },
+  {
+    "node_1": "处方\t定喘汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄",
+    "weight": "三钱（9g）"
+  },
+  {
+    "node_1": "处方\t定喘汤",
+    "relation": "composition",
+    "node_2": "中药名\t苏子",
+    "weight": "二钱（6g）"
+  },
+  {
+    "node_1": "处方\t定喘汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "一钱（3g）"
+  },
+  {
+    "node_1": "处方\t定喘汤",
+    "relation": "composition",
+    "node_2": "中药名\t款冬花",
+    "weight": "三钱（9g）"
+  },
+  {
+    "node_1": "处方\t定喘汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁",
+    "weight": "一钱五分（4.5g）"
+  },
+  {
+    "node_1": "处方\t定喘汤",
+    "relation": "composition",
+    "node_2": "中药名\t桑白皮",
+    "weight": "三钱（9g）"
+  },
+  {
+    "node_1": "处方\t定喘汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "一钱五分（6g）"
+  },
+  {
+    "node_1": "处方\t定喘汤",
+    "relation": "composition",
+    "node_2": "中药名\t法制半夏",
+    "weight": "三钱（9g）"
+  }
+]

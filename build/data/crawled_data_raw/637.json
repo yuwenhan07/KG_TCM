@@ -1,0 +1,212 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t血府逐瘀汤"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "from",
+    "node_2": "来源\t《医林改错》"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t入暮潮热"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸怔忡"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌有瘀斑、瘀点"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t干呕"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸中血瘀证"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t饮水即呛"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痛如针刺而有定处"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t失眠多梦"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t日久不愈"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质暗红"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸痛"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t唇暗或两目暗黑"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t内热瞀闷"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急躁易怒"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉涩或弦紧"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呃逆日久不止"
+  },
+  {
+    "node_1": "方名\t血府逐瘀汤",
+    "relation": "prescription type",
+    "node_2": "处方\t血府逐瘀汤"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁"
+  },
+  {
+    "node_1": "中药名\t桃仁",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t红花"
+  },
+  {
+    "node_1": "中药名\t红花",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄"
+  },
+  {
+    "node_1": "中药名\t生地黄",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t牛膝"
+  },
+  {
+    "node_1": "中药名\t牛膝",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t4.5g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t4.5g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t赤芍"
+  },
+  {
+    "node_1": "中药名\t赤芍",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳"
+  },
+  {
+    "node_1": "中药名\t枳壳",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t血府逐瘀汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  }
+]

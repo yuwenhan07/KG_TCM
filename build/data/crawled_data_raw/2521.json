@@ -1,0 +1,262 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t荆防败毒散2"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》卷二"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性化脓性腮腺炎"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮濡或浮数而重取无力"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体酸痛无汗"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽有痰（寒壅咳嗽）"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t益气解表"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t感冒风寒湿邪"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻塞声重"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t无汗不渴"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t疏导经络"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t身体烦疼"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t胸隔痞满"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t空调冷气综合征"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风寒湿邪兼气虚者"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿秋季腹泻"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿病毒性上呼吸道感染"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t扶正匡邪"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮数"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t疮肿初起"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄白"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t红肿疼痛"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t壮热恶寒"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t散风祛湿"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t头项强痛（风痰头痛）"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿外感咳嗽"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "functions",
+    "node_2": "功能主治\t表散邪滞"
+  },
+  {
+    "node_1": "方名\t荆防败毒散2",
+    "relation": "prescription type",
+    "node_2": "处方\t荆防败毒散2"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t羌活"
+  },
+  {
+    "node_1": "中药名\t羌活",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t独活"
+  },
+  {
+    "node_1": "中药名\t独活",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t前胡"
+  },
+  {
+    "node_1": "中药名\t前胡",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t枳壳"
+  },
+  {
+    "node_1": "中药名\t枳壳",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥"
+  },
+  {
+    "node_1": "中药名\t荆芥",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t一钱五分(各4.5g)"
+  },
+  {
+    "node_1": "处方\t荆防败毒散2",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t五分(1.5g)"
+  }
+]

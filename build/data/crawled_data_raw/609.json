@@ -1,0 +1,92 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t痛泻要方"
+  },
+  {
+    "node_1": "方名\t痛泻要方",
+    "relation": "from",
+    "node_2": "来源\t《丹溪心法》"
+  },
+  {
+    "node_1": "方名\t痛泻要方",
+    "relation": "functions",
+    "node_2": "功能主治\t大便泄泻"
+  },
+  {
+    "node_1": "方名\t痛泻要方",
+    "relation": "functions",
+    "node_2": "功能主治\t肠鸣腹痛"
+  },
+  {
+    "node_1": "方名\t痛泻要方",
+    "relation": "functions",
+    "node_2": "功能主治\t脉两关不调，左弦而右缓者"
+  },
+  {
+    "node_1": "方名\t痛泻要方",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄白"
+  },
+  {
+    "node_1": "方名\t痛泻要方",
+    "relation": "functions",
+    "node_2": "功能主治\t脾虚肝旺之泄泻"
+  },
+  {
+    "node_1": "方名\t痛泻要方",
+    "relation": "functions",
+    "node_2": "功能主治\t泻必腹痛"
+  },
+  {
+    "node_1": "方名\t痛泻要方",
+    "relation": "functions",
+    "node_2": "功能主治\t泻后痛缓"
+  },
+  {
+    "node_1": "方名\t痛泻要方",
+    "relation": "prescription type",
+    "node_2": "处方\t痛泻要方"
+  },
+  {
+    "node_1": "处方\t痛泻要方",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮"
+  },
+  {
+    "node_1": "中药名\t陈皮",
+    "relation": "dose",
+    "node_2": "剂量\t45g"
+  },
+  {
+    "node_1": "处方\t痛泻要方",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t90g"
+  },
+  {
+    "node_1": "处方\t痛泻要方",
+    "relation": "composition",
+    "node_2": "中药名\t白芍"
+  },
+  {
+    "node_1": "中药名\t白芍",
+    "relation": "dose",
+    "node_2": "剂量\t60g"
+  },
+  {
+    "node_1": "处方\t痛泻要方",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  }
+]

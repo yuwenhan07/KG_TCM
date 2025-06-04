@@ -1,0 +1,129 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t清经散"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "from",
+    "node_2": "来源\t《傅青主女科》"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t提高患者黄体期孕酮、雌二醇水平"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗月经先期"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t清热凉血"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床也见于治疗经期紊乱"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床也见于治疗继发性闭经"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t主治月经先期，肾中水火两旺者，伴见舌红，苔黄，脉弦细数"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床也见于治疗经间期出血"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗月经过多"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t实验研究表明，清经散具有补肾调经之效"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床也见于治疗倒经"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗黄体功能不全"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床也见于治疗经行下利"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t临床也见于治疗经前浮肿"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗黄体功能不全"
+  },
+  {
+    "node_1": "方名\t清经散",
+    "relation": "prescription type",
+    "node_2": "处方\t清经散"
+  },
+  {
+    "node_1": "处方\t清经散",
+    "relation": "composition",
+    "node_2": "中药名\t牡丹皮",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t清经散",
+    "relation": "composition",
+    "node_2": "中药名\t地骨皮",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t清经散",
+    "relation": "composition",
+    "node_2": "中药名\t白芍（酒炒）",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t清经散",
+    "relation": "composition",
+    "node_2": "中药名\t大熟地黄（九蒸）",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t清经散",
+    "relation": "composition",
+    "node_2": "中药名\t青蒿",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t清经散",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t清经散",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏（盐水浸炒）",
+    "weight": "1.5克"
+  }
+]

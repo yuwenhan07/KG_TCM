@@ -1,0 +1,117 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t枳实消痞丸"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "from",
+    "node_2": "来源\t《兰室秘藏》"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脾虚气滞"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t苔腻而微黄"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t心下痞满"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t大便失调"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t不欲饮食"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t倦怠乏力"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "functions",
+    "node_2": "功能主治\t寒热互结证"
+  },
+  {
+    "node_1": "方名\t枳实消痞丸",
+    "relation": "prescription type",
+    "node_2": "处方\t枳实消痞丸"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t干生姜",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t麦芽曲",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t白术",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t半夏曲",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "9g"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴(炙)",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t枳实",
+    "weight": "15g"
+  },
+  {
+    "node_1": "处方\t枳实消痞丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄连",
+    "weight": "15g"
+  }
+]

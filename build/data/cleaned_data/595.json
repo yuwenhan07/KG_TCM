@@ -1,0 +1,99 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t当归六黄汤"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "from",
+    "node_2": "来源\t《兰室秘藏》"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面赤心烦"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉数"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便干结"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口干唇燥"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴虚火旺所致的盗汗"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便黄赤"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发热盗汗"
+  },
+  {
+    "node_1": "方名\t当归六黄汤",
+    "relation": "prescription type",
+    "node_2": "处方\t当归六黄汤"
+  },
+  {
+    "node_1": "处方\t当归六黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归",
+    "weight": "各6克"
+  },
+  {
+    "node_1": "处方\t当归六黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t生地黄",
+    "weight": "各6克"
+  },
+  {
+    "node_1": "处方\t当归六黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t熟地黄",
+    "weight": "各6克"
+  },
+  {
+    "node_1": "处方\t当归六黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "各6克"
+  },
+  {
+    "node_1": "处方\t当归六黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏",
+    "weight": "各6克"
+  },
+  {
+    "node_1": "处方\t当归六黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连",
+    "weight": "各6克"
+  },
+  {
+    "node_1": "处方\t当归六黄汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪",
+    "weight": "12克"
+  }
+]

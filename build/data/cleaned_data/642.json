@@ -1,0 +1,105 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t天台乌药散"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "from",
+    "node_2": "来源\t《圣济总录》"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "functions",
+    "node_2": "功能主治\t肝经寒凝气滞之小肠疝气"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "functions",
+    "node_2": "功能主治\t少腹疼痛"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "functions",
+    "node_2": "功能主治\t妇女痛经"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "functions",
+    "node_2": "功能主治\t瘕聚等属寒凝气滞者"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "functions",
+    "node_2": "功能主治\t少腹引控睾丸而痛"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "functions",
+    "node_2": "功能主治\t偏坠肿胀"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉迟或弦"
+  },
+  {
+    "node_1": "方名\t天台乌药散",
+    "relation": "prescription type",
+    "node_2": "处方\t天台乌药散"
+  },
+  {
+    "node_1": "处方\t天台乌药散",
+    "relation": "composition",
+    "node_2": "中药名\t天台乌药",
+    "weight": "半两 (15g)"
+  },
+  {
+    "node_1": "处方\t天台乌药散",
+    "relation": "composition",
+    "node_2": "中药名\t木香",
+    "weight": "半两 (15g)"
+  },
+  {
+    "node_1": "处方\t天台乌药散",
+    "relation": "composition",
+    "node_2": "中药名\t小茴香",
+    "weight": "半两 (15g)"
+  },
+  {
+    "node_1": "处方\t天台乌药散",
+    "relation": "composition",
+    "node_2": "中药名\t青皮",
+    "weight": "半两 (15g)"
+  },
+  {
+    "node_1": "处方\t天台乌药散",
+    "relation": "composition",
+    "node_2": "中药名\t高良姜",
+    "weight": "半两 (15g)"
+  },
+  {
+    "node_1": "处方\t天台乌药散",
+    "relation": "composition",
+    "node_2": "中药名\t槟榔",
+    "weight": "二个 (9g)"
+  },
+  {
+    "node_1": "处方\t天台乌药散",
+    "relation": "composition",
+    "node_2": "中药名\t川楝子",
+    "weight": "十个 (12g)"
+  },
+  {
+    "node_1": "处方\t天台乌药散",
+    "relation": "composition",
+    "node_2": "中药名\t巴豆",
+    "weight": "七十粒 (12g)"
+  }
+]

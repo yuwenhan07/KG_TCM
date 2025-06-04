@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t滚痰丸"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "from",
+    "node_2": "来源\t《泰定养生主论》录自《玉机细微义》"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t绕项结核"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔黄厚"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕耳鸣"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t不寐"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t噎息烦闷"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t骨节卒痛难以名状"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t实热老痰证"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t大便秘结"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t怔忡昏迷"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数有力"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t泻火逐痰"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t发为癫狂惊悸"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t咳喘痰稠"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t梦寐奇怪之状"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t胸脘痞闷"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "functions",
+    "node_2": "功能主治\t口眼蠕动"
+  },
+  {
+    "node_1": "方名\t滚痰丸",
+    "relation": "prescription type",
+    "node_2": "处方\t滚痰丸"
+  },
+  {
+    "node_1": "处方\t滚痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t大黄(酒蒸)"
+  },
+  {
+    "node_1": "中药名\t大黄(酒蒸)",
+    "relation": "dose",
+    "node_2": "剂量\t240g"
+  },
+  {
+    "node_1": "处方\t滚痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t片黄芩(酒洗净)"
+  },
+  {
+    "node_1": "中药名\t片黄芩(酒洗净)",
+    "relation": "dose",
+    "node_2": "剂量\t240g"
+  },
+  {
+    "node_1": "处方\t滚痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t礞石(捶碎，同焰硝30g，投入小砂罐内盖之，铁线缚定，盐泥固济，晒干，火煅红，候冷取出)"
+  },
+  {
+    "node_1": "中药名\t礞石(捶碎，同焰硝30g，投入小砂罐内盖之，铁线缚定，盐泥固济，晒干，火煅红，候冷取出)",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t滚痰丸",
+    "relation": "composition",
+    "node_2": "中药名\t沉香"
+  },
+  {
+    "node_1": "中药名\t沉香",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  }
+]

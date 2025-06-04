@@ -1,0 +1,152 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t大柴胡汤"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸胁苦满"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t郁郁微烦"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔黄"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t少阳阳明合病"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心下痞硬"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便不解"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t往来寒热"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呕不止"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t协热下利"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦数有力"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心下满痛"
+  },
+  {
+    "node_1": "方名\t大柴胡汤",
+    "relation": "prescription type",
+    "node_2": "处方\t大柴胡汤"
+  },
+  {
+    "node_1": "处方\t大柴胡汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t大柴胡汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩"
+  },
+  {
+    "node_1": "中药名\t黄芩",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t大柴胡汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t大柴胡汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t大柴胡汤",
+    "relation": "composition",
+    "node_2": "中药名\t枳实"
+  },
+  {
+    "node_1": "中药名\t枳实",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t大柴胡汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t大柴胡汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t4枚"
+  },
+  {
+    "node_1": "处方\t大柴胡汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  }
+]

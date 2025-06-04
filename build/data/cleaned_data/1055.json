@@ -1,0 +1,75 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t三物黄芩汤"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "from",
+    "node_2": "来源\t《备急千金要方》卷三。"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清热解毒"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢烦热"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头不痛"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗自身免疫性肝炎"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗直肠癌"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "functions",
+    "node_2": "功能主治\t养血滋阴"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "functions",
+    "node_2": "功能主治\t风邪入里化热"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "functions",
+    "node_2": "功能主治\t产后血亏阴虚"
+  },
+  {
+    "node_1": "方名\t三物黄芩汤",
+    "relation": "prescription type",
+    "node_2": "处方\t三物黄芩汤"
+  },
+  {
+    "node_1": "处方\t三物黄芩汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "二两（各6g）"
+  },
+  {
+    "node_1": "处方\t三物黄芩汤",
+    "relation": "composition",
+    "node_2": "中药名\t苦参",
+    "weight": "二两（各6g）"
+  },
+  {
+    "node_1": "处方\t三物黄芩汤",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄",
+    "weight": "四两（12g）"
+  }
+]

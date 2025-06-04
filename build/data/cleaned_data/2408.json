@@ -1,0 +1,90 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t茯苓杏仁甘草汤"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》卷上"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸痹"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸满头眩重疼"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t宣导气机"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴小而急"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t短气"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t湿温"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t两胫逆冷"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t妄言多汗"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t其脉阳濡而弱"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸中气塞"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "functions",
+    "node_2": "功能主治\t通阳化饮"
+  },
+  {
+    "node_1": "方名\t茯苓杏仁甘草汤",
+    "relation": "prescription type",
+    "node_2": "处方\t茯苓杏仁甘草汤"
+  },
+  {
+    "node_1": "处方\t茯苓杏仁甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓",
+    "weight": "三两(9克)"
+  },
+  {
+    "node_1": "处方\t茯苓杏仁甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁",
+    "weight": "五十个(8.5克)"
+  },
+  {
+    "node_1": "处方\t茯苓杏仁甘草汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "一两(3克)"
+  }
+]

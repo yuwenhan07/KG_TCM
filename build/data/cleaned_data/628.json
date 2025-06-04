@@ -1,0 +1,215 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t鳖甲煎丸"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "from",
+    "node_2": "来源\t《金匱要略》"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t女子月经闭止"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t胁下痞鞕 (或硬) 成块"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t肌肉消瘦"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t饮食减少"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t推之不移"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腹中疼痛"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t症瘕结于胁下"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t时有寒热"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t疟疾日久不愈"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t结成疟母"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t症瘕"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "functions",
+    "node_2": "功能主治\t疟母"
+  },
+  {
+    "node_1": "方名\t鳖甲煎丸",
+    "relation": "prescription type",
+    "node_2": "处方\t鳖甲煎丸"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t炙鳖甲",
+    "weight": "十二分(90克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t赤硝",
+    "weight": "十二分(90克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t蜣螂",
+    "weight": "六分(45克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "五分(37克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t牡丹",
+    "weight": "五分(37克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t土蟞虫",
+    "weight": "五分(37克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t蜂巢",
+    "weight": "四分(30克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t炒乌扇",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t鼠妇",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t干姜",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t大黄",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t厚朴",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t石韦",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t紫葳",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t炙阿胶",
+    "weight": "三分(22.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t瞿麦",
+    "weight": "二分(15克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁",
+    "weight": "二分(15克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t葶苈",
+    "weight": "一分(7.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "一分(7.5克)"
+  },
+  {
+    "node_1": "处方\t鳖甲煎丸",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "一分(7.5克)"
+  }
+]

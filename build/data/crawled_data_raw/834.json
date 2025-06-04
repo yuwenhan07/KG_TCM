@@ -1,0 +1,317 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t薯蓣丸，又名“大山芋丸"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "from",
+    "node_2": "来源\t汉·《金匮要略》"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉细"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t健忘失眠"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t骨节酸痛"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t外兼风邪"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风除邪"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t虚劳不足"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸气短"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t不思饮食"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t神疲乏力"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t益气和荣"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t风气百疾"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t虚劳诸不足"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t气血两虚"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t调理脾胃"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t诸风气百疾"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t头晕目眩"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "functions",
+    "node_2": "功能主治\t身体瘦弱"
+  },
+  {
+    "node_1": "方名\t薯蓣丸，又名“大山芋丸",
+    "relation": "prescription type",
+    "node_2": "处方\t薯蓣丸，又名“大山芋丸"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t薯蓣"
+  },
+  {
+    "node_1": "中药名\t薯蓣",
+    "relation": "dose",
+    "node_2": "剂量\t三十分(30克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝"
+  },
+  {
+    "node_1": "中药名\t桂枝",
+    "relation": "dose",
+    "node_2": "剂量\t十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t神曲"
+  },
+  {
+    "node_1": "中药名\t神曲",
+    "relation": "dose",
+    "node_2": "剂量\t十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t干地黄"
+  },
+  {
+    "node_1": "中药名\t干地黄",
+    "relation": "dose",
+    "node_2": "剂量\t十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t大豆黄卷"
+  },
+  {
+    "node_1": "中药名\t大豆黄卷",
+    "relation": "dose",
+    "node_2": "剂量\t十分(各10克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t二十八分(28克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t七分各7克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t阿胶"
+  },
+  {
+    "node_1": "中药名\t阿胶",
+    "relation": "dose",
+    "node_2": "剂量\t七分各7克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t川芎"
+  },
+  {
+    "node_1": "中药名\t川芎",
+    "relation": "dose",
+    "node_2": "剂量\t六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t白芍"
+  },
+  {
+    "node_1": "中药名\t白芍",
+    "relation": "dose",
+    "node_2": "剂量\t六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t麦门冬"
+  },
+  {
+    "node_1": "中药名\t麦门冬",
+    "relation": "dose",
+    "node_2": "剂量\t六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t杏仁"
+  },
+  {
+    "node_1": "中药名\t杏仁",
+    "relation": "dose",
+    "node_2": "剂量\t六分(各6克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t五分(5克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗"
+  },
+  {
+    "node_1": "中药名\t桔梗",
+    "relation": "dose",
+    "node_2": "剂量\t五分(5克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t五分(5克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t干姜"
+  },
+  {
+    "node_1": "中药名\t干姜",
+    "relation": "dose",
+    "node_2": "剂量\t三分(3克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t白蔹"
+  },
+  {
+    "node_1": "中药名\t白蔹",
+    "relation": "dose",
+    "node_2": "剂量\t二分(2克)"
+  },
+  {
+    "node_1": "处方\t薯蓣丸，又名“大山芋丸",
+    "relation": "composition",
+    "node_2": "中药名\t大枣"
+  },
+  {
+    "node_1": "中药名\t大枣",
+    "relation": "dose",
+    "node_2": "剂量\t一百枚(100个)"
+  }
+]

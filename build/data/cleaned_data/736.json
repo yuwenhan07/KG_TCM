@@ -1,0 +1,80 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t小陷胸汤"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t按之则痛"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t清热化痰"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰热互结证"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄腻"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心胸闷痛"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t宽胸散结"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳痰黄稠"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸脘痞闷"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t小陷胸汤",
+    "relation": "prescription type",
+    "node_2": "处方\t小陷胸汤"
+  },
+  {
+    "node_1": "处方\t小陷胸汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连",
+    "weight": "6g"
+  },
+  {
+    "node_1": "处方\t小陷胸汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "12g"
+  },
+  {
+    "node_1": "处方\t小陷胸汤",
+    "relation": "composition",
+    "node_2": "中药名\t瓜蒌",
+    "weight": "20g"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t升麻葛根汤"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t水痘"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t目赤流泪"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t麻疹初起"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t邪郁肌表"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疹发不出"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口渴"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔薄而干"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急性细菌性痢疾"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮数"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t带状疱疹"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t单纯性疮疹"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热头痛"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹泻"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肺胃有热"
+  },
+  {
+    "node_1": "方名\t升麻葛根汤",
+    "relation": "prescription type",
+    "node_2": "处方\t升麻葛根汤"
+  },
+  {
+    "node_1": "处方\t升麻葛根汤",
+    "relation": "composition",
+    "node_2": "中药名\t升麻"
+  },
+  {
+    "node_1": "中药名\t升麻",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t升麻葛根汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药"
+  },
+  {
+    "node_1": "中药名\t芍药",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t升麻葛根汤",
+    "relation": "composition",
+    "node_2": "中药名\t炙甘草"
+  },
+  {
+    "node_1": "中药名\t炙甘草",
+    "relation": "dose",
+    "node_2": "剂量\t30克"
+  },
+  {
+    "node_1": "处方\t升麻葛根汤",
+    "relation": "composition",
+    "node_2": "中药名\t葛根"
+  },
+  {
+    "node_1": "中药名\t葛根",
+    "relation": "dose",
+    "node_2": "剂量\t45克"
+  }
+]

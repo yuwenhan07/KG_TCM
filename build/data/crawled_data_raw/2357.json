@@ -1,0 +1,82 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t子母汤"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "from",
+    "node_2": "来源\t《辨证录》卷一"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "functions",
+    "node_2": "功能主治\t身热5日"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "functions",
+    "node_2": "功能主治\t人即发厥"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便干"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肾水干燥"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "functions",
+    "node_2": "功能主治\t冬月伤寒"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "functions",
+    "node_2": "功能主治\t内热"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "functions",
+    "node_2": "功能主治\t积食"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "functions",
+    "node_2": "功能主治\t不能润肝"
+  },
+  {
+    "node_1": "方名\t子母汤",
+    "relation": "prescription type",
+    "node_2": "处方\t子母汤"
+  },
+  {
+    "node_1": "处方\t子母汤",
+    "relation": "composition",
+    "node_2": "中药名\t莱菔子"
+  },
+  {
+    "node_1": "中药名\t莱菔子",
+    "relation": "dose",
+    "node_2": "剂量\t10~20克"
+  },
+  {
+    "node_1": "处方\t子母汤",
+    "relation": "composition",
+    "node_2": "中药名\t白萝卜"
+  },
+  {
+    "node_1": "中药名\t白萝卜",
+    "relation": "dose",
+    "node_2": "剂量\t10~20克"
+  }
+]

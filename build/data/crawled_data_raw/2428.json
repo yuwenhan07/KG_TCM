@@ -1,0 +1,172 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t三黄汤2"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "from",
+    "node_2": "来源\t《备急千金要方》卷八引仲景；《备急千金要方》卷十五；李立,等三黄汤加味坐浴治疗痔疮临床疗效观察.内蒙古中医药,2003;(1):6"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t烦热心乱"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t止血"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t治下焦热结"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t经日不欲饮食"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t不得大便"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t止痛"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t治中风"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t手足拘挛"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t百节疼痛"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "functions",
+    "node_2": "功能主治\t消肿"
+  },
+  {
+    "node_1": "方名\t三黄汤2",
+    "relation": "prescription type",
+    "node_2": "处方\t三黄汤2"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏"
+  },
+  {
+    "node_1": "中药名\t黄柏",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t乳香"
+  },
+  {
+    "node_1": "中药名\t乳香",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t没药"
+  },
+  {
+    "node_1": "中药名\t没药",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t五倍子"
+  },
+  {
+    "node_1": "中药名\t五倍子",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t苦参"
+  },
+  {
+    "node_1": "中药名\t苦参",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t朴硝"
+  },
+  {
+    "node_1": "中药名\t朴硝",
+    "relation": "dose",
+    "node_2": "剂量\t20g"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t荆芥"
+  },
+  {
+    "node_1": "中药名\t荆芥",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t三黄汤2",
+    "relation": "composition",
+    "node_2": "中药名\t延胡索"
+  },
+  {
+    "node_1": "中药名\t延胡索",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  }
+]

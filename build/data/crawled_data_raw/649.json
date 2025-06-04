@@ -1,0 +1,72 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t小半夏汤"
+  },
+  {
+    "node_1": "方名\t小半夏汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t小半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t便自利"
+  },
+  {
+    "node_1": "方名\t小半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痰饮呕吐"
+  },
+  {
+    "node_1": "方名\t小半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t干呕呃逆"
+  },
+  {
+    "node_1": "方名\t小半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呕吐痰涎"
+  },
+  {
+    "node_1": "方名\t小半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白滑"
+  },
+  {
+    "node_1": "方名\t小半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口不渴"
+  },
+  {
+    "node_1": "方名\t小半夏汤",
+    "relation": "functions",
+    "node_2": "功能主治\t谷不得下"
+  },
+  {
+    "node_1": "方名\t小半夏汤",
+    "relation": "prescription type",
+    "node_2": "处方\t小半夏汤"
+  },
+  {
+    "node_1": "处方\t小半夏汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t20g"
+  },
+  {
+    "node_1": "处方\t小半夏汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜"
+  },
+  {
+    "node_1": "中药名\t生姜",
+    "relation": "dose",
+    "node_2": "剂量\t10g"
+  }
+]

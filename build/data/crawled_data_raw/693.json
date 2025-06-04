@@ -1,0 +1,212 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t右归丸"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "from",
+    "node_2": "来源\t《景岳全书》"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t温补肾阳"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t生障碍性贫血"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t畏寒肢冷"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t冠心病"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t腰膝软弱"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t小便自遗"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t更年期综合征"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性支气管炎"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t阳衰无子"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t填精益髓"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉而迟"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t命门火衰证"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t肾阳不足"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t年老或久病气衰神疲"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t饮食减少"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t大便不实"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t多囊卵巢综合征"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t阳痿遗精"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t右归丸",
+    "relation": "prescription type",
+    "node_2": "处方\t右归丸"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t熟地黄"
+  },
+  {
+    "node_1": "中药名\t熟地黄",
+    "relation": "dose",
+    "node_2": "剂量\t八两 (240g)"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t山药炒"
+  },
+  {
+    "node_1": "中药名\t山药炒",
+    "relation": "dose",
+    "node_2": "剂量\t四两 (120g)"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t山茱萸微炒"
+  },
+  {
+    "node_1": "中药名\t山茱萸微炒",
+    "relation": "dose",
+    "node_2": "剂量\t三两 (90g)"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t枸杞子微炒"
+  },
+  {
+    "node_1": "中药名\t枸杞子微炒",
+    "relation": "dose",
+    "node_2": "剂量\t三两 (90g)"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t菟丝子制"
+  },
+  {
+    "node_1": "中药名\t菟丝子制",
+    "relation": "dose",
+    "node_2": "剂量\t四两 (120g)"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t鹿角胶炒珠"
+  },
+  {
+    "node_1": "中药名\t鹿角胶炒珠",
+    "relation": "dose",
+    "node_2": "剂量\t四两 (120g)"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t杜仲姜汁炒"
+  },
+  {
+    "node_1": "中药名\t杜仲姜汁炒",
+    "relation": "dose",
+    "node_2": "剂量\t四两 (120g)"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t肉桂"
+  },
+  {
+    "node_1": "中药名\t肉桂",
+    "relation": "dose",
+    "node_2": "剂量\t二两 (60g)"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t三两 (90g)"
+  },
+  {
+    "node_1": "处方\t右归丸",
+    "relation": "composition",
+    "node_2": "中药名\t制附子"
+  },
+  {
+    "node_1": "中药名\t制附子",
+    "relation": "dose",
+    "node_2": "剂量\t二两，渐可加至五六两 (60~180g)"
+  }
+]

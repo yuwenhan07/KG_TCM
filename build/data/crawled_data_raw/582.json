@@ -1,0 +1,102 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t白头翁汤"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦数"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肛门灼热"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔黄"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t里急后重"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t渴欲饮水"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t赤多白少"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t下痢脓血"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t热毒痢疾"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "functions",
+    "node_2": "功能主治\t腹痛"
+  },
+  {
+    "node_1": "方名\t白头翁汤",
+    "relation": "prescription type",
+    "node_2": "处方\t白头翁汤"
+  },
+  {
+    "node_1": "处方\t白头翁汤",
+    "relation": "composition",
+    "node_2": "中药名\t白头翁"
+  },
+  {
+    "node_1": "中药名\t白头翁",
+    "relation": "dose",
+    "node_2": "剂量\t15g"
+  },
+  {
+    "node_1": "处方\t白头翁汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄连"
+  },
+  {
+    "node_1": "中药名\t黄连",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  },
+  {
+    "node_1": "处方\t白头翁汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏"
+  },
+  {
+    "node_1": "中药名\t黄柏",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  },
+  {
+    "node_1": "处方\t白头翁汤",
+    "relation": "composition",
+    "node_2": "中药名\t秦皮"
+  },
+  {
+    "node_1": "中药名\t秦皮",
+    "relation": "dose",
+    "node_2": "剂量\t12g"
+  }
+]

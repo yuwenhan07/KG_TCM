@@ -1,0 +1,81 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t香苏散"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛无汗"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t外感风寒"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒身热"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t不思饮食"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t气郁不舒证"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔薄白"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "functions",
+    "node_2": "功能主治\t胸脘痞闷"
+  },
+  {
+    "node_1": "方名\t香苏散",
+    "relation": "prescription type",
+    "node_2": "处方\t香苏散"
+  },
+  {
+    "node_1": "处方\t香苏散",
+    "relation": "composition",
+    "node_2": "中药名\t香附子(炒香，去毛)",
+    "weight": "120克"
+  },
+  {
+    "node_1": "处方\t香苏散",
+    "relation": "composition",
+    "node_2": "中药名\t紫苏叶",
+    "weight": "120克"
+  },
+  {
+    "node_1": "处方\t香苏散",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)",
+    "weight": "30克"
+  },
+  {
+    "node_1": "处方\t香苏散",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮(不去白)",
+    "weight": "60克"
+  }
+]

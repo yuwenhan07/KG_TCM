@@ -1,0 +1,82 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t半夏秫米汤"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "from",
+    "node_2": "来源\t《黄帝内经》"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "functions",
+    "node_2": "功能主治\t化痰和胃"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗失眠"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦滑"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃气不和"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "functions",
+    "node_2": "功能主治\t安神"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治痰饮内阻"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "functions",
+    "node_2": "功能主治\t夜不得卧"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t半夏秫米汤",
+    "relation": "prescription type",
+    "node_2": "处方\t半夏秫米汤"
+  },
+  {
+    "node_1": "处方\t半夏秫米汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏"
+  },
+  {
+    "node_1": "中药名\t半夏",
+    "relation": "dose",
+    "node_2": "剂量\t一钱(10克)"
+  },
+  {
+    "node_1": "处方\t半夏秫米汤",
+    "relation": "composition",
+    "node_2": "中药名\t秫米"
+  },
+  {
+    "node_1": "中药名\t秫米",
+    "relation": "dose",
+    "node_2": "剂量\t五钱(15克)"
+  }
+]

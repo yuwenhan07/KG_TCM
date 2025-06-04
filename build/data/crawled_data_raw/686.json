@@ -1,0 +1,197 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t大黄牡丹汤"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t右下腹肿痞"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肠痈初起"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疼痛拒按"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t苔黄腻"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t收敛固脱"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t湿热瘀滞证"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t按之痛如淋"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t时时发热"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t右足屈而不伸"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小便自调"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t消肿止痛"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t自汗恶寒"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t泻热破结"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t杀菌消炎"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t散结消肿"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉滑数"
+  },
+  {
+    "node_1": "方名\t大黄牡丹汤",
+    "relation": "prescription type",
+    "node_2": "处方\t大黄牡丹汤"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t大黄"
+  },
+  {
+    "node_1": "中药名\t大黄",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t芒硝"
+  },
+  {
+    "node_1": "中药名\t芒硝",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t红花"
+  },
+  {
+    "node_1": "中药名\t红花",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t桃仁"
+  },
+  {
+    "node_1": "中药名\t桃仁",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t牡丹皮"
+  },
+  {
+    "node_1": "中药名\t牡丹皮",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t苦参"
+  },
+  {
+    "node_1": "中药名\t苦参",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t白及"
+  },
+  {
+    "node_1": "中药名\t白及",
+    "relation": "dose",
+    "node_2": "剂量\t30g"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t冬瓜子"
+  },
+  {
+    "node_1": "中药名\t冬瓜子",
+    "relation": "dose",
+    "node_2": "剂量\t20g"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t五倍子"
+  },
+  {
+    "node_1": "中药名\t五倍子",
+    "relation": "dose",
+    "node_2": "剂量\t20g"
+  },
+  {
+    "node_1": "处方\t大黄牡丹汤",
+    "relation": "composition",
+    "node_2": "中药名\t艾叶"
+  },
+  {
+    "node_1": "中药名\t艾叶",
+    "relation": "dose",
+    "node_2": "剂量\t20g"
+  }
+]

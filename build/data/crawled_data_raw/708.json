@@ -1,0 +1,102 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t大补阴丸"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "from",
+    "node_2": "来源\t《丹溪心法》"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽咯血"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "functions",
+    "node_2": "功能主治\t骨蒸潮热"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "functions",
+    "node_2": "功能主治\t足膝疼热"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴降火"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦易怒"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红少苔"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "functions",
+    "node_2": "功能主治\t盗汗遗精"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "functions",
+    "node_2": "功能主治\t尺脉数而有力"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "functions",
+    "node_2": "功能主治\t阴虚火旺证"
+  },
+  {
+    "node_1": "方名\t大补阴丸",
+    "relation": "prescription type",
+    "node_2": "处方\t大补阴丸"
+  },
+  {
+    "node_1": "处方\t大补阴丸",
+    "relation": "composition",
+    "node_2": "中药名\t熟地黄酒蒸"
+  },
+  {
+    "node_1": "中药名\t熟地黄酒蒸",
+    "relation": "dose",
+    "node_2": "剂量\t六两 (180g)"
+  },
+  {
+    "node_1": "处方\t大补阴丸",
+    "relation": "composition",
+    "node_2": "中药名\t龟板酥炙"
+  },
+  {
+    "node_1": "中药名\t龟板酥炙",
+    "relation": "dose",
+    "node_2": "剂量\t六两 (180g)"
+  },
+  {
+    "node_1": "处方\t大补阴丸",
+    "relation": "composition",
+    "node_2": "中药名\t黄柏炒褐色"
+  },
+  {
+    "node_1": "中药名\t黄柏炒褐色",
+    "relation": "dose",
+    "node_2": "剂量\t四两 (120g)"
+  },
+  {
+    "node_1": "处方\t大补阴丸",
+    "relation": "composition",
+    "node_2": "中药名\t知母酒浸炒"
+  },
+  {
+    "node_1": "中药名\t知母酒浸炒",
+    "relation": "dose",
+    "node_2": "剂量\t四两 (120g)"
+  }
+]

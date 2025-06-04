@@ -1,0 +1,82 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t升陷汤"
+  },
+  {
+    "node_1": "方名\t升陷汤",
+    "relation": "from",
+    "node_2": "来源\t《医学衷中参西录》"
+  },
+  {
+    "node_1": "方名\t升陷汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸中大气下陷"
+  },
+  {
+    "node_1": "方名\t升陷汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气短不足以息"
+  },
+  {
+    "node_1": "方名\t升陷汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉迟微弱"
+  },
+  {
+    "node_1": "方名\t升陷汤",
+    "relation": "functions",
+    "node_2": "功能主治\t有似乎喘"
+  },
+  {
+    "node_1": "方名\t升陷汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或努力呼吸"
+  },
+  {
+    "node_1": "方名\t升陷汤",
+    "relation": "functions",
+    "node_2": "功能主治\t举陷升阳"
+  },
+  {
+    "node_1": "方名\t升陷汤",
+    "relation": "functions",
+    "node_2": "功能主治\t补益肺气"
+  },
+  {
+    "node_1": "方名\t升陷汤",
+    "relation": "prescription type",
+    "node_2": "处方\t升陷汤"
+  },
+  {
+    "node_1": "处方\t升陷汤",
+    "relation": "composition",
+    "node_2": "中药名\t生黄芪",
+    "weight": "六钱(18g)"
+  },
+  {
+    "node_1": "处方\t升陷汤",
+    "relation": "composition",
+    "node_2": "中药名\t知母",
+    "weight": "三钱(9g)"
+  },
+  {
+    "node_1": "处方\t升陷汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "一钱五分(5g)"
+  },
+  {
+    "node_1": "处方\t升陷汤",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗",
+    "weight": "一钱五分(5g)"
+  },
+  {
+    "node_1": "处方\t升陷汤",
+    "relation": "composition",
+    "node_2": "中药名\t升麻",
+    "weight": "一钱(3g)"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t参附汤"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "from",
+    "node_2": "来源\t宋·《妇人良方大全》"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主治元气大亏"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色苍白"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t现用于心力衰竭见有上述症状者"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢不温"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脐腹疼痛"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阳气暴脱"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t大便自利"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t汗出粘冷"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气回阳救脱"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t上气喘急"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉微欲绝"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呼吸微弱"
+  },
+  {
+    "node_1": "方名\t参附汤",
+    "relation": "prescription type",
+    "node_2": "处方\t参附汤"
+  },
+  {
+    "node_1": "处方\t参附汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t一两(30克)"
+  },
+  {
+    "node_1": "处方\t参附汤",
+    "relation": "composition",
+    "node_2": "中药名\t附子"
+  },
+  {
+    "node_1": "中药名\t附子",
+    "relation": "dose",
+    "node_2": "剂量\t半两(10克)"
+  }
+]

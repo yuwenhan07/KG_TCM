@@ -1,0 +1,212 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t蠲（juān）痹汤4"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "from",
+    "node_2": "来源\t《杨氏家藏方》；《医学心悟》；《嵩崖尊生》卷七；《金鉴》卷三十九"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗类风湿关节炎"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t手肿痛"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t除湿"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t肢体重着"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风散寒"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t遇阴雨寒冷则加剧"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t或指掌连臂膊痛"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t舌苔白腻"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦紧"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t手气"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t强直性脊柱炎"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t颈椎病"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t常用于治疗风湿痹证"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t四肢厥冷"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t冷痹"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t通治风寒湿三气合而成痹"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t活动不利"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t祛风除湿"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t主治风寒湿邪所致的痹证"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t膝骨关节炎"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t散寒通络"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t眼科常用于治疗风湿引起的巩膜炎"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t关节酸痛"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t得热则减"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "functions",
+    "node_2": "功能主治\t痹病而身寒无热"
+  },
+  {
+    "node_1": "方名\t蠲（juān）痹汤4",
+    "relation": "prescription type",
+    "node_2": "处方\t蠲（juān）痹汤4"
+  },
+  {
+    "node_1": "处方\t蠲（juān）痹汤4",
+    "relation": "composition",
+    "node_2": "中药名\t附子"
+  },
+  {
+    "node_1": "中药名\t附子",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t蠲（juān）痹汤4",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t蠲（juān）痹汤4",
+    "relation": "composition",
+    "node_2": "中药名\t黄耆"
+  },
+  {
+    "node_1": "中药名\t黄耆",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t蠲（juān）痹汤4",
+    "relation": "composition",
+    "node_2": "中药名\t炙草"
+  },
+  {
+    "node_1": "中药名\t炙草",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t蠲（juān）痹汤4",
+    "relation": "composition",
+    "node_2": "中药名\t官桂"
+  },
+  {
+    "node_1": "中药名\t官桂",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t蠲（juān）痹汤4",
+    "relation": "composition",
+    "node_2": "中药名\t羌活"
+  },
+  {
+    "node_1": "中药名\t羌活",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t蠲（juān）痹汤4",
+    "relation": "composition",
+    "node_2": "中药名\t防风"
+  },
+  {
+    "node_1": "中药名\t防风",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  }
+]

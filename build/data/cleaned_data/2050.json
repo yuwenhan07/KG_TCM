@@ -1,0 +1,155 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t建瓯汤"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "from",
+    "node_2": "来源\t《医学衷中参西录》"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗耳鸣目胀"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗室性期前收缩"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗头目眩晕"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗口眼歪斜"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗肝阳上亢"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗脉弦长而硬"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t镇肝熄风"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗高血压"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗偏头痛"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t滋阴安神"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗心脏神经症"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗舌强言语不利"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗脑梗死"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗出血性鼻窦炎"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗心悸健忘"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗半身麻木不遂"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t临床主要用于治疗顽固性呃逆"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗烦躁不宁"
+  },
+  {
+    "node_1": "方名\t建瓯汤",
+    "relation": "prescription type",
+    "node_2": "处方\t建瓯汤"
+  },
+  {
+    "node_1": "处方\t建瓯汤",
+    "relation": "composition",
+    "node_2": "中药名\t生怀山药",
+    "weight": "30克"
+  },
+  {
+    "node_1": "处方\t建瓯汤",
+    "relation": "composition",
+    "node_2": "中药名\t怀牛膝",
+    "weight": "30克"
+  },
+  {
+    "node_1": "处方\t建瓯汤",
+    "relation": "composition",
+    "node_2": "中药名\t生赭石",
+    "weight": "24克（轧细）"
+  },
+  {
+    "node_1": "处方\t建瓯汤",
+    "relation": "composition",
+    "node_2": "中药名\t生龙骨",
+    "weight": "18克（捣细）"
+  },
+  {
+    "node_1": "处方\t建瓯汤",
+    "relation": "composition",
+    "node_2": "中药名\t生牡蛎",
+    "weight": "18克（捣细）"
+  },
+  {
+    "node_1": "处方\t建瓯汤",
+    "relation": "composition",
+    "node_2": "中药名\t生怀地黄",
+    "weight": "18克"
+  },
+  {
+    "node_1": "处方\t建瓯汤",
+    "relation": "composition",
+    "node_2": "中药名\t生杭芍",
+    "weight": "12克"
+  },
+  {
+    "node_1": "处方\t建瓯汤",
+    "relation": "composition",
+    "node_2": "中药名\t柏子仁",
+    "weight": "12克"
+  }
+]

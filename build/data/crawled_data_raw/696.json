@@ -1,0 +1,127 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t归脾汤"
+  },
+  {
+    "node_1": "方名\t归脾汤",
+    "relation": "from",
+    "node_2": "来源\t《正体类要》"
+  },
+  {
+    "node_1": "方名\t归脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t健脾养心"
+  },
+  {
+    "node_1": "方名\t归脾汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气补血"
+  },
+  {
+    "node_1": "方名\t归脾汤",
+    "relation": "prescription type",
+    "node_2": "处方\t归脾汤"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t白茯苓"
+  },
+  {
+    "node_1": "中药名\t白茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芪(炒)"
+  },
+  {
+    "node_1": "中药名\t黄芪(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t龙眼肉"
+  },
+  {
+    "node_1": "中药名\t龙眼肉",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t远志"
+  },
+  {
+    "node_1": "中药名\t远志",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t酸枣仁(炒)"
+  },
+  {
+    "node_1": "中药名\t酸枣仁(炒)",
+    "relation": "dose",
+    "node_2": "剂量\t适量"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t3g"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t木香"
+  },
+  {
+    "node_1": "中药名\t木香",
+    "relation": "dose",
+    "node_2": "剂量\t1.5g"
+  },
+  {
+    "node_1": "处方\t归脾汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(炙)"
+  },
+  {
+    "node_1": "中药名\t甘草(炙)",
+    "relation": "dose",
+    "node_2": "剂量\t1g"
+  }
+]

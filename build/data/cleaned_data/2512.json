@@ -1,0 +1,122 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t越婢汤"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》》"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗荨麻疹"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t一身悉肿"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t风水恶风（风水夹热证）"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发汗利水"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗类风湿关节炎"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t续自汗出"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗急性支气管炎"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗急性肾炎"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗肝硬化"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗哮喘"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗特发性水肿"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗甲状腺功能减退症"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗外感高热"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t无大热者"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮不渴"
+  },
+  {
+    "node_1": "方名\t越婢汤",
+    "relation": "prescription type",
+    "node_2": "处方\t越婢汤"
+  },
+  {
+    "node_1": "处方\t越婢汤",
+    "relation": "composition",
+    "node_2": "中药名\t麻黄",
+    "weight": "六两(18克)"
+  },
+  {
+    "node_1": "处方\t越婢汤",
+    "relation": "composition",
+    "node_2": "中药名\t石膏",
+    "weight": "半斤(24克)"
+  },
+  {
+    "node_1": "处方\t越婢汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "三两(9克)"
+  },
+  {
+    "node_1": "处方\t越婢汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "二两(6克)"
+  },
+  {
+    "node_1": "处方\t越婢汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "十五枚(5枚)"
+  }
+]

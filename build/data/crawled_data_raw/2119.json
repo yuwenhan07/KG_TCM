@@ -1,0 +1,202 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t益经汤"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "from",
+    "node_2": "来源\t《傅青主女科》卷上"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头晕耳鸣"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t症见月经量渐少，周期不定而至停闭"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心悸怔忡"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t年未七七，经水先断者"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t滋防养血"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉沉弱或沉弦"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t食少便溏"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌质淡，苔薄白"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或少腹胀满"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t伴见腰膝酸软"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t心烦易怒"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t失眠健忘"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治妇女心、肝、脾经气郁"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t疏肝解郁"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "functions",
+    "node_2": "功能主治\t闭经"
+  },
+  {
+    "node_1": "方名\t益经汤",
+    "relation": "prescription type",
+    "node_2": "处方\t益经汤"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t大熟地"
+  },
+  {
+    "node_1": "中药名\t大熟地",
+    "relation": "dose",
+    "node_2": "剂量\t30克（九蒸）"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t30克（土炒）"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t山药"
+  },
+  {
+    "node_1": "中药名\t山药",
+    "relation": "dose",
+    "node_2": "剂量\t15克（炒）"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t当归"
+  },
+  {
+    "node_1": "中药名\t当归",
+    "relation": "dose",
+    "node_2": "剂量\t15克（酒洗）"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t白芍"
+  },
+  {
+    "node_1": "中药名\t白芍",
+    "relation": "dose",
+    "node_2": "剂量\t9克（酒炒）"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t生枣仁"
+  },
+  {
+    "node_1": "中药名\t生枣仁",
+    "relation": "dose",
+    "node_2": "剂量\t9克（捣碎）"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t丹皮"
+  },
+  {
+    "node_1": "中药名\t丹皮",
+    "relation": "dose",
+    "node_2": "剂量\t6克"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t沙参"
+  },
+  {
+    "node_1": "中药名\t沙参",
+    "relation": "dose",
+    "node_2": "剂量\t9克"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡"
+  },
+  {
+    "node_1": "中药名\t柴胡",
+    "relation": "dose",
+    "node_2": "剂量\t3克"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t杜仲"
+  },
+  {
+    "node_1": "中药名\t杜仲",
+    "relation": "dose",
+    "node_2": "剂量\t3克（炒黑）"
+  },
+  {
+    "node_1": "处方\t益经汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t6克"
+  }
+]

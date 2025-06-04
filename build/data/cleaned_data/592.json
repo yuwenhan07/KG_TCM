@@ -1,0 +1,141 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t普济消毒饮"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "from",
+    "node_2": "来源\t《东垣试效方》"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "functions",
+    "node_2": "功能主治\t头面红肿焮痛"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "functions",
+    "node_2": "功能主治\t目不能开"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "functions",
+    "node_2": "功能主治\t咽喉不利"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "functions",
+    "node_2": "功能主治\t大头瘟"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌燥口渴"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "functions",
+    "node_2": "功能主治\t脉浮数有力"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红苔白而黄"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "functions",
+    "node_2": "功能主治\t恶寒发热"
+  },
+  {
+    "node_1": "方名\t普济消毒饮",
+    "relation": "prescription type",
+    "node_2": "处方\t普济消毒饮"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩(酒炒)",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t黄连(酒炒)",
+    "weight": "15克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t陈皮(去白)",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t甘草(生用)",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t玄参",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t桔梗",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t连翘",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t板蓝根",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t马勃",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t牛蒡子",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t薄荷",
+    "weight": "3克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t僵蚕",
+    "weight": "2克"
+  },
+  {
+    "node_1": "处方\t普济消毒饮",
+    "relation": "composition",
+    "node_2": "中药名\t升麻",
+    "weight": "2克"
+  }
+]

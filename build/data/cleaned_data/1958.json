@@ -1,0 +1,261 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t柴胡桂枝汤"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "from",
+    "node_2": "来源\t《伤寒论》"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t头痛项强"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t流行性出血热轻型"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t痹症"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胆囊炎"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸胁痛满"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t微恶寒"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃脘痛"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发热自汗"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胆石症"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t夜尿症"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t发热"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t小儿厌食证"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t喘证"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胸膜炎"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t原因不明的发热"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肋间神经痛"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t肝炎"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胰腺炎"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕症"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调和营卫"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t鼻鸣干呕"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胁痛"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t儿童精神性起立调节障碍"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉弦或浮大"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性鼻窦炎"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t急性肾盂肾炎"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t咳嗽"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t具有少阳兼太阳病机者"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呕吐"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗癫痫"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t主外感风寒"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t寒热往来"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t和解少阳"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治太少同感"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t水肿"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃及十二指肠溃疡"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t荨麻疹"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "functions",
+    "node_2": "功能主治\t产后发热"
+  },
+  {
+    "node_1": "方名\t柴胡桂枝汤",
+    "relation": "prescription type",
+    "node_2": "处方\t柴胡桂枝汤"
+  },
+  {
+    "node_1": "处方\t柴胡桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t柴胡",
+    "weight": "四两（12g）"
+  },
+  {
+    "node_1": "处方\t柴胡桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "一两半（4.5g）"
+  },
+  {
+    "node_1": "处方\t柴胡桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t黄芩",
+    "weight": "一两半（4.5g）"
+  },
+  {
+    "node_1": "处方\t柴胡桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "一两半（4.5g）"
+  },
+  {
+    "node_1": "处方\t柴胡桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "一两（3g）"
+  },
+  {
+    "node_1": "处方\t柴胡桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t半夏",
+    "weight": "二合半（6g）"
+  },
+  {
+    "node_1": "处方\t柴胡桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "一两半（4.5g）"
+  },
+  {
+    "node_1": "处方\t柴胡桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "六枚"
+  },
+  {
+    "node_1": "处方\t柴胡桂枝汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "一两半（4.5g）"
+  }
+]

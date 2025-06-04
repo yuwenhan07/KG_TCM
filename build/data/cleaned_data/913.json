@@ -1,0 +1,259 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t桂枝加龙骨牡蛎汤"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "from",
+    "node_2": "来源\t《金匮要略》卷上"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t早泄"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t失眠"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t调阴阳"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t围绝经期综合征"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉象极虚芤迟"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t消化不良"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t眩晕"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t或芤动微紧"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治疗咳嗽变异性哮喘"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性前列腺炎"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t抑郁症"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t更年期综合征"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t和营卫"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神经衰弱"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t阴头寒"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t神经衰弱症"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t高血压合并睡眠障碍"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脂溢性脱发"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t膀胱过度活动症"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t过敏性鼻炎"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t目眩发落"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t交通心肾"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t奔豚"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t儿童多动症"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t性交恐惧症"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t少腹弦急"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t夜梦遗精"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治下焦虚寒"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t交叉擦腿综合征"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t抽动秽语综合征"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t放疗中皮肤损伤"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t振奋心阳"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t遗精"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t夜惊"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t频发室早"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t治虚劳阴阳两虚"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t镇纳固摄"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t慢性宫颈炎"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脐下动悸之遗尿证"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "functions",
+    "node_2": "功能主治\t少腹拘急"
+  },
+  {
+    "node_1": "方名\t桂枝加龙骨牡蛎汤",
+    "relation": "prescription type",
+    "node_2": "处方\t桂枝加龙骨牡蛎汤"
+  },
+  {
+    "node_1": "处方\t桂枝加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t桂枝",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t桂枝加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t芍药",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t桂枝加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t桂枝加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "6克"
+  },
+  {
+    "node_1": "处方\t桂枝加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "12枚（3~5枚）"
+  },
+  {
+    "node_1": "处方\t桂枝加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t龙骨",
+    "weight": "9克"
+  },
+  {
+    "node_1": "处方\t桂枝加龙骨牡蛎汤",
+    "relation": "composition",
+    "node_2": "中药名\t牡蛎",
+    "weight": "9克"
+  }
+]

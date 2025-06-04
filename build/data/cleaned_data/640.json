@@ -1,0 +1,83 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t橘皮竹茹汤"
+  },
+  {
+    "node_1": "方名\t橘皮竹茹汤",
+    "relation": "from",
+    "node_2": "来源\t《金匱要略》"
+  },
+  {
+    "node_1": "方名\t橘皮竹茹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌红嫩"
+  },
+  {
+    "node_1": "方名\t橘皮竹茹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t虚烦少气"
+  },
+  {
+    "node_1": "方名\t橘皮竹茹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t呃逆或干呕"
+  },
+  {
+    "node_1": "方名\t橘皮竹茹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t口干"
+  },
+  {
+    "node_1": "方名\t橘皮竹茹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t胃虚有热之呃逆"
+  },
+  {
+    "node_1": "方名\t橘皮竹茹汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚数"
+  },
+  {
+    "node_1": "方名\t橘皮竹茹汤",
+    "relation": "prescription type",
+    "node_2": "处方\t橘皮竹茹汤"
+  },
+  {
+    "node_1": "处方\t橘皮竹茹汤",
+    "relation": "composition",
+    "node_2": "中药名\t橘皮",
+    "weight": "二斤 (12g)"
+  },
+  {
+    "node_1": "处方\t橘皮竹茹汤",
+    "relation": "composition",
+    "node_2": "中药名\t竹茹",
+    "weight": "二升 (12g)"
+  },
+  {
+    "node_1": "处方\t橘皮竹茹汤",
+    "relation": "composition",
+    "node_2": "中药名\t大枣",
+    "weight": "三十枚 (5枚)"
+  },
+  {
+    "node_1": "处方\t橘皮竹茹汤",
+    "relation": "composition",
+    "node_2": "中药名\t生姜",
+    "weight": "半斤 (9g)"
+  },
+  {
+    "node_1": "处方\t橘皮竹茹汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草",
+    "weight": "五两 (6g)"
+  },
+  {
+    "node_1": "处方\t橘皮竹茹汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参",
+    "weight": "一两 (3g)"
+  }
+]

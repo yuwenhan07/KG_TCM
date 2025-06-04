@@ -1,0 +1,97 @@
+[
+  {
+    "node_1": "方剂\t方剂",
+    "relation": "include",
+    "node_2": "方名\t四君子汤"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "from",
+    "node_2": "来源\t《太平惠民和剂局方》"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t气短乏力"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t益气健脾"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t语声低微"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t食少便溏"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t面色萎白"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t舌淡苔白"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脾胃气虚证"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "functions",
+    "node_2": "功能主治\t脉虚弱"
+  },
+  {
+    "node_1": "方名\t四君子汤",
+    "relation": "prescription type",
+    "node_2": "处方\t四君子汤"
+  },
+  {
+    "node_1": "处方\t四君子汤",
+    "relation": "composition",
+    "node_2": "中药名\t人参"
+  },
+  {
+    "node_1": "中药名\t人参",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t四君子汤",
+    "relation": "composition",
+    "node_2": "中药名\t白术"
+  },
+  {
+    "node_1": "中药名\t白术",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t四君子汤",
+    "relation": "composition",
+    "node_2": "中药名\t茯苓"
+  },
+  {
+    "node_1": "中药名\t茯苓",
+    "relation": "dose",
+    "node_2": "剂量\t9g"
+  },
+  {
+    "node_1": "处方\t四君子汤",
+    "relation": "composition",
+    "node_2": "中药名\t甘草"
+  },
+  {
+    "node_1": "中药名\t甘草",
+    "relation": "dose",
+    "node_2": "剂量\t6g"
+  }
+]
