@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 
 # Neo4j database connection
-driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "1qaz2wsx"))
+driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "password"))
 
 # Query Neo4j and build a graph
 def build_graph(symptom):
