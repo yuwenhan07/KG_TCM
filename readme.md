@@ -1,106 +1,110 @@
 # 中医药知识图谱系统
 
-本项目基于中医药数据构建知识图谱，并提供可视化 Web 界面进行交互式查询。系统分为图谱构建模块和用户界面模块两部分。
+本项目旨在构建一个基于中医药数据的知识图谱，并提供可视化和问答功能的 Web 界面，实现用户输入症状后自动推荐相关中药配方。
+
+![webui](pic/webui.png)
+---
 
 ## 📁 项目结构
 
 ```
 .
-├── build/                 # 图谱构建相关内容
-│   ├── Crawler/           # 数据抓取模块
-│   ├── data/              # 原始数据文件
+├── build/                 # 图谱构建与数据处理模块
+│   ├── Crawler/           # 中医药数据抓取脚本（如 tcm_crawler.py）
+│   ├── data/              # 原始与清洗后数据
+│   │   ├── cleaned_data/  # 清洗后的数据
+│   │   ├── crawled_data_raw/ # 原始抓取结果
+│   │   ├── combine.py     # 数据合并脚本
+│   │   ├── data_clean.py  # 数据清洗脚本
+│   │   ├── TCM.json       # 主数据文件
+│   │   └── tcm_knowledge_graph_1.json # 图谱中间结构
 │   ├── KG_build.py        # 图谱构建主程序
-│   └── TCM-2.dump         # 图数据库或构建输出数据
-├── readme.md              # 项目说明文件
-└── UI/                    # 用户界面模块
-    ├── app.py             # Flask 后端主程序
-    ├── lib/               # 后端逻辑库
-    ├── static/            # 前端静态资源（CSS/JS）
-    └── templates/         # HTML 模板
+│   └── TCM.dump           # 构建结果输出
+├── Script/
+│   └── answer.py          # 基于大模型的问答脚本
+├── UI/                    # 用户界面模块
+│   ├── app_origin.py      # 原始版本（仅图谱查询）
+│   ├── app_answer.py      # 增强版本（图谱 + 模型建议）
+│   ├── lib/               # 第三方可视化库等
+│   ├── static/            # 前端静态资源（如图谱HTML）
+│   └── templates/         # HTML 模板页面
+│       ├── index.html
+│       └── index_answer.html
+├── readme.md              # 项目说明文档
+├── requirements.txt       # Python 依赖说明
 ```
 
-## 🚀 功能简介
+---
 
-- 抓取中医药相关症状与药物数据
-- 构建实体与关系组成的知识图谱
-- 提供 Web 页面查询界面，用户输入症状，返回推荐中药
-- 使用图谱可视化展示症状与药物之间的连接
+## 🚀 核心功能
+
+- 🔍 用户输入症状，系统返回推荐中药配方
+- 🌐 图谱可视化展示症状与中药的关系网络
+- 🤖 集成大模型自动生成治疗建议（通过 `answer.py` 实现）
+
+---
 
 ## 🛠 技术栈
 
 - 后端：Python, Flask
-- 数据处理与图谱：networkx, pyvis, Neo4j（如有）
+- 图谱构建与可视化：NetworkX, PyVis
 - 前端：HTML, CSS, JavaScript
+- 大模型接入：通过子进程调用本地或远程模型脚本
+
+---
 
 ## 🔧 使用方法
 
-1. 安装依赖（可根据你的依赖文件调整）：
+1. 启动 Neo4j 服务：
+
+   请确保本地已安装并运行 Neo4j 图数据库，可通过以下命令启动：
+
+   ```bash
+   neo4j start
+   ```
+
+   默认服务地址为：`bolt://localhost:7687`，用户名密码配置请在代码中调整。
+
+2. 安装依赖：
+
    ```bash
    pip install -r requirements.txt
    ```
 
-2. 构建图谱（可选）：
+3. （可选）重新构建知识图谱：
+
    ```bash
    cd build
    python KG_build.py
    ```
 
-3. 启动 Web 服务：
+4. 启动服务：
+   
    ```bash
    cd UI
-   python app.py
+   python app_answer.py  # 启动包含模型建议的版本
+   ```
+   ```bash
+   cd UI
+   python app_origin.py  # 启动不包含模型建议的版本
    ```
 
-4. 访问浏览器：
+5. 访问 Web 页面：
+
    ```
    http://localhost:7687
    ```
+
+---
+![图像示例](pic/中医药知识图谱系统.png)
+
+---
 
 ## 📌 注意事项
 
-- 本系统用于中医药知识的教学与研究，不可直接用于临床诊断。
-- 若需拓展新数据或关系，请更新 `build/data/` 并修改 `KG_build.py`。
+- 本项目为教学和科研用途，所提供建议不可直接用于临床医疗。
+- 若需接入自定义大模型，请根据 `Script/answer.py` 接口进行调整。
 
+---
 
-本项目构建了一个基于中医药数据的知识图谱系统，结合 Web 界面可视化和用户查询功能，帮助用户了解症状与相关中药的关联。
-
-## 功能简介
-
-- 支持用户输入症状，查询推荐中药配方
-- 图谱可视化展示症状与中药之间的知识关系
-- 使用 Flask 搭建后端服务，前端采用 HTML/CSS 实现交互界面
-
-## 技术栈
-
-- 后端：Python, Flask
-- 前端：HTML, CSS, JavaScript (部分)
-- 图谱引擎：基于 networkx 和 pyvis 实现图谱构建与可视化
-
-## 使用方法
-
-1. 安装依赖：
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. 启动服务：
-   ```bash
-   python app.py
-   ```
-
-3. 在浏览器访问：
-   ```
-   http://localhost:7687
-   ```
-
-## 文件结构
-
-- `app.py`：主后端程序
-- `templates/`：前端 HTML 模板
-- `static/`：静态资源
-- `data/`：中医药症状与中药数据文件
-- `graph/`：知识图谱构建脚本与中间结果
-
-## 说明
-
-本系统仅供中医药教学与研究用途，不可作为临床诊断依据。
+本系统融合中医药知识图谱与大语言模型能力，为症状与药方间的关联探索提供智能交互方式。
