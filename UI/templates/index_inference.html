@@ -2,7 +2,7 @@
 <html lang="zh">
 <head>
   <meta charset="UTF-8">
-  <title>中医药知识图谱系统</title>
+  <title>多种中医药共用查询系统</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -92,10 +92,10 @@
 </head>
 <body>
   <div class="container">
-    <h1>中医药知识图谱系统</h1>
+    <h1>多种中医药共用查询系统</h1>
     <form method="POST">
-      <label for="symptom">请输入你的症状：</label>
-      <input type="text" id="symptom" name="symptom" placeholder="如：头晕" required value="{{ request.form.get('symptom', '') }}">
+      <label for="symptom">请输入要查询的两种药材：</label>
+      <input type="text" id="symptom" name="symptom" placeholder="如：藿香正气丸和癫狂梦醒汤可以一起服用吗？" required value="{{ request.form.get('symptom', '') }}">
       <input type="submit" value="查询">
       <a href="/" style="margin-left: 10px;">
         <input type="button" value="重置">
@@ -134,7 +134,7 @@
             </tr>
             {% endfor %}
           </table>
-          <h2>用药建议：</h2>
+          <h2>共用建议结果：</h2>
           <div id="model-reply" style="white-space: pre-wrap; line-height: 1.6;">正在生成模型建议，请稍候...</div>
           <script>
             fetch("/suggest", {

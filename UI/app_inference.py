@@ -20,22 +20,32 @@ driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "1qaz2wsx"
 
 # 查询 Neo4j 并构建图谱
 def build_graph(symptom):
+    import re
+    match = re.match(r"(.*)和(.*)可以一起服用吗？", symptom.strip())
     with driver.session() as session:
-        # query = """
-        #     MATCH (fj:方剂)-[:包含]->(fn:方名)-[:功能主治]->(gn:功能主治)
-        #     WHERE gn.name CONTAINS $symptom
-        #     MATCH (fn)-[:配方]->(cf:处方)-[:中药组成]->(herb:中药名)
-        #     RETURN fj, fn, gn, cf, herb
-        # """
-        query = """
-        MATCH (fj:方剂)-[:包含]->(fn:方名)-[:功能主治]->(gn:功能主治)
-        WHERE gn.name CONTAINS $symptom
-        MATCH (fn)-[:配方]->(cf:处方)
-        WITH DISTINCT fj, fn, gn, cf
-        MATCH (cf)-[:中药组成]->(herb:中药名)
-        RETURN fj, fn, gn, cf, herb
-        """
-        result = list(session.run(query, symptom=symptom))
+        if match:
+            formula1 = match.group(1).strip()
+            formula2 = match.group(2).strip()
+            query = """
+            MATCH (fn:方名)
+            WHERE fn.name IN [$formula1, $formula2]
+            OPTIONAL MATCH (fn)<-[:包含]-(fj:方剂)
+            OPTIONAL MATCH (fn)-[:功能主治]->(gn:功能主治)
+            OPTIONAL MATCH (fn)-[:配方]->(cf:处方)-[:中药组成]->(herb:中药名)
+            RETURN DISTINCT fj, fn, gn, cf, herb
+            """
+            result = list(session.run(query, formula1=formula1, formula2=formula2))
+        else:
+            query = """
+            MATCH (fj:方剂)-[:包含]->(fn:方名)-[:功能主治]->(gn:功能主治)
+            WHERE gn.name CONTAINS $symptom
+            MATCH (fn)-[:配方]->(cf:处方)
+            WITH DISTINCT fj, fn, gn, cf
+            MATCH (cf)-[:中药组成]->(herb:中药名)
+            RETURN fj, fn, gn, cf, herb
+            """
+            result = list(session.run(query, symptom=symptom))
+
         if not result:
             return None, []
 
@@ -54,9 +64,10 @@ def build_graph(symptom):
                 }
             }
             }
-            ''')
+        ''')
         nodes = set()
         edges = set()
+
         def add_edge(source, target, label):
             edge_key = (source, target, label)
             if edge_key not in edges:
@@ -89,25 +100,38 @@ def build_graph(symptom):
                     )
                 return node_id
 
-            id_fj = add_node(fj, "方剂")
-            id_fn = add_node(fn, "方名")
-            id_gn = add_node(gn, "功能主治")
-            id_cf = add_node(cf, "处方")
-            id_herb = add_node(herb, "中药名")
+            if fn:
+                id_fn = add_node(fn, "方名")
+            if fj:
+                id_fj = add_node(fj, "方剂")
+                add_edge(id_fj, id_fn, "包含")
+            if gn:
+                id_gn = add_node(gn, "功能主治")
+                add_edge(id_fn, id_gn, "功能主治")
+            if cf:
+                id_cf = add_node(cf, "处方")
+                add_edge(id_fn, id_cf, "配方")
+            if herb:
+                id_herb = add_node(herb, "中药名")
+                add_edge(id_cf, id_herb, "中药组成")
 
-            add_edge(id_fj, id_fn, "包含")
-            add_edge(id_fn, id_gn, "功能主治")
-            add_edge(id_fn, id_cf, "配方")
-            add_edge(id_cf, id_herb, "中药组成")
-
-        query = """
+        if match:
+            data_result = session.run("""
+            MATCH (fn:方名)
+            WHERE fn.name IN [$formula1, $formula2]
+            MATCH (fn)-[:配方]->(cf:处方)-[r:中药组成]->(herb)
+            OPTIONAL MATCH (fn)-[:功能主治]->(hgn:功能主治)
+            RETURN fn.name AS formula_name, herb.name AS herb_name, r.weight AS weight, collect(DISTINCT hgn.name) AS herb_gn
+            """, formula1=formula1, formula2=formula2)
+        else:
+            data_result = session.run("""
             MATCH (fj:方剂)-[:包含]->(fn:方名)-[:功能主治]->(gn:功能主治)
             WHERE gn.name CONTAINS $symptom
             MATCH (fn)-[:配方]->(cf:处方)-[r:中药组成]->(herb)
             OPTIONAL MATCH (fn)-[:功能主治]->(hgn:功能主治)
             RETURN fn.name AS formula_name, herb.name AS herb_name, r.weight AS weight, collect(DISTINCT hgn.name) AS herb_gn
-        """
-        data_result = session.run(query, symptom=symptom)
+            """, symptom=symptom)
+
         table_data = [{
             "方名": record["formula_name"],
             "中药": record["herb_name"],
@@ -127,8 +151,8 @@ def suggest_treatment(table_data, symptom):
                 line = f"{item['方名']}：{item['中药功能主治'] or '暂无说明'}"
                 unique_facts.add(line)
             facts = "\n".join(unique_facts)
-            user_question = f"我最近出现了症状：{symptom}，可以用哪些中药治疗？"
-            prompt = "请根据以下中药方名和主治功能，给出中药建议：\n"+facts+"\n用户问题："+user_question
+            user_question = f"查看这两个中药的名称与主治功能：{symptom}"
+            prompt = "请根据以下中药方名和主治功能，回答问题：\n"+facts+"\n用户问题："+user_question
             script_path = "../Script/answer.py"
             try:
                 result = subprocess.run(
@@ -141,7 +165,7 @@ def suggest_treatment(table_data, symptom):
             except Exception as e:
                 model_reply = f"生成回复出错：{e}"
         else:
-            model_reply = "未找到相关方剂和中药信息，建议您尝试更通用的症状描述。"
+            model_reply = "未找到相关方剂和中药信息，建议您尝试更通用的药物名称。"
         # print(f"Model reply: {model_reply}")
         return model_reply
 
@@ -155,7 +179,7 @@ def index():
         symptom = request.form.get('symptom')
         if symptom:
             graph_path, table_data= build_graph(symptom)
-    return render_template('index_answer.html', graph_path=graph_path, table_data=table_data)
+    return render_template('index_inference.html', graph_path=graph_path, table_data=table_data)
 
 @app.route('/suggest', methods=['POST'])
 def suggest():

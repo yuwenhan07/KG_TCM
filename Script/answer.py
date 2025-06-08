@@ -1,5 +1,5 @@
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "8,9"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1,2"
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import sys
 import json
